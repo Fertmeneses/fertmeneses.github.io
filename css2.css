@@ -1,0 +1,469 @@
+/* @license GPL-2.0-or-later https://www.drupal.org/licensing/faq */
+.text-align-left {
+    text-align: left;
+}
+
+.text-align-right {
+    text-align: right;
+}
+
+.text-align-center {
+    text-align: center;
+}
+
+.text-align-justify {
+    text-align: justify;
+}
+
+.align-left {
+    float: left;
+}
+
+.align-right {
+    float: right;
+}
+
+.align-center {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.fieldgroup {
+    padding: 0;
+    border-width: 0;
+}
+
+.container-inline div,.container-inline label {
+    display: inline-block;
+}
+
+.container-inline .details-wrapper {
+    display: block;
+}
+
+.clearfix::after {
+    display: table;
+    clear: both;
+    content: "";
+}
+
+.js details:not([open]) .details-wrapper {
+    display: none;
+}
+
+.hidden {
+    display: none;
+}
+
+.visually-hidden {
+    position: absolute !important;
+    overflow: hidden;
+    clip: rect(1px,1px,1px,1px);
+    width: 1px;
+    height: 1px;
+    word-wrap: normal;
+}
+
+.visually-hidden.focusable:active,.visually-hidden.focusable:focus {
+    position: static !important;
+    overflow: visible;
+    clip: auto;
+    width: auto;
+    height: auto;
+}
+
+.invisible {
+    visibility: hidden;
+}
+
+.item-list__comma-list,.item-list__comma-list li {
+    display: inline;
+}
+
+.item-list__comma-list {
+    margin: 0;
+    padding: 0;
+}
+
+.item-list__comma-list li::after {
+    content: ", ";
+}
+
+.item-list__comma-list li:last-child::after {
+    content: "";
+}
+
+.js .js-hide {
+    display: none;
+}
+
+.js-show {
+    display: none;
+}
+
+.js .js-show {
+    display: block;
+}
+
+.nowrap {
+    white-space: nowrap;
+}
+
+.position-container {
+    position: relative;
+}
+
+.reset-appearance {
+    margin: 0;
+    padding: 0;
+    border: 0 none;
+    background: transparent;
+    line-height: inherit;
+    -webkit-appearance: none;
+    appearance: none;
+}
+
+.resize-none {
+    resize: none;
+}
+
+.resize-vertical {
+    min-height: 2em;
+    resize: vertical;
+}
+
+.resize-horizontal {
+    max-width: 100%;
+    resize: horizontal;
+}
+
+.resize-both {
+    max-width: 100%;
+    min-height: 2em;
+    resize: both;
+}
+
+.system-status-counter__status-icon {
+    display: inline-block;
+    width: 25px;
+    height: 25px;
+    vertical-align: middle;
+}
+
+.system-status-counter__status-icon::before {
+    display: block;
+    width: 100%;
+    height: 100%;
+    content: "";
+    background-repeat: no-repeat;
+    background-position: center 2px;
+    background-size: 16px;
+}
+
+.system-status-counter__status-icon--error::before {
+    background-image: url(/core/misc/icons/e32700/error.svg);
+}
+
+.system-status-counter__status-icon--warning::before {
+    background-image: url(/core/misc/icons/e29700/warning.svg);
+}
+
+.system-status-counter__status-icon--checked::before {
+    background-image: url(/core/misc/icons/73b355/check.svg);
+}
+
+.system-status-report-counters__item {
+    width: 100%;
+    margin-bottom: 0.5em;
+    padding: 0.5em 0;
+    text-align: center;
+    white-space: nowrap;
+    background-color: rgba(0,0,0,0.063);
+}
+
+@media screen and (min-width: 60em) {
+    .system-status-report-counters {
+        display:flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+
+    .system-status-report-counters__item--half-width {
+        width: 49%;
+    }
+
+    .system-status-report-counters__item--third-width {
+        width: 33%;
+    }
+}
+
+.system-status-general-info__item {
+    margin-top: 1em;
+    padding: 0 1em 1em;
+    border: 1px solid #ccc;
+}
+
+.system-status-general-info__item-title {
+    border-bottom: 1px solid #ccc;
+}
+
+.tablesort {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    background-size: 100%;
+}
+
+.tablesort--asc {
+    background-image: url(/core/misc/icons/787878/twistie-down.svg);
+}
+
+.tablesort--desc {
+    background-image: url(/core/misc/icons/787878/twistie-up.svg);
+}
+
+.toolbar-menu .menu-item-title {
+    display: none;
+}
+
+.path-admin .content-header {
+    margin-top: 40px;
+}
+
+#colorbox,#cboxOverlay,#cboxWrapper {
+    position: absolute;
+    z-index: 9999;
+    top: 0;
+    left: 0;
+    overflow: hidden;
+}
+
+#cboxOverlay {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+}
+
+#cboxMiddleLeft,#cboxBottomLeft {
+    clear: left;
+}
+
+#cboxContent {
+    position: relative;
+}
+
+#cboxLoadedContent {
+    overflow: auto;
+    -webkit-overflow-scrolling: touch;
+}
+
+#cboxTitle {
+    margin: 0;
+}
+
+#cboxLoadingOverlay,#cboxLoadingGraphic {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+#cboxPrevious,#cboxNext,#cboxClose,#cboxSlideshow {
+    overflow: visible;
+    width: auto;
+    margin: 0;
+    padding: 0;
+    cursor: pointer;
+    border: 0;
+    background: none;
+}
+
+#cboxPrevious:active,#cboxNext:active,#cboxClose:active,#cboxSlideshow:active {
+    outline: 0;
+}
+
+.cboxPhoto {
+    display: block;
+    float: left;
+    max-width: none;
+    margin: auto;
+    border: 0;
+}
+
+.cboxIframe {
+    display: block;
+    width: 100%;
+    height: 100%;
+    border: 0;
+}
+
+#colorbox,#cboxContent,#cboxLoadedContent {
+    -moz-box-sizing: content-box;
+    -webkit-box-sizing: content-box;
+    box-sizing: content-box;
+}
+
+#cboxOverlay {
+    background: #000;
+}
+
+#colorbox {
+    outline: 0;
+}
+
+#cboxWrapper {
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    background: #fff;
+}
+
+#cboxTopLeft {
+    width: 15px;
+    height: 15px;
+}
+
+#cboxTopCenter {
+    height: 15px;
+}
+
+#cboxTopRight {
+    width: 15px;
+    height: 15px;
+}
+
+#cboxBottomLeft {
+    width: 15px;
+    height: 10px;
+}
+
+#cboxBottomCenter {
+    height: 10px;
+}
+
+#cboxBottomRight {
+    width: 15px;
+    height: 10px;
+}
+
+#cboxMiddleLeft {
+    width: 15px;
+}
+
+#cboxMiddleRight {
+    width: 15px;
+}
+
+#cboxContent {
+    overflow: hidden;
+    background: #fff;
+}
+
+#cboxError {
+    padding: 50px;
+    border: 1px solid #ccc;
+}
+
+#cboxLoadedContent {
+    margin-bottom: 28px;
+}
+
+#cboxTitle {
+    position: absolute;
+    bottom: 28px;
+    left: 0;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    width: 100%;
+    padding: 4px 6px;
+    color: #535353;
+    background: rgba(255,255,255,0.7);
+}
+
+#cboxCurrent {
+    position: absolute;
+    bottom: 4px;
+    left: 60px;
+    color: #949494;
+}
+
+.cboxSlideshow_on #cboxSlideshow {
+    position: absolute;
+    right: 30px;
+    bottom: 0;
+    width: 25px;
+    height: 25px;
+    text-indent: -9999px;
+    background: url(/modules/contrib/colorbox/styles/default/images/controls.png) no-repeat -75px -50px;
+}
+
+.cboxSlideshow_on #cboxSlideshow:hover {
+    background-position: -101px -50px;
+}
+
+.cboxSlideshow_off #cboxSlideshow {
+    position: absolute;
+    right: 30px;
+    bottom: 0;
+    width: 25px;
+    height: 25px;
+    text-indent: -9999px;
+    background: url(/modules/contrib/colorbox/styles/default/images/controls.png) no-repeat -25px -50px;
+}
+
+.cboxSlideshow_off #cboxSlideshow:hover {
+    background-position: -49px -50px;
+}
+
+#cboxPrevious {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 25px;
+    height: 25px;
+    text-indent: -9999px;
+    background: url(/modules/contrib/colorbox/styles/default/images/controls.png) no-repeat -75px 0;
+}
+
+#cboxPrevious:hover {
+    background-position: -75px -25px;
+}
+
+#cboxNext {
+    position: absolute;
+    bottom: 0;
+    left: 27px;
+    width: 25px;
+    height: 25px;
+    text-indent: -9999px;
+    background: url(/modules/contrib/colorbox/styles/default/images/controls.png) no-repeat -50px 0;
+}
+
+#cboxNext:hover {
+    background-position: -50px -25px;
+}
+
+#cboxLoadingOverlay {
+    background: #fff;
+}
+
+#cboxLoadingGraphic {
+    background: url(/modules/contrib/colorbox/styles/default/images/loading_animation.gif) no-repeat center center;
+}
+
+#cboxClose {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    width: 25px;
+    height: 25px;
+    text-indent: -9999px;
+    background: url(/modules/contrib/colorbox/styles/default/images/controls.png) no-repeat -25px 0;
+}
+
+#cboxClose:hover {
+    background-position: -25px -25px;
+}
