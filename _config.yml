@@ -3,4 +3,7 @@ email: fertmeneses@gmail.com
 logo: assets/logo.png
 description: Personal website.
 show_downloads: True
-theme: jekyll-theme-slate
+#theme: jekyll-theme-slate
+remote_theme: pages-themes/slate@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
