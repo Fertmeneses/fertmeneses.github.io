@@ -1,15 +1,28 @@
 Site under construction
 
 <div style="display: flex; align-items: center; gap: 10px;">
-  <img src="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/logo_image.png?raw=true" alt="Logo image" width="15%" />
+  <img src="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/logo_image.png?raw=true" alt="Logo image" width="20%" />
   <p>I'm a physicist with expertise in Artificial Intelligence, Quantum Sensing and Magnetic Nanomaterials. I've mainly worked at the <b>University of Melbourne</b> (Australia), the <b>City College of New York</b> (USA) and the <b>National University of Córdoba</b> (Argentina), where I'm currently employed as an associate professor. In the last years, I've been focusing on combining my Machine Learning skills with my background in experimental Physics and data science.</p>
 </div><br>
 
 # Highlighted Projects
 
-## Machine Learning applications
+## Artificial Intelligence assisting Quantum noise spectroscopy
 
-https://github.com/Fertmeneses/AI-quantum-noise-spectroscopy
+<div style="display: flex; align-items: center; gap: 10px;">
+  <div style="flex: 2.5;">
+    <p><b>Quantum diamond magnetometry</b>, a sensing technique based on atomic defects in a diamond lattice, is a powerful tool to the <b>magnetic environment</b> of a sample and extract information about the <b>noise spectral density</b>. </br>In this project, we have incorporated <b>Artificial Intelligence</b> methods to train a deep learning neural network, using a large dataset comprised of simulations, and predict the noise spectrum for experimental magnetic signals. Our novel work has demonstrated an <b>improved efficiency compared to traditional approaches</b>, achieving more accurate results.</p>
+  </div>
+  <div style="flex: 1;">
+    <a href="https://fertmeneses.github.io/AI-quantum-noise-spectroscopy/">
+      <img src="https://github.com/Fertmeneses/AI-quantum-noise-spectroscopy/blob/main/assets/QNS_logo.png?raw=true" alt="Project image" style="width: 90%;" />
+    </a>
+  </div>
+</div>
+
+Visit the project: [Deep Learning applied to Spectral Imaging of Magnetic Noise](https://fertmeneses.github.io/AI-quantum-noise-spectroscopy/).
+
+## NEXT PROJECT
 
 https://github.com/Fertmeneses/titanic-ML-from-disaster
 
