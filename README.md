@@ -143,7 +143,7 @@ Visit the challenge website: [Open coding challenge: Bottle sets](https://fertme
     <i>Program of cutting-edge nanodiamond and quantum diamond research, by Adamas Nanotechnologies, October 2024</i>.<br>
     Presentation topic: "Quantum Diamond Magnetometry and Machine Learning Applied to Real-Time Object Monitoring".<br>
     Recorded presentation: <a href="https://www.youtube.com/watch?v=5ZBcUqQFWfI">Youtube link</a>.<br>
-    Lecture series: <a href="https://www.adamasnano.com/virtual-lectures">Adamas website</a>.
+    Lecture series: <a href="https://www.adamasnano.com/virtual-lectures">Adamas website</a>.</p>
   </div>
   <div style="flex: 1;">
     <a href="https://www.youtube.com/watch?v=5ZBcUqQFWfI">
@@ -159,7 +159,7 @@ Visit the challenge website: [Open coding challenge: Bottle sets](https://fertme
     <p><b>Show us your Science</b>. <br>
     <i>Image competition organized by The University of Melbourne, July 2024</i>. <br>
     "We asked entrants for surprising, beautiful, or intriguing images of their scientific interests or activities, so we can show the extraordinary range of our research from the microscopic to the macro universe, and why it matters – not only to the image maker, but also to our communities, ecosystems, industries or governments."<br>
-    <a href="https://science.unimelb.edu.au/engage/show-us-your-science">Link to competition winners</a>.
+    <a href="https://science.unimelb.edu.au/engage/show-us-your-science">Link to competition winners</a>.</p>
   </div>
   <div style="flex: 1;">
     <a href="https://science.unimelb.edu.au/engage/show-us-your-science">
