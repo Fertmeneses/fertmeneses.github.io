@@ -68,7 +68,7 @@ While I'm working in the full solution, I've segmented my work in progressive st
     <p>Inspired in the challenges offered by the Turing platform, I've designed my own <b>open coding challenge to develop both programming and data analysis skills</b>. Anyone can attempt their own solution and try to pass all test cases. As in the original format, the users can attempt to reach the correct answers before 45 minutes, but they can also put the pressure aside and do it at their own pace. As a reference, I've included my own solution, explained my reasoning and broke down my code line by line.</p>
   </div>
   <div style="flex: 1;">
-    <a href="https://github.com/Fertmeneses/coding_challenge_bottle_sets">
+    <a href="https://fertmeneses.github.io/coding_challenge_bottle_sets/">
       <img src="https://github.com/Fertmeneses/coding_challenge_bottle_sets/blob/main/assets/Image_AI_bottles.jpg?raw=true" alt="Project image" style="width: 90%;" />
     </a>
   </div>
