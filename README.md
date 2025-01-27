@@ -40,7 +40,7 @@ Site under construction
 ## Education
 
 <div style="display: flex; align-items: center; gap: 10px;">
-  <img src="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/career_trajectory_UNC.png?raw=true" alt="Icon: UNC" width="40%" />
+  <img src="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/career_trajectory_UNC_simple.png?raw=true" alt="Icon: UNC" width="40%" />
   <p><b>Mar 2020</b>. Physics PhD.<br>
   Thesis: <i>Magnetic nanowires: sample preparation and physico-chemical properties.</i><br>
   <b>Mar 2015</b>. Physics Licenciature.<br>
@@ -120,16 +120,36 @@ Visit the challenge website: [Open coding challenge: Bottle sets](https://fertme
 
 # Media releases
 
-FAMAF Interview:
+<div style="display: flex; align-items: center; gap: 10px;">
+  <div style="flex: 1;">
+    <p><b>Graduates in First Person | Fernando Meneses: A Closing Circle</b>. <br>
+    <i>Interview by FAMAF-UNC, December 2024</i>. <br>
+    "Dr. Fernando Meneses, a graduate from FAMAF with a bachelor's and doctorate in Physics, shares his journey and explains how FAMAF prepared him for the challenges of research on a global scale."<br>
+    Full interview: <a href="https://www.youtube.com/watch?v=mupjLnqOW6s">Youtube link</a><br>
+    Short summary: <a href="https://www.instagram.com/famaf_unc/reel/DDfQBQdq0Rs/">Instagram link</a></p>
+  </div>
+  <div style="flex: 1;">
+    <a href="https://www.instagram.com/famaf_unc/reel/DDfQBQdq0Rs/">
+      <img src="assets/media_2024-12_FAMAF_interview.png" alt="Media: FAMAF interview" style="width: 90%;" />
+    </a>
+  </div>
+</div>
 
-- Youtube (full interview): https://www.youtube.com/watch?v=mupjLnqOW6s
-- Instagram (summary): https://www.instagram.com/famaf_unc/reel/DDfQBQdq0Rs/
+---
 
 Show us your science Competition: [award](https://science.unimelb.edu.au/engage/show-us-your-science).
 
+---
+
 Adamas virtual lecture: https://www.youtube.com/watch?v=5ZBcUqQFWfI
+Quantum Diamond Magnetometry and Machine Learning Applied to Real-time Object Monitoring
+
+---
 
 PhD thesis online: Magn
+Entrevistado en nota de Cadena 3, con motivo de la primera defensa virtual de una tesis de doctorado en la Facultad de Matemática, Astronomía, Física y Compuración (FAMAF-UNC) en el marco de la pandemia COVID-19.
+Link:
+https://www.cadena3.com/noticia/viva-la-radio/defendio-su-tesis-de-manera-virtual-y-es-doctor-en-fisica_256904
 
 # Scientific Publications
 
