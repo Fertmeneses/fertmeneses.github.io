@@ -2,8 +2,50 @@ Site under construction
 
 <div style="display: flex; align-items: center; gap: 10px;">
   <img src="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/logo_image.png?raw=true" alt="Logo image" width="20%" />
-  <p>I'm a physicist with expertise in Artificial Intelligence, Quantum Sensing and Magnetic Nanomaterials. I've mainly worked at the <b>University of Melbourne</b> (Australia), the <b>City College of New York</b> (USA) and the <b>National University of Córdoba</b> (Argentina), where I'm currently employed as an associate professor. In the last years, I've been focusing on combining my Machine Learning skills with my background in experimental Physics and data science.</p>
+  <p>I'm a physicist with expertise in Artificial Intelligence, Quantum Sensing and Magnetic Nanomaterials. I've worked at the <b>University of Melbourne</b> (Australia), the <b>City College of New York</b> (USA) and the <b>National University of Córdoba</b> (Argentina), where I'm currently employed as an associate professor. In the last years, I've been focusing on combining my Machine Learning skills with my background in experimental Physics and data science.</p>
 </div><br>
+
+# Career trajectory
+
+## Work experience
+
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img src="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/career_trajectory_UNC.png?raw=true" alt="Icon: UNC" width="40%" />
+  <p><b>Dec 2024 - Present</b>.<br>
+  Associate Professor.<br>
+  <i>Topics:</i> Artificial Intelligence, Magnetism, Nanomaterials, Experimental Physics.</p>
+</div>
+
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img src="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/career_trajectory_Unimelb-CQC2T.png?raw=true" alt="Icon: Unimelb/CQC2T" width="40%" />
+  <p><b>Mar 2022 - Nov 2024</b>.<br>
+  Post-doctoral researcher.<br>
+  <i>Topics:</i> Artificial Intelligence, Quantum Sensing, Diamond Magnetomery, Experimental Physics.</p>
+</div>
+
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img src="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/career_trajectory_CCNY.png?raw=true" alt="Icon: CCNY" width="40%" />
+  <p><b>Feb 2021 - Feb 2022</b>.<br>
+  Post-doctoral researcher.<br>
+  <i>Topics:</i> Artificial Intelligence, Quantum Sensing, Diamond Magnetomery, Experimental Physics.</p>
+</div>
+
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img src="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/career_trajectory_UNC-CONICET.png?raw=true" alt="Icon: UNC-CONICET" width="40%" />
+  <p><b>Mar 2020 - Dec 2020</b>.<br>
+  Post-doctoral researcher / Assistant professor.<br>
+  <i>Topics:</i> Magnetism, Nanomaterials, Experimental Physics.</p>
+</div>
+
+## Education
+
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img src="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/career_trajectory_UNC.png?raw=true" alt="Icon: UNC" width="40%" />
+  <p><b>Mar 2020</b>. Physics PhD.<br>
+  Thesis: <i>Magnetic nanowires: sample preparation and physico-chemical properties.</i><br>
+  <b>Mar 2015</b>. Physics Licenciature.<br>
+  Final project: <i>Magnetic and structural properties of Ni nanowires in porous alumina templates.</i>
+</div>
 
 # Research AI-Projects
 
@@ -74,6 +116,8 @@ While I'm working in the full solution, I've segmented my work in progressive st
   </div>
 </div>
 
+Visit the challenge website: [Open coding challenge: Bottle sets](https://fertmeneses.github.io/coding_challenge_bottle_sets/).
+
 # Media releases
 
 FAMAF Interview:
@@ -85,15 +129,15 @@ Show us your science Competition: [award](https://science.unimelb.edu.au/engage/
 
 Adamas virtual lecture: https://www.youtube.com/watch?v=5ZBcUqQFWfI
 
-# Publications
+PhD thesis online: Magn
+
+# Scientific Publications
 
 Stats
 
 Google Schollar link: https://scholar.google.com/citations?user=rYzKLRsAAAAJ&hl=es
 
 ORCID: https://orcid.org/0000-0003-3616-2928
-
-
 
 Highlighted:
 
@@ -102,6 +146,10 @@ Highlighted:
 - Paper 2
 
 - Paper 3
+
+# Gallery: my professional trajectory
+
+Pictures
 
 # CV and links
 
