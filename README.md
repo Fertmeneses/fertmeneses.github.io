@@ -130,7 +130,7 @@ Visit the challenge website: [Open coding challenge: Bottle sets](https://fertme
   </div>
   <div style="flex: 1;">
     <a href="https://www.instagram.com/famaf_unc/reel/DDfQBQdq0Rs/">
-      <img src="assets/media_2024-12_FAMAF_interview.png" alt="Media: FAMAF interview" style="width: 90%;" />
+      <img src="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/media_2024-12_FAMAF_interview.png?raw=true" alt="Media: FAMAF interview" style="width: 90%;" />
     </a>
   </div>
 </div>
@@ -147,7 +147,7 @@ Visit the challenge website: [Open coding challenge: Bottle sets](https://fertme
   </div>
   <div style="flex: 1;">
     <a href="https://www.youtube.com/watch?v=5ZBcUqQFWfI">
-      <img src="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/media_2024-10_Adamas_presentation.png?raw=true" alt="Media: Adamas virtual series" style="width: 90%;" />
+      <img src="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/media_2024-10_Adamas_presentation.png?raw=true" alt="Media: Adamas virtual lecture" style="width: 90%;" />
     </a>
   </div>
 </div>
@@ -170,10 +170,19 @@ Visit the challenge website: [Open coding challenge: Bottle sets](https://fertme
 
 ---
 
-PhD thesis online: Magn
-Entrevistado en nota de Cadena 3, con motivo de la primera defensa virtual de una tesis de doctorado en la Facultad de Matemática, Astronomía, Física y Compuración (FAMAF-UNC) en el marco de la pandemia COVID-19.
-Link:
-https://www.cadena3.com/noticia/viva-la-radio/defendio-su-tesis-de-manera-virtual-y-es-doctor-en-fisica_256904
+<div style="display: flex; align-items: center; gap: 10px;">
+  <div style="flex: 1;">
+    <p><b>News article: "He defended his thesis virtually and obtained his Physics PhD"</b>.<br>
+    <i>Interview published by news media Cadena 3, April 2020</i>.<br>
+    "Due to the coronavirus pandemic, Fernando Meneses became the protagonist of the first virtual PhD thesis defense in Physics in the history of the Faculty of Mathematics, Astronomy, and Physics at the National University of Córdoba (UNC)."<br>
+    <a href="https://www.cadena3.com/noticia/viva-la-radio/defendio-su-tesis-de-manera-virtual-y-es-doctor-en-fisica_256904">Link to news article</a>.</p>
+  </div>
+  <div style="flex: 1;">
+    <a href="https://www.cadena3.com/noticia/viva-la-radio/defendio-su-tesis-de-manera-virtual-y-es-doctor-en-fisica_256904">
+      <img src="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/media_2020-04_Cadena3_interview.png?raw=true" alt="Media: Cadena 3 news article" style="width: 90%;" />
+    </a>
+  </div>
+</div>
 
 # Scientific Publications
 
