@@ -137,7 +137,19 @@ Visit the challenge website: [Open coding challenge: Bottle sets](https://fertme
 
 ---
 
-Show us your science Competition: [award](https://science.unimelb.edu.au/engage/show-us-your-science).
+<div style="display: flex; align-items: center; gap: 10px;">
+  <div style="flex: 1;">
+    <p><b>Show us your Science</b>. <br>
+    <i>Image competition organized by The University of Melbourne, July 2024</i>. <br>
+    "We asked entrants for surprising, beautiful, or intriguing images of their scientific interests or activities, so we can show the extraordinary range of our research from the microscopic to the macro universe, and why it matters – not only to the image maker, but also to our communities, ecosystems, industries or governments."<br>
+    <a href="https://science.unimelb.edu.au/engage/show-us-your-science">Link to competition winners</a><br>.
+  </div>
+  <div style="flex: 1;">
+    <a href="https://science.unimelb.edu.au/engage/show-us-your-science">
+      <img src="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/media_2024-07_Unimelb_Competition.png?raw=true" alt="Media: Show us your Science competition" style="width: 90%;" />
+    </a>
+  </div>
+</div>
 
 ---
 
