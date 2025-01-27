@@ -44,7 +44,7 @@ Site under construction
   <p><b>Mar 2020</b>. Physics PhD.<br>
   Thesis: <i>Magnetic nanowires: sample preparation and physico-chemical properties.</i><br>
   <b>Mar 2015</b>. Physics Licenciature.<br>
-  Final project: <i>Magnetic and structural properties of Ni nanowires in porous alumina templates.</i>
+  Final project: <i>Magnetic and structural properties of Ni nanowires in porous alumina templates.</i></p>
 </div>
 
 # Research AI-Projects
@@ -139,10 +139,27 @@ Visit the challenge website: [Open coding challenge: Bottle sets](https://fertme
 
 <div style="display: flex; align-items: center; gap: 10px;">
   <div style="flex: 1;">
+    <p><b>Virtual Lectures Series on Nanodiamond</b>. <br>
+    <i>Program of cutting-edge nanodiamond and quantum diamond research, by Adamas Nanotechnologies, October 2024</i>.<br>
+    Presentation topic: "Quantum Diamond Magnetometry and Machine Learning Applied to Real-Time Object Monitoring".<br>
+    Recorded presentation: <a href="https://www.youtube.com/watch?v=5ZBcUqQFWfI">Youtube link</a>.<br>
+    Lecture series: <a href="https://www.adamasnano.com/virtual-lectures">Adamas website</a>.
+  </div>
+  <div style="flex: 1;">
+    <a href="https://www.youtube.com/watch?v=5ZBcUqQFWfI">
+      <img src="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/media_2024-10_Adamas_presentation.png?raw=true" alt="Media: Adamas virtual series" style="width: 90%;" />
+    </a>
+  </div>
+</div>
+
+---
+
+<div style="display: flex; align-items: center; gap: 10px;">
+  <div style="flex: 1;">
     <p><b>Show us your Science</b>. <br>
     <i>Image competition organized by The University of Melbourne, July 2024</i>. <br>
     "We asked entrants for surprising, beautiful, or intriguing images of their scientific interests or activities, so we can show the extraordinary range of our research from the microscopic to the macro universe, and why it matters – not only to the image maker, but also to our communities, ecosystems, industries or governments."<br>
-    <a href="https://science.unimelb.edu.au/engage/show-us-your-science">Link to competition winners</a><br>.
+    <a href="https://science.unimelb.edu.au/engage/show-us-your-science">Link to competition winners</a>.
   </div>
   <div style="flex: 1;">
     <a href="https://science.unimelb.edu.au/engage/show-us-your-science">
@@ -150,11 +167,6 @@ Visit the challenge website: [Open coding challenge: Bottle sets](https://fertme
     </a>
   </div>
 </div>
-
----
-
-Adamas virtual lecture: https://www.youtube.com/watch?v=5ZBcUqQFWfI
-Quantum Diamond Magnetometry and Machine Learning Applied to Real-time Object Monitoring
 
 ---
 
