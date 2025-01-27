@@ -7,7 +7,7 @@ Site under construction
 
 # Highlighted Projects
 
-## Artificial Intelligence assisting Quantum noise spectroscopy
+## Artificial Intelligence assisting Quantum Noise Spectroscopy
 
 <div style="display: flex; align-items: center; gap: 10px;">
   <div style="flex: 2.5;">
@@ -15,16 +15,33 @@ Site under construction
   </div>
   <div style="flex: 1;">
     <a href="https://fertmeneses.github.io/AI-quantum-noise-spectroscopy/">
-      <img src="https://github.com/Fertmeneses/AI-quantum-noise-spectroscopy/blob/main/assets/QNS_logo.png?raw=true" alt="Project image" style="width: 90%;" />
+      <img src="https://github.com/Fertmeneses/AI-quantum-noise-spectroscopy/blob/main/assets/Qubit_front.jpg?raw=true" alt="Project image" style="width: 90%;" />
     </a>
   </div>
 </div>
 
-Visit the project: [Deep Learning applied to Spectral Imaging of Magnetic Noise](https://fertmeneses.github.io/AI-quantum-noise-spectroscopy/).
+Visit the project summary: [Deep Learning applied to Spectral Imaging of Magnetic Noise](https://fertmeneses.github.io/AI-quantum-noise-spectroscopy/).
+
+Read the full scientific article: [Toward Deep-Learning-Assisted Spectrally Resolved Imaging of Magnetic Noise](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.18.024004).
+
+## Titanic: Machine Learning from disaster
+
+<div style="display: flex; align-items: center; gap: 10px;">
+  <div style="flex: 1;">
+    <a href="https://fertmeneses.github.io/titanic-ML-from-disaster/">
+      <img src="https://github.com/Fertmeneses/titanic-ML-from-disaster/blob/main/assets/AI_image_summary.jpg?raw=true" alt="Project image" style="width: 90%;" />
+    </a>
+  </div>
+  <div style="flex: 2.5;">
+    <p><b>Quantum diamond magnetometry</b>, a sensing technique based on atomic defects in a diamond lattice, is a powerful tool to the <b>magnetic environment</b> of a sample and extract information about the <b>noise spectral density</b>. </br>In this project, we have incorporated <b>Artificial Intelligence</b> methods to train a deep learning neural network, using a large dataset comprised of simulations, and predict the noise spectrum for experimental magnetic signals. Our novel work has demonstrated an <b>improved efficiency compared to traditional approaches</b>, achieving more accurate results.</p>
+  </div>
+</div>
+
+Visit the project summary: [Titanic - Machine Learning project](https://fertmeneses.github.io/titanic-ML-from-disaster/).
+
+Check the original version for Kaggle: [Titanic/Kaggle - Full analysis 🕵](https://www.kaggle.com/code/fertmeneses/titanic-kaggle-full-analysis).
 
 ## NEXT PROJECT
-
-https://github.com/Fertmeneses/titanic-ML-from-disaster
 
 Titanic Spaceship (work in progress):
 
