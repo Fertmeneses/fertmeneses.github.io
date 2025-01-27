@@ -5,7 +5,7 @@ Site under construction
   <p>I'm a physicist with expertise in Artificial Intelligence, Quantum Sensing and Magnetic Nanomaterials. I've mainly worked at the <b>University of Melbourne</b> (Australia), the <b>City College of New York</b> (USA) and the <b>National University of Córdoba</b> (Argentina), where I'm currently employed as an associate professor. In the last years, I've been focusing on combining my Machine Learning skills with my background in experimental Physics and data science.</p>
 </div><br>
 
-# Highlighted Projects
+# AI Research Projects
 
 ## Artificial Intelligence assisting Quantum Noise Spectroscopy
 
@@ -41,12 +41,23 @@ Visit the project summary: [Titanic - Machine Learning project](https://fertmene
 
 Check the original version for Kaggle: [Titanic/Kaggle - Full analysis 🕵](https://www.kaggle.com/code/fertmeneses/titanic-kaggle-full-analysis).
 
-## NEXT PROJECT
+## Spaceship Titanic: AI to the rescue
 
-Titanic Spaceship (work in progress):
+<div style="display: flex; align-items: center; gap: 10px;">
+  <div style="flex: 2.5;">
+    <p>In this [Kaggle competition](https://www.kaggle.com/competitions/spaceship-titanic), in the year 2912 the Titanic Spaceship is launched, and it met a similar fate as its old predecesor in a galaxy tragedy that sent half of the passengers to an alternative dimension. There's still time to rescue them, but we must first identify these passengers from a scarce information. In this project, the goal is to use <b>Data Analysis and Machine Learning skills</b> to predict which passengers where transported to the alternative dimensions.</p>
+  </div>
+  <div style="flex: 1;">
+    <a href="https://www.kaggle.com/code/fertmeneses/spaceship-titanic-getting-familiar">
+      <img src="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/logo_titanic_spacehip.jpg?raw=true" alt="Project image" style="width: 90%;" />
+    </a>
+  </div>
+</div>
 
-- https://www.kaggle.com/code/fertmeneses/spaceship-titanic-getting-familiar
-- https://www.kaggle.com/code/fertmeneses/spaceship-titanic-feature-engineering
+While I'm working in the full solution, I've segmented my work in progressive stages, starting with data analysis and continuing with the Machine Learning implementation. You can check the first two chapters, already published in Kaggle:
+
+- [Spaceship Titanic 🏁 Getting familiar](https://www.kaggle.com/code/fertmeneses/spaceship-titanic-getting-familiar)
+- [Spaceship Titanic 💡 Feature engineering](https://www.kaggle.com/code/fertmeneses/spaceship-titanic-feature-engineering)
 
 ## Coding challenges
 
