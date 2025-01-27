@@ -226,7 +226,28 @@ Licenciature final work:
 
 # Gallery: my professional trajectory
 
-Pictures
+## National University of Córdoba
+
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img src="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/gallery_FAMAF_GCM.jpg?raw=true" alt="FAMAF group" width="34%" />
+  <img src="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/gallery_FAMAF_Nanowires.jpg?raw=true" alt="FAMAF nanowires" width="33%" />
+  <img src="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/gallery_FAMAF_AAO.png?raw=true" alt="FAMAF alumina template" width="33%" />
+</div>
+
+## The University of Melbourne
+
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img src="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/gallery_Unimelb_Group.png?raw=true" alt="Unimelb group" width="34%" />
+  <img src="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/gallery_Unimelb_Optics.jpg?raw=true" alt="Unimelb optics" width="33%" />
+  <img src="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/gallery_Unimelb_cleanroom.jpg?raw=true" alt="Unimelb cleanroom" width="33%" />
+</div>
+
+## City College of New York
+
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img src="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/gallery_CCNY_group.png?raw=true" alt="CCNY group" width="50%" />
+  <img src="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/gallery_CCNY_Optics.png?raw=true" alt="CCNY optics" width="50%" />
+</div><br>
 
 # CV and links
 
@@ -234,7 +255,7 @@ CV file link
 
 Find an expert [UniMelb]
 
-Ciencia de Materiales [UNC]
+Ciencia de Materiales [UNC] https://www.famaf.unc.edu.ar/~bercoff/paginaGCM/
 
 Carlos Meriles Group webpage [CCNY]
 
