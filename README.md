@@ -186,19 +186,43 @@ Visit the challenge website: [Open coding challenge: Bottle sets](https://fertme
 
 # Scientific Publications
 
-Stats
+[<img style="left: right; width: 4%;" src="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/icon_google_scholar.png?raw=true" alt="Google Scholar icon">](https://scholar.google.com/citations?user=rYzKLRsAAAAJ&hl=en) [ Google Scholar](https://scholar.google.com/citations?user=rYzKLRsAAAAJ&hl=en)
+|
+[<img style="left: right; width: 9%;" src="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/icon_ORCID.png?raw=true" alt="ORCID icon">](https://orcid.org/0000-0003-3616-2928) [ORCID](https://orcid.org/0000-0003-3616-2928)
+|
+[<img style="left: right; width: 3.5%;" src="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/icon_researchgate.png?raw=true" alt="ResearchGate icon">](https://www.researchgate.net/profile/Fernando-Meneses) [ResearchGate](https://www.researchgate.net/profile/Fernando-Meneses)
 
-Google Schollar link: https://scholar.google.com/citations?user=rYzKLRsAAAAJ&hl=es
+Articles published in peer-reviewed journals:
 
-ORCID: https://orcid.org/0000-0003-3616-2928
+- <b>[Stray magnetic field imaging of thin exfoliated iron halides flakes](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.109.064416)</b>, main author, <i>Physical Review B</i> (2024).
 
-Highlighted:
+- <b>[Detection of Paramagnetic Spins with an Ultrathin van der Waals Quantum Sensor](https://pubs.acs.org/doi/abs/10.1021/acsnano.3c01678)</b>, co-author, <i>ACS Nano</i> (2023).
 
-- Paper 1
+- <b>[Effective anisotropy in Fe-Ni nanowire arrays with strong dipolar interaction](https://www.sciencedirect.com/science/article/abs/pii/S0304885323005796)</b>, co-author, <i>Journal of Magnetism and Magnetic Materials</i> (2023).
 
-- Paper 2
+- <b>[Toward Deep-Learning-Assisted Spectrally Resolved Imaging of Magnetic Noise](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.18.024004)</b>, main author, <i>Physical Review Applied</i> (2022).
 
-- Paper 3
+- <b>[Nickel nanobrush platform for a magnetic field-assisted electrochemical response enhancement](https://www.sciencedirect.com/science/article/pii/S2468217922000533)</b>, main author, <i>Journal of Science: Advanced Materials and Devices</i> (2022).
+
+- <b>[Coating of aluminum substrates with nanostructured Pd–Ni alloys by electrodeposition](https://www.sciencedirect.com/science/article/abs/pii/S0254058421013079)</b>, main author, <i>Materials Chemistry and Physics</i> (2022).
+
+- <b>[Enhanced in-plane magnetic anisotropy in thermally treated arrays of Co-Pt nanowires](https://www.sciencedirect.com/science/article/abs/pii/S0921510720301768)</b>, main author, <i>Materials Science and Engineering: B</i> (2020).
+
+- <b>[Magnetic and electric characterization of different Ni systems comprising cylindrical nanowires](https://ri.conicet.gov.ar/handle/11336/147323)</b>, main author in chapter, book Advances in Nanotechnology, <i>Nova Science Publishers</i> (2020).
+
+- <b>[Temperature dependence of the effective anisotropy in Ni nanowire arrays](https://www.sciencedirect.com/science/article/abs/pii/S1567173918301822)</b>, main author, <i>Current Applied Physics</i> (2018).
+
+- <b>[L1<sub>0</sub>-FeNi ordered phase in AC electrodeposited iron-nickel biphasic nanowires](https://www.sciencedirect.com/science/article/abs/pii/S0925838818324289)</b>, main author, <i>Journal of Alloys and Compounds</i> (2018).
+
+- <b>[Influence of the porosity on the magnetic properties of Ni nanowires arrays](https://www.scielo.br/j/rmat/a/VdqW9qyQnRrTZ5XDTJhsHYD/abstract/?lang=en)</b>, main author, <i>Matéria (Rio de Janeiro)</i> (2015).
+
+PhD thesis:
+
+- <b>[Magnetic nanowires: sample preparation and physico-chemical properties](https://rdu.unc.edu.ar/handle/11086/15321)</b>, main author, directed by Prof. Paula Bercoff, <i>National University of Córdoba</i> (2020).
+
+Licenciature final work:
+
+- <b>[Magnetic and structural properties of Ni nanowires in porous alumina templates](https://rdu.unc.edu.ar/handle/11086/2794)</b>, main author, directed by Prof. Paula Bercoff, <i>National University of Córdoba</i> (2015).
 
 # Gallery: my professional trajectory
 
