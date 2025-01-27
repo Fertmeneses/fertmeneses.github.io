@@ -5,7 +5,7 @@ Site under construction
   <p>I'm a physicist with expertise in Artificial Intelligence, Quantum Sensing and Magnetic Nanomaterials. I've mainly worked at the <b>University of Melbourne</b> (Australia), the <b>City College of New York</b> (USA) and the <b>National University of Córdoba</b> (Argentina), where I'm currently employed as an associate professor. In the last years, I've been focusing on combining my Machine Learning skills with my background in experimental Physics and data science.</p>
 </div><br>
 
-# AI Research Projects
+# Research AI-Projects
 
 ## Artificial Intelligence assisting Quantum Noise Spectroscopy
 
@@ -59,9 +59,20 @@ While I'm working in the full solution, I've segmented my work in progressive st
 - [Spaceship Titanic 🏁 Getting familiar](https://www.kaggle.com/code/fertmeneses/spaceship-titanic-getting-familiar)
 - [Spaceship Titanic 💡 Feature engineering](https://www.kaggle.com/code/fertmeneses/spaceship-titanic-feature-engineering)
 
-## Coding challenges
+# Coding challenges
 
-https://github.com/Fertmeneses/coding_challenge_bottle_sets
+## Open coding challenge: Bottle sets
+
+<div style="display: flex; align-items: center; gap: 10px;">
+  <div style="flex: 2.5;">
+    <p>Inspired in the challenges offered by the Turing platform, I've designed my own <b>open coding challenge to develop both programming and data analysis skills</b>. Anyone can attempt their own solution and try to pass all test cases. As in the original format, the users can attempt to reach the correct answers before 45 minutes, but they can also put the pressure aside and do it at their own pace. As a reference, I've included my own solution, explained my reasoning and broke down my code line by line.</p>
+  </div>
+  <div style="flex: 1;">
+    <a href="https://github.com/Fertmeneses/coding_challenge_bottle_sets">
+      <img src="https://github.com/Fertmeneses/coding_challenge_bottle_sets/blob/main/assets/Image_AI_bottles.jpg?raw=true" alt="Project image" style="width: 90%;" />
+    </a>
+  </div>
+</div>
 
 # Media releases
 
