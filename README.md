@@ -2,7 +2,7 @@ Site under construction
 
 <div style="display: flex; align-items: center; gap: 10px;">
   <img src="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/logo_image.png?raw=true" alt="Logo image" width="20%" />
-  <p>I'm a physicist with expertise in Artificial Intelligence, Quantum Sensing and Magnetic Nanomaterials. I've worked at the <b>University of Melbourne</b> (Australia), the <b>City College of New York</b> (USA) and the <b>National University of Córdoba</b> (Argentina), where I'm currently employed as an associate professor. In the last years, I've been focusing on combining my Machine Learning skills with my background in experimental Physics and data science.</p>
+  <p>I'm a physicist with expertise in Artificial Intelligence, Quantum Sensing and Magnetic Nanomaterials. I've worked at the **University of Melbourne** (Australia), the <b>City College of New York</b> (USA) and the <b>National University of Córdoba</b> (Argentina), where I'm currently employed as an associate professor. In the last years, I've been focusing on combining my Machine Learning skills with my background in experimental Physics and data science.</p>
 </div><br>
 
 # Career trajectory
@@ -224,7 +224,7 @@ Licenciature final work:
 
 - <b>[Magnetic and structural properties of Ni nanowires in porous alumina templates](https://rdu.unc.edu.ar/handle/11086/2794)</b>, main author, directed by Prof. Paula Bercoff, <i>National University of Córdoba</i> (2015).
 
-# Gallery: my professional trajectory
+# Image Gallery
 
 ## National University of Córdoba
 
