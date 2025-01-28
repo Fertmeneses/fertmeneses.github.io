@@ -42,7 +42,7 @@ Site under construction
 <div style="display: flex; align-items: center; gap: 10px;">
   <img src="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/career_trajectory_UNC_simple.png?raw=true" alt="Icon: UNC" width="40%" />
   <p><strong>Mar 2020</strong>. Physics PhD.<br>
-  Thesis: <iem>Magnetic nanowires: sample preparation and physico-chemical properties.</em><br><br>
+  Thesis: <em>Magnetic nanowires: sample preparation and physico-chemical properties.</em><br><br>
   <strong>Mar 2015</strong>. Physics Licenciature.<br>
   Final project: <em>Magnetic and structural properties of Ni nanowires in porous alumina templates.</em></p>
 </div>
