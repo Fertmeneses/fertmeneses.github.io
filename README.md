@@ -25,7 +25,7 @@ Site under construction
 
 <div style="display: flex; align-items: center; gap: 10px;">
   <img src="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/career_trajectory_CCNY.png?raw=true" alt="Icon: CCNY" width="40%" />
-  <p><bstrong>Feb 2021 - Feb 2022</strong>.<br>
+  <p><strong>Feb 2021 - Feb 2022</strong>.<br>
   Post-doctoral researcher.<br>
   <em>Topics: Artificial Intelligence, Quantum Sensing, Diamond Magnetomery, Experimental Physics</em>.</p>
 </div>
@@ -252,7 +252,16 @@ Licenciature final work:
 
 # CV and links
 
-CV file link
+Check my CV here: [[CV pdf]](https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/CV_MENESES.pdf) 👈
+
+Find me in social media:
+
+[<img style="left: right; width: 4%;" src="assets/icon_LinkedIn.png" alt="LinkedIn icon">](https://scholar.google.com/citations?user=rYzKLRsAAAAJ&hl=en) [ Google Scholar](https://scholar.google.com/citations?user=rYzKLRsAAAAJ&hl=en)
+|
+[<img style="left: right; width: 9%;" src="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/icon_ORCID.png?raw=true" alt="ORCID icon">](https://orcid.org/0000-0003-3616-2928) [ORCID](https://orcid.org/0000-0003-3616-2928)
+|
+[<img style="left: right; width: 3.5%;" src="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/icon_researchgate.png?raw=true" alt="ResearchGate icon">](https://www.researchgate.net/profile/Fernando-Meneses) [ResearchGate](https://www.researchgate.net/profile/Fernando-Meneses)
+
 
 Find an expert [UniMelb]
 
