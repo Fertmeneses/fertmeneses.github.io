@@ -256,23 +256,8 @@ Check my CV here: [[CV pdf]](https://github.com/Fertmeneses/fertmeneses.github.i
 
 Find me in social media:
 
-[<img style="left: right; width: 4%;" src="assets/icon_LinkedIn.png" alt="LinkedIn icon">](https://scholar.google.com/citations?user=rYzKLRsAAAAJ&hl=en) [ Google Scholar](https://scholar.google.com/citations?user=rYzKLRsAAAAJ&hl=en)
-|
-[<img style="left: right; width: 9%;" src="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/icon_ORCID.png?raw=true" alt="ORCID icon">](https://orcid.org/0000-0003-3616-2928) [ORCID](https://orcid.org/0000-0003-3616-2928)
-|
-[<img style="left: right; width: 3.5%;" src="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/icon_researchgate.png?raw=true" alt="ResearchGate icon">](https://www.researchgate.net/profile/Fernando-Meneses) [ResearchGate](https://www.researchgate.net/profile/Fernando-Meneses)
-
-
-Find an expert [UniMelb]
-
-Ciencia de Materiales [UNC] https://www.famaf.unc.edu.ar/~bercoff/paginaGCM/
-
-Carlos Meriles Group webpage [CCNY]
-
-Research Gate
-
-GitHub
-
-LinkedIn
-
-Kaggle
+[<img style="left: right; width: 4%;" src="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/icon_LinkedIn.png?raw=true" alt="LinkedIn icon">](https://www.linkedin.com/in/fernando-meneses-unc/) [&nbsp;LinkedIn](https://www.linkedin.com/in/fernando-meneses-unc/)
+&nbsp;&nbsp;|&nbsp;&nbsp;
+[<img style="left: right; width: 6%;" src="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/icon_GitHub.png?raw=true">](https://github.com/Fertmeneses) [ GitHub](https://github.com/Fertmeneses)
+&nbsp;&nbsp;|&nbsp;&nbsp;
+[<img style="left: right; width: 3.5%;" src="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/icon_kaggle.png?raw=true">](https://www.kaggle.com/fertmeneses) [ Kaggle](https://www.kaggle.com/fertmeneses)
