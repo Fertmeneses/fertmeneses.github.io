@@ -13,6 +13,7 @@
     <img src="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/career_trajectory_UNC.png?raw=true" alt="Icon: UNC" width="100%" />
   </a>
   </div>
+  <div style="flex: 0.01;"></div>
   <div style="flex: 3;">
   <p><strong>Dec 2024 - Present</strong>.<br>
   Associate Professor.<br>
@@ -26,6 +27,7 @@
     <img src="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/career_trajectory_Unimelb-CQC2T.png?raw=true" alt="Icon: Unimelb/CQC2T" width="100%" />
   </a>
   </div>
+  <div style="flex: 0.01;"></div>
   <div style="flex: 3;">
   <p><strong>Mar 2022 - Nov 2024</strong>.<br>
   Post-doctoral researcher.<br>
@@ -39,6 +41,7 @@
     <img src="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/career_trajectory_CCNY.png?raw=true" alt="Icon: CCNY" width="100%" />
   </a>
   </div>
+  <div style="flex: 0.01;"></div>
   <div style="flex: 3;">
   <p><strong>Feb 2021 - Feb 2022</strong>.<br>
   Post-doctoral researcher.<br>
@@ -52,6 +55,7 @@
     <img src="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/career_trajectory_UNC-CONICET.png?raw=true" alt="Icon: UNC-CONICET" width="100%" />
   </a>
   </div>
+  <div style="flex: 0.01;"></div>
   <div style="flex: 3;">
   <p><strong>Mar 2020 - Dec 2020</strong>.<br>
   Post-doctoral researcher / Assistant professor.<br>
@@ -67,6 +71,7 @@
     <img src="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/career_trajectory_UNC_simple.png?raw=true" alt="Icon: UNC" width="100%" />
   </a>
   </div>
+  <div style="flex: 0.01;"></div>
   <div style="flex: 3;">
   <p><strong>Mar 2020</strong>. Physics PhD.<br>
   Thesis: <em>Magnetic nanowires: sample preparation and physico-chemical properties.</em><br><br>
