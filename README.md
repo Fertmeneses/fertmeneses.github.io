@@ -8,41 +8,71 @@
 ## Work experience
 
 <div style="display: flex; align-items: center; gap: 10px;">
-  <img src="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/career_trajectory_UNC.png?raw=true" alt="Icon: UNC" width="40%" />
+  <div style="flex: 2;">
+  <a href="https://www.famaf.unc.edu.ar/">
+    <img src="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/career_trajectory_UNC.png?raw=true" alt="Icon: UNC" width="100%" />
+  </a>
+  </div>
+  <div style="flex: 3;">
   <p><strong>Dec 2024 - Present</strong>.<br>
   Associate Professor.<br>
   <em>Topics: Artificial Intelligence, Magnetism, Nanomaterials, Experimental Physics</em>.</p>
+  </div>
 </div>
 
 <div style="display: flex; align-items: center; gap: 10px;">
-  <img src="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/career_trajectory_Unimelb-CQC2T.png?raw=true" alt="Icon: Unimelb/CQC2T" width="40%" />
+  <div style="flex: 2;">
+  <a href="https://www.unimelb.edu.au/">
+    <img src="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/career_trajectory_Unimelb-CQC2T.png?raw=true" alt="Icon: Unimelb/CQC2T" width="100%" />
+  </a>
+  </div>
+  <div style="flex: 3;">
   <p><strong>Mar 2022 - Nov 2024</strong>.<br>
   Post-doctoral researcher.<br>
   <em>Topics: Artificial Intelligence, Quantum Sensing, Diamond Magnetomery, Experimental Physics</em>.</p>
+  </div>
 </div>
 
 <div style="display: flex; align-items: center; gap: 10px;">
-  <img src="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/career_trajectory_CCNY.png?raw=true" alt="Icon: CCNY" width="40%" />
+  <div style="flex: 2;">
+  <a href="https://www.ccny.cuny.edu/">
+    <img src="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/career_trajectory_CCNY.png?raw=true" alt="Icon: CCNY" width="100%" />
+  </a>
+  </div>
+  <div style="flex: 3;">
   <p><strong>Feb 2021 - Feb 2022</strong>.<br>
   Post-doctoral researcher.<br>
   <em>Topics: Artificial Intelligence, Quantum Sensing, Diamond Magnetomery, Experimental Physics</em>.</p>
+  </div>
 </div>
 
 <div style="display: flex; align-items: center; gap: 10px;">
-  <img src="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/career_trajectory_UNC-CONICET.png?raw=true" alt="Icon: UNC-CONICET" width="40%" />
+  <div style="flex: 2;">
+  <a href="https://www.conicet.gov.ar/">
+    <img src="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/career_trajectory_UNC-CONICET.png?raw=true" alt="Icon: UNC-CONICET" width="100%" />
+  </a>
+  </div>
+  <div style="flex: 3;">
   <p><strong>Mar 2020 - Dec 2020</strong>.<br>
   Post-doctoral researcher / Assistant professor.<br>
   <em>Topics: Magnetism, Nanomaterials, Experimental Physics</em>.</p>
+  </div>
 </div>
 
 ## Education
 
 <div style="display: flex; align-items: center; gap: 10px;">
-  <img src="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/career_trajectory_UNC_simple.png?raw=true" alt="Icon: UNC" width="40%" />
+  <div style="flex: 2;">
+  <a href="https://www.famaf.unc.edu.ar/">
+    <img src="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/career_trajectory_UNC_simple.png?raw=true" alt="Icon: UNC" width="100%" />
+  </a>
+  </div>
+  <div style="flex: 3;">
   <p><strong>Mar 2020</strong>. Physics PhD.<br>
   Thesis: <em>Magnetic nanowires: sample preparation and physico-chemical properties.</em><br><br>
   <strong>Mar 2015</strong>. Physics Licenciature.<br>
   Final project: <em>Magnetic and structural properties of Ni nanowires in porous alumina templates.</em></p>
+  </div>
 </div>
 
 # Research AI-Projects
