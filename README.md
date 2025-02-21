@@ -98,7 +98,7 @@
 
 Visit the project summary: [Deep Learning applied to Spectral Imaging of Magnetic Noise](https://fertmeneses.github.io/AI-quantum-noise-spectroscopy/).
 
-Read the full scientific article: [Toward Deep-Learning-Assisted Spectrally Resolved Imaging of Magnetic Noise](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.18.024004).
+Read the full scientific article: <a href="https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.18.024004" target="_blank">Toward Deep-Learning-Assisted Spectrally Resolved Imaging of Magnetic Noise</a>.
 
 ## Titanic: Machine Learning from disaster
 
@@ -115,7 +115,7 @@ Read the full scientific article: [Toward Deep-Learning-Assisted Spectrally Reso
 
 Visit the project summary: [Titanic - Machine Learning project](https://fertmeneses.github.io/titanic-ML-from-disaster/).
 
-Check the original version for Kaggle: [Titanic/Kaggle - Full analysis 🕵](https://www.kaggle.com/code/fertmeneses/titanic-kaggle-full-analysis).
+Check the original version for Kaggle: <a href="https://www.kaggle.com/code/fertmeneses/titanic-kaggle-full-analysis" target="_blank">Titanic/Kaggle - Full analysis 🕵</a>.
 
 ## Spaceship Titanic: AI to the rescue
 
@@ -124,7 +124,7 @@ Check the original version for Kaggle: [Titanic/Kaggle - Full analysis 🕵](htt
     <p>In this <strong>Kaggle competition</strong>, in the year 2912 the Titanic Spaceship was launched, and it met a similar fate as its old predecesor in a galaxy tragedy that sent half of the passengers to an alternative dimension. There's still time to rescue them, but we must first identify these passengers from a scarce information. In this project, the goal is to use <strong>Data Analysis and Machine Learning skills</strong> to predict which passengers where transported to the alternative dimensions.</p>
   </div>
   <div style="flex: 1;">
-    <a href="https://www.kaggle.com/code/fertmeneses/spaceship-titanic-getting-familiar">
+    <a href="https://www.kaggle.com/code/fertmeneses/spaceship-titanic-getting-familiar" target="_blank">
       <img src="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/logo_titanic_spacehip.jpg?raw=true" alt="Project image" style="width: 90%;" />
     </a>
   </div>
@@ -132,8 +132,8 @@ Check the original version for Kaggle: [Titanic/Kaggle - Full analysis 🕵](htt
 
 While I'm working in the full solution, I've segmented my work in progressive stages, starting with data analysis and continuing with the Machine Learning implementation. You can check the first two chapters, already published in Kaggle:
 
-- [Spaceship Titanic 🏁 Getting familiar](https://www.kaggle.com/code/fertmeneses/spaceship-titanic-getting-familiar)
-- [Spaceship Titanic 💡 Feature engineering](https://www.kaggle.com/code/fertmeneses/spaceship-titanic-feature-engineering)
+- <a href="https://www.kaggle.com/code/fertmeneses/spaceship-titanic-getting-familiar" target="_blank">Spaceship Titanic 🏁 Getting familiar</a>
+- <a href="https://www.kaggle.com/code/fertmeneses/spaceship-titanic-feature-engineering" target="_blank">Spaceship Titanic 💡 Feature engineering</a>
 
 # Coding challenges
 
@@ -159,11 +159,11 @@ Visit the challenge website: [Open coding challenge: Bottle sets](https://fertme
     <p><strong>Graduates in First Person | Fernando Meneses: A Closing Circle</strong>. <br>
     <em>Interview by FAMAF-UNC, December 2024</em>. <br>
     "Dr. Fernando Meneses, a graduate from FAMAF with a bachelor's and doctorate in Physics, shares his journey and explains how FAMAF prepared him for the challenges of research on a global scale."<br>
-    Full interview: <a href="https://www.youtube.com/watch?v=mupjLnqOW6s">Youtube link</a><br>
-    Short summary: <a href="https://www.instagram.com/famaf_unc/reel/DDfQBQdq0Rs/">Instagram link</a></p>
+    Full interview: <a href="https://www.youtube.com/watch?v=mupjLnqOW6s" target="_blank">Youtube link</a><br>.
+    Short summary: <a href="https://www.instagram.com/famaf_unc/reel/DDfQBQdq0Rs/" target="_blank">Instagram link</a></p>.
   </div>
   <div style="flex: 1;">
-    <a href="https://www.instagram.com/famaf_unc/reel/DDfQBQdq0Rs/">
+    <a href="https://www.instagram.com/famaf_unc/reel/DDfQBQdq0Rs/" target="_blank">
       <img src="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/media_2024-12_FAMAF_interview.png?raw=true" alt="Media: FAMAF interview" style="width: 90%;" />
     </a>
   </div>
@@ -176,11 +176,11 @@ Visit the challenge website: [Open coding challenge: Bottle sets](https://fertme
     <p><strong>Virtual Lectures Series on Nanodiamond</strong>. <br>
     <em>Program of cutting-edge nanodiamond and quantum diamond research, by Adamas Nanotechnologies, October 2024</em>.<br>
     Presentation topic: "Quantum Diamond Magnetometry and Machine Learning Applied to Real-Time Object Monitoring".<br>
-    Recorded presentation: <a href="https://www.youtube.com/watch?v=5ZBcUqQFWfI">Youtube link</a>.<br>
-    Lecture series: <a href="https://www.adamasnano.com/virtual-lectures">Adamas website</a>.</p>
+    Recorded presentation: <a href="https://www.youtube.com/watch?v=5ZBcUqQFWfI" target="_blank">Youtube link</a>.<br>
+    Lecture series: <a href="https://www.adamasnano.com/virtual-lectures" target="_blank">Adamas website</a>.</p>
   </div>
   <div style="flex: 1;">
-    <a href="https://www.youtube.com/watch?v=5ZBcUqQFWfI">
+    <a href="https://www.youtube.com/watch?v=5ZBcUqQFWfI" target="_blank">
       <img src="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/media_2024-10_Adamas_presentation.png?raw=true" alt="Media: Adamas virtual lecture" style="width: 90%;" />
     </a>
   </div>
@@ -193,10 +193,10 @@ Visit the challenge website: [Open coding challenge: Bottle sets](https://fertme
     <p><strong>Show us your Science</strong>. <br>
     <em>Image competition organized by The University of Melbourne, July 2024</em>. <br>
     "We asked entrants for surprising, beautiful, or intriguing images of their scientific interests or activities, so we can show the extraordinary range of our research from the microscopic to the macro universe, and why it matters – not only to the image maker, but also to our communities, ecosystems, industries or governments."<br>
-    <a href="https://science.unimelb.edu.au/engage/show-us-your-science">Link to competition winners</a>.</p>
+    <a href="https://science.unimelb.edu.au/engage/show-us-your-science" target="_blank">Link to competition winners</a>.</p>
   </div>
   <div style="flex: 1;">
-    <a href="https://science.unimelb.edu.au/engage/show-us-your-science">
+    <a href="https://science.unimelb.edu.au/engage/show-us-your-science" target="_blank">
       <img src="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/media_2024-07_Unimelb_Competition.png?raw=true" alt="Media: Show us your Science competition" style="width: 90%;" />
     </a>
   </div>
@@ -209,10 +209,10 @@ Visit the challenge website: [Open coding challenge: Bottle sets](https://fertme
     <p><strong>News article: "He defended his thesis virtually and obtained his Physics PhD"</strong>.<br>
     <em>Interview published by news media Cadena 3, April 2020</em>.<br>
     "Due to the coronavirus pandemic, Fernando Meneses became the protagonist of the first virtual PhD thesis defense in Physics in the history of the Faculty of Mathematics, Astronomy, and Physics at the National University of Córdoba (UNC)."<br>
-    <a href="https://www.cadena3.com/noticia/viva-la-radio/defendio-su-tesis-de-manera-virtual-y-es-doctor-en-fisica_256904">Link to news article</a>.</p>
+    <a href="https://www.cadena3.com/noticia/viva-la-radio/defendio-su-tesis-de-manera-virtual-y-es-doctor-en-fisica_256904" target="_blank">Link to news article</a>.</p>
   </div>
   <div style="flex: 1;">
-    <a href="https://www.cadena3.com/noticia/viva-la-radio/defendio-su-tesis-de-manera-virtual-y-es-doctor-en-fisica_256904">
+    <a href="https://www.cadena3.com/noticia/viva-la-radio/defendio-su-tesis-de-manera-virtual-y-es-doctor-en-fisica_256904" target="_blank">
       <img src="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/media_2020-04_Cadena3_interview.png?raw=true" alt="Media: Cadena 3 news article" style="width: 90%;" />
     </a>
   </div>
@@ -220,11 +220,11 @@ Visit the challenge website: [Open coding challenge: Bottle sets](https://fertme
 
 # Scientific Publications
 
-[<img style="left: right; width: 4%;" src="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/icon_google_scholar.png?raw=true" alt="Google Scholar icon">](https://scholar.google.com/citations?user=rYzKLRsAAAAJ&hl=en) [ Google Scholar](https://scholar.google.com/citations?user=rYzKLRsAAAAJ&hl=en)
+<a href="https://scholar.google.com/citations?user=rYzKLRsAAAAJ&hl=en" target="_blank"> <img src="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/icon_google_scholar.png?raw=true" style="left: right; width: 4%;" alt="Google Scholar icon"/></a> <a href="https://scholar.google.com/citations?user=rYzKLRsAAAAJ&hl=en" target="_blank"> Google Scholar</a>
 |
-[<img style="left: right; width: 9%;" src="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/icon_ORCID.png?raw=true" alt="ORCID icon">](https://orcid.org/0000-0003-3616-2928) [ORCID](https://orcid.org/0000-0003-3616-2928)
+<a href="https://orcid.org/0000-0003-3616-2928" target="_blank"> <img src="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/icon_ORCID.png?raw=true" style="left: right; width: 9%;" alt="ORCID icon"/></a> <a href="https://orcid.org/0000-0003-3616-2928" target="_blank"> ORCID</a>
 |
-[<img style="left: right; width: 3.5%;" src="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/icon_researchgate.png?raw=true" alt="ResearchGate icon">](https://www.researchgate.net/profile/Fernando-Meneses) [ResearchGate](https://www.researchgate.net/profile/Fernando-Meneses)
+<a href="https://www.researchgate.net/profile/Fernando-Meneses" target="_blank"> <img src="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/icon_researchgate.png?raw=true" style="left: right; width: 3.5%;" alt="ResearchGate icon"/></a> <a href="https://www.researchgate.net/profile/Fernando-Meneses" target="_blank"> ResearchGate</a>
 
 Articles published in peer-reviewed journals:
 
@@ -287,12 +287,12 @@ Licenciature final work:
 
 # CV and links
 
-Check my CV here: [[CV pdf]](https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/CV_MENESES.pdf) 👈
+Check my CV here: <a href="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/CV_MENESES.pdf" target="_blank">[CV pdf]</a> 👈
 
 Find me in social media:
 
-[<img style="left: right; width: 4%;" src="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/icon_LinkedIn.png?raw=true" alt="LinkedIn icon">](https://www.linkedin.com/in/fernando-meneses-unc/) [&nbsp;LinkedIn](https://www.linkedin.com/in/fernando-meneses-unc/)
+<a href="https://www.linkedin.com/in/fernando-meneses-unc/" target="_blank"> <img src="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/icon_LinkedIn.png?raw=true" style="left: right; width: 4%;" alt="LinkedIn icon"/></a> <a href="https://www.linkedin.com/in/fernando-meneses-unc/" target="_blank">&nbsp;LinkedIn</a>
 &nbsp;&nbsp;|&nbsp;&nbsp;
-[<img style="left: right; width: 6%;" src="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/icon_GitHub.png?raw=true">](https://github.com/Fertmeneses) [ GitHub](https://github.com/Fertmeneses)
+<a href="https://github.com/Fertmeneses" target="_blank"> <img src="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/icon_GitHub.png?raw=true" style="left: right; width: 6%;" alt="GitHub icon"/></a> <a href="https://github.com/Fertmeneses" target="_blank">&nbsp;GitHub</a>
 &nbsp;&nbsp;|&nbsp;&nbsp;
-[<img style="left: right; width: 3.5%;" src="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/icon_kaggle.png?raw=true">](https://www.kaggle.com/fertmeneses) [ Kaggle](https://www.kaggle.com/fertmeneses)
+<a href="https://www.kaggle.com/fertmeneses" target="_blank"> <img src="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/icon_kaggle.png?raw=true" style="left: right; width: 3.5%;" alt="Kaggle icon"/></a> <a href="https://www.kaggle.com/fertmeneses" target="_blank">&nbsp;Kaggle</a>
