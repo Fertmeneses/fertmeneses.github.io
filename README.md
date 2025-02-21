@@ -228,7 +228,7 @@ Visit the challenge website: [Open coding challenge: Bottle sets](https://fertme
 
 Articles published in peer-reviewed journals:
 
-- <strong>[Machine learning assisted tracking of magnetic objects using quantum diamond magnetometry](https://arxiv.org/abs/2502.14683)</strong>, main author, <em>Submitted, published on arXiv</em> (2025).
+- <a href="https://arxiv.org/abs/2502.14683" target="_blank"><strong>Machine learning assisted tracking of magnetic objects using quantum diamond magnetometry</strong></a>, main author, <em>Submitted, published on arXiv</em> (2025).
 
 - <strong>[Stray magnetic field imaging of thin exfoliated iron halides flakes](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.109.064416)</strong>, main author, <em>Physical Review B</em> (2024).
 
