@@ -9,7 +9,7 @@
 
 <div style="display: flex; align-items: center; gap: 10px;">
   <div style="flex: 2;">
-  <a href="https://www.famaf.unc.edu.ar/">
+  <a href="https://www.famaf.unc.edu.ar/" target="_blank">
     <img src="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/career_trajectory_UNC.png?raw=true" alt="Icon: UNC" width="100%" />
   </a>
   </div>
@@ -23,7 +23,7 @@
 
 <div style="display: flex; align-items: center; gap: 10px;">
   <div style="flex: 2;">
-  <a href="https://www.unimelb.edu.au/">
+  <a href="https://www.unimelb.edu.au/" target="_blank">
     <img src="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/career_trajectory_Unimelb-CQC2T.png?raw=true" alt="Icon: Unimelb/CQC2T" width="100%" />
   </a>
   </div>
@@ -37,7 +37,7 @@
 
 <div style="display: flex; align-items: center; gap: 10px;">
   <div style="flex: 2;">
-  <a href="https://www.ccny.cuny.edu/">
+  <a href="https://www.ccny.cuny.edu/" target="_blank">
     <img src="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/career_trajectory_CCNY.png?raw=true" alt="Icon: CCNY" width="100%" />
   </a>
   </div>
@@ -51,7 +51,7 @@
 
 <div style="display: flex; align-items: center; gap: 10px;">
   <div style="flex: 2;">
-  <a href="https://www.conicet.gov.ar/">
+  <a href="https://www.conicet.gov.ar/" target="_blank">
     <img src="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/career_trajectory_UNC-CONICET.png?raw=true" alt="Icon: UNC-CONICET" width="100%" />
   </a>
   </div>
@@ -67,7 +67,7 @@
 
 <div style="display: flex; align-items: center; gap: 10px;">
   <div style="flex: 2;">
-  <a href="https://www.famaf.unc.edu.ar/">
+  <a href="https://www.famaf.unc.edu.ar/" target="_blank">
     <img src="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/career_trajectory_UNC_simple.png?raw=true" alt="Icon: UNC" width="100%" />
   </a>
   </div>
