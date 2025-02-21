@@ -254,11 +254,11 @@ Articles published in peer-reviewed journals:
 
 PhD thesis:
 
-- <a href="https://rdu.unc.edu.ar/handle/11086/15321" target="_blank"><strong>Magnetic nanowires: sample preparation and physico-chemical properties</strong></a>, main author, directed by Prof. Paula Bercoff, <em>National University of Córdoba</em> (2020).
+- <a href="https://drive.google.com/drive/folders/14G7YtKs9L1--VpNOOlIMveMVX2rnMpoY?usp=sharing" target="_blank"><strong>Magnetic nanowires: sample preparation and physico-chemical properties</strong></a>, main author, directed by Prof. Paula Bercoff, <em>National University of Córdoba</em> (2020).
 
 Licenciature final work:
 
-- <a href="https://rdu.unc.edu.ar/handle/11086/2794" target="_blank"><strong>Magnetic and structural properties of Ni nanowires in porous alumina templates</strong></a>, main author, directed by Prof. Paula Bercoff, <em>National University of Córdoba</em> (2015).
+- <a href="https://drive.google.com/drive/folders/14G7YtKs9L1--VpNOOlIMveMVX2rnMpoY?usp=sharing" target="_blank"><strong>Magnetic and structural properties of Ni nanowires in porous alumina templates</strong></a>, main author, directed by Prof. Paula Bercoff, <em>National University of Córdoba</em> (2015).
 
 # Image Gallery
 
