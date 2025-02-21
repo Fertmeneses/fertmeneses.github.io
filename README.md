@@ -159,8 +159,8 @@ Visit the challenge website: [Open coding challenge: Bottle sets](https://fertme
     <p><strong>Graduates in First Person | Fernando Meneses: A Closing Circle</strong>. <br>
     <em>Interview by FAMAF-UNC, December 2024</em>. <br>
     "Dr. Fernando Meneses, a graduate from FAMAF with a bachelor's and doctorate in Physics, shares his journey and explains how FAMAF prepared him for the challenges of research on a global scale."<br>
-    Full interview: <a href="https://www.youtube.com/watch?v=mupjLnqOW6s" target="_blank">Youtube link</a><br>.
-    Short summary: <a href="https://www.instagram.com/famaf_unc/reel/DDfQBQdq0Rs/" target="_blank">Instagram link</a></p>.
+    Full interview: <a href="https://www.youtube.com/watch?v=mupjLnqOW6s" target="_blank">Youtube link</a>.<br>
+    Short summary: <a href="https://www.instagram.com/famaf_unc/reel/DDfQBQdq0Rs/" target="_blank">Instagram link</a>.</p>
   </div>
   <div style="flex: 1;">
     <a href="https://www.instagram.com/famaf_unc/reel/DDfQBQdq0Rs/" target="_blank">
