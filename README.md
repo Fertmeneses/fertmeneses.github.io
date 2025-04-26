@@ -124,16 +124,17 @@ Check the original version for Kaggle: <a href="https://www.kaggle.com/code/fert
     <p>In this <strong>Kaggle competition</strong>, in the year 2912 the Titanic Spaceship was launched, and it met a similar fate as its old predecesor in a galaxy tragedy that sent half of the passengers to an alternative dimension. There's still time to rescue them, but we must first identify these passengers from a scarce information. In this project, the goal is to use <strong>Data Analysis and Machine Learning skills</strong> to predict which passengers where transported to the alternative dimensions.</p>
   </div>
   <div style="flex: 1;">
-    <a href="https://www.kaggle.com/code/fertmeneses/spaceship-titanic-getting-familiar" target="_blank">
+    <a href="https://www.kaggle.com/code/fertmeneses/spaceship-titanic-data-imputation" target="_blank">
       <img src="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/logo_titanic_spacehip.jpg?raw=true" alt="Project image" style="width: 90%;" />
     </a>
   </div>
 </div>
 
-While I'm working in the full solution, I've segmented my work in progressive stages, starting with data analysis and continuing with the Machine Learning implementation. You can check the first two chapters, already published in Kaggle:
+I've segmented my work in progressive stages, starting with data analysis and continuing with the Machine Learning implementation. You can check the three chapters, already published in Kaggle:
 
 - <a href="https://www.kaggle.com/code/fertmeneses/spaceship-titanic-getting-familiar" target="_blank">Spaceship Titanic 🏁 Getting familiar</a>
 - <a href="https://www.kaggle.com/code/fertmeneses/spaceship-titanic-feature-engineering" target="_blank">Spaceship Titanic 💡 Feature engineering</a>
+- <a href="https://www.kaggle.com/code/fertmeneses/spaceship-titanic-data-imputation" target="_blank"> Spaceship Titanic 🩹 Data imputation</a>
 
 # Coding challenges
 
