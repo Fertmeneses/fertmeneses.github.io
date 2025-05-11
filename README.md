@@ -1,5 +1,5 @@
 <div style="display: flex; align-items: center; gap: 10px;">
-  <img src="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/logo_image.png?raw=true" alt="Logo image" width="20%" />
+  <img src="assets/logo_image.png" alt="Logo image" width="20%" />
   <p>I'm a physicist with expertise in Artificial Intelligence, Quantum Sensing and Magnetic Nanomaterials. I've worked at the <strong>University of Melbourne</strong> (Australia), the <strong>City College of New York</strong> (USA) and the <strong>National University of Córdoba</strong> (Argentina), where I'm currently employed as an associate professor. In the last years, I've been focusing on combining my Machine Learning skills with my background in experimental Physics and data science.</p>
 </div> 
 
