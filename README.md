@@ -105,7 +105,7 @@ Read the full scientific article: <a href="https://journals.aps.org/prapplied/ab
 <div style="display: flex; align-items: center; gap: 10px;">
   <div style="flex: 1;">
     <a href="https://fertmeneses.github.io/titanic-ML-from-disaster/">
-      <img src="assets/AI_image_summary.jpg" alt="Project image" style="width: 90%;" />
+      <img src="assets/AI_image_summary.png" alt="Project image" style="width: 90%;" />
     </a>
   </div>
   <div style="flex: 2.5;">
