@@ -10,7 +10,7 @@
 <div style="display: flex; align-items: center; gap: 10px;">
   <div style="flex: 2;">
   <a href="https://www.famaf.unc.edu.ar/" target="_blank">
-    <img src="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/career_trajectory_UNC.png?raw=true" alt="Icon: UNC" width="100%" />
+    <img src="assets/career_trajectory_UNC.png" alt="Icon: UNC" width="100%" />
   </a>
   </div>
   <div style="flex: 0.01;"></div>
@@ -24,7 +24,7 @@
 <div style="display: flex; align-items: center; gap: 10px;">
   <div style="flex: 2;">
   <a href="https://www.unimelb.edu.au/" target="_blank">
-    <img src="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/career_trajectory_Unimelb-CQC2T.png?raw=true" alt="Icon: Unimelb/CQC2T" width="100%" />
+    <img src="assets/career_trajectory_Unimelb-CQC2T.png" alt="Icon: Unimelb/CQC2T" width="100%" />
   </a>
   </div>
   <div style="flex: 0.01;"></div>
@@ -38,7 +38,7 @@
 <div style="display: flex; align-items: center; gap: 10px;">
   <div style="flex: 2;">
   <a href="https://www.ccny.cuny.edu/" target="_blank">
-    <img src="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/career_trajectory_CCNY.png?raw=true" alt="Icon: CCNY" width="100%" />
+    <img src="assets/career_trajectory_CCNY.png" alt="Icon: CCNY" width="100%" />
   </a>
   </div>
   <div style="flex: 0.01;"></div>
@@ -52,7 +52,7 @@
 <div style="display: flex; align-items: center; gap: 10px;">
   <div style="flex: 2;">
   <a href="https://www.conicet.gov.ar/" target="_blank">
-    <img src="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/career_trajectory_UNC-CONICET.png?raw=true" alt="Icon: UNC-CONICET" width="100%" />
+    <img src="assets/career_trajectory_UNC-CONICET.png" alt="Icon: UNC-CONICET" width="100%" />
   </a>
   </div>
   <div style="flex: 0.01;"></div>
@@ -68,7 +68,7 @@
 <div style="display: flex; align-items: center; gap: 10px;">
   <div style="flex: 2;">
   <a href="https://www.famaf.unc.edu.ar/" target="_blank">
-    <img src="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/career_trajectory_UNC_simple.png?raw=true" alt="Icon: UNC" width="100%" />
+    <img src="assets/career_trajectory_UNC_simple.png" alt="Icon: UNC" width="100%" />
   </a>
   </div>
   <div style="flex: 0.01;"></div>
@@ -91,7 +91,7 @@
   </div>
   <div style="flex: 1;">
     <a href="https://fertmeneses.github.io/AI-quantum-noise-spectroscopy/">
-      <img src="https://github.com/Fertmeneses/AI-quantum-noise-spectroscopy/blob/main/assets/Qubit_front.jpg?raw=true" alt="Project image" style="width: 90%;" />
+      <img src="assets/Qubit_front.jpg" alt="Project image" style="width: 90%;" />
     </a>
   </div>
 </div>
@@ -105,7 +105,7 @@ Read the full scientific article: <a href="https://journals.aps.org/prapplied/ab
 <div style="display: flex; align-items: center; gap: 10px;">
   <div style="flex: 1;">
     <a href="https://fertmeneses.github.io/titanic-ML-from-disaster/">
-      <img src="https://github.com/Fertmeneses/titanic-ML-from-disaster/blob/main/assets/AI_image_summary.jpg?raw=true" alt="Project image" style="width: 90%;" />
+      <img src="assets/AI_image_summary.jpg" alt="Project image" style="width: 90%;" />
     </a>
   </div>
   <div style="flex: 2.5;">
@@ -125,7 +125,7 @@ Check the original version for Kaggle: <a href="https://www.kaggle.com/code/fert
   </div>
   <div style="flex: 1;">
     <a href="https://www.kaggle.com/code/fertmeneses/spaceship-titanic-data-imputation" target="_blank">
-      <img src="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/logo_titanic_spacehip.jpg?raw=true" alt="Project image" style="width: 90%;" />
+      <img src="assets/logo_titanic_spacehip.jpg" alt="Project image" style="width: 90%;" />
     </a>
   </div>
 </div>
@@ -146,7 +146,7 @@ I've segmented my work in progressive stages, starting with data analysis and co
   </div>
   <div style="flex: 1;">
     <a href="https://fertmeneses.github.io/coding_challenge_bottle_sets/">
-      <img src="https://github.com/Fertmeneses/coding_challenge_bottle_sets/blob/main/assets/Image_AI_bottles.jpg?raw=true" alt="Project image" style="width: 90%;" />
+      <img src="assets/Image_AI_bottles.jpg" alt="Project image" style="width: 90%;" />
     </a>
   </div>
 </div>
@@ -165,7 +165,7 @@ Visit the challenge website: [Open coding challenge: Bottle sets](https://fertme
   </div>
   <div style="flex: 1;">
     <a href="https://www.instagram.com/famaf_unc/reel/DDfQBQdq0Rs/" target="_blank">
-      <img src="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/media_2024-12_FAMAF_interview.png?raw=true" alt="Media: FAMAF interview" style="width: 90%;" />
+      <img src="assets/media_2024-12_FAMAF_interview.png" alt="Media: FAMAF interview" style="width: 90%;" />
     </a>
   </div>
 </div>
@@ -182,7 +182,7 @@ Visit the challenge website: [Open coding challenge: Bottle sets](https://fertme
   </div>
   <div style="flex: 1;">
     <a href="https://www.youtube.com/watch?v=5ZBcUqQFWfI" target="_blank">
-      <img src="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/media_2024-10_Adamas_presentation.png?raw=true" alt="Media: Adamas virtual lecture" style="width: 90%;" />
+      <img src="assets/media_2024-10_Adamas_presentation.png" alt="Media: Adamas virtual lecture" style="width: 90%;" />
     </a>
   </div>
 </div>
@@ -198,7 +198,7 @@ Visit the challenge website: [Open coding challenge: Bottle sets](https://fertme
   </div>
   <div style="flex: 1;">
     <a href="https://science.unimelb.edu.au/engage/show-us-your-science" target="_blank">
-      <img src="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/media_2024-07_Unimelb_Competition.png?raw=true" alt="Media: Show us your Science competition" style="width: 90%;" />
+      <img src="assets/media_2024-07_Unimelb_Competition.png" alt="Media: Show us your Science competition" style="width: 90%;" />
     </a>
   </div>
 </div>
@@ -214,18 +214,18 @@ Visit the challenge website: [Open coding challenge: Bottle sets](https://fertme
   </div>
   <div style="flex: 1;">
     <a href="https://www.cadena3.com/noticia/viva-la-radio/defendio-su-tesis-de-manera-virtual-y-es-doctor-en-fisica_256904" target="_blank">
-      <img src="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/media_2020-04_Cadena3_interview.png?raw=true" alt="Media: Cadena 3 news article" style="width: 90%;" />
+      <img src="assets/media_2020-04_Cadena3_interview.png" alt="Media: Cadena 3 news article" style="width: 90%;" />
     </a>
   </div>
 </div>
 
 # Scientific Publications
 
-<a href="https://scholar.google.com/citations?user=rYzKLRsAAAAJ&hl=en" target="_blank"> <img src="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/icon_google_scholar.png?raw=true" style="left: right; width: 4%;" alt="Google Scholar icon"/></a> <a href="https://scholar.google.com/citations?user=rYzKLRsAAAAJ&hl=en" target="_blank"> Google Scholar</a>
+<a href="https://scholar.google.com/citations?user=rYzKLRsAAAAJ&hl=en" target="_blank"> <img src="assets/icon_google_scholar.png" style="left: right; width: 4%;" alt="Google Scholar icon"/></a> <a href="https://scholar.google.com/citations?user=rYzKLRsAAAAJ&hl=en" target="_blank"> Google Scholar</a>
 |
-<a href="https://orcid.org/0000-0003-3616-2928" target="_blank"> <img src="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/icon_ORCID.png?raw=true" style="left: right; width: 9%;" alt="ORCID icon"/></a> <a href="https://orcid.org/0000-0003-3616-2928" target="_blank"> ORCID</a>
+<a href="https://orcid.org/0000-0003-3616-2928" target="_blank"> <img src="assets/icon_ORCID.png" style="left: right; width: 9%;" alt="ORCID icon"/></a> <a href="https://orcid.org/0000-0003-3616-2928" target="_blank"> ORCID</a>
 |
-<a href="https://www.researchgate.net/profile/Fernando-Meneses" target="_blank"> <img src="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/icon_researchgate.png?raw=true" style="left: right; width: 3.5%;" alt="ResearchGate icon"/></a> <a href="https://www.researchgate.net/profile/Fernando-Meneses" target="_blank"> ResearchGate</a>
+<a href="https://www.researchgate.net/profile/Fernando-Meneses" target="_blank"> <img src="assets/icon_researchgate.png" style="left: right; width: 3.5%;" alt="ResearchGate icon"/></a> <a href="https://www.researchgate.net/profile/Fernando-Meneses" target="_blank"> ResearchGate</a>
 
 Articles published in peer-reviewed journals:
 
@@ -266,24 +266,24 @@ Licenciature final work:
 ## National University of Córdoba
 
 <div style="display: flex; align-items: center; gap: 10px;">
-  <img src="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/gallery_FAMAF_GCM.jpg?raw=true" alt="FAMAF group" width="34%" />
-  <img src="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/gallery_FAMAF_Nanowires.jpg?raw=true" alt="FAMAF nanowires" width="33%" />
-  <img src="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/gallery_FAMAF_AAO.png?raw=true" alt="FAMAF alumina template" width="33%" />
+  <img src="assets/gallery_FAMAF_GCM.jpg" alt="FAMAF group" width="34%" />
+  <img src="assets/gallery_FAMAF_Nanowires.jpg" alt="FAMAF nanowires" width="33%" />
+  <img src="assets/gallery_FAMAF_AAO.png" alt="FAMAF alumina template" width="33%" />
 </div>
 
 ## The University of Melbourne
 
 <div style="display: flex; align-items: center; gap: 10px;">
-  <img src="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/gallery_Unimelb_Group.png?raw=true" alt="Unimelb group" width="34%" />
-  <img src="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/gallery_Unimelb_Optics.jpg?raw=true" alt="Unimelb optics" width="33%" />
-  <img src="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/gallery_Unimelb_cleanroom.jpg?raw=true" alt="Unimelb cleanroom" width="33%" />
+  <img src="assets/gallery_Unimelb_Group.png" alt="Unimelb group" width="34%" />
+  <img src="assets/gallery_Unimelb_Optics.jpg" alt="Unimelb optics" width="33%" />
+  <img src="assets/gallery_Unimelb_cleanroom.jpg" alt="Unimelb cleanroom" width="33%" />
 </div>
 
 ## City College of New York
 
 <div style="display: flex; align-items: center; gap: 10px;">
-  <img src="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/gallery_CCNY_group.png?raw=true" alt="CCNY group" width="50%" />
-  <img src="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/gallery_CCNY_Optics.png?raw=true" alt="CCNY optics" width="50%" />
+  <img src="assets/gallery_CCNY_group.png" alt="CCNY group" width="50%" />
+  <img src="assets/gallery_CCNY_Optics.png" alt="CCNY optics" width="50%" />
 </div><br>
 
 # CV and links
@@ -292,8 +292,8 @@ Check my CV here: <a href="https://github.com/Fertmeneses/fertmeneses.github.io/
 
 Find me in social media:
 
-<a href="https://www.linkedin.com/in/fernando-meneses-unc/" target="_blank"> <img src="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/icon_LinkedIn.png?raw=true" style="left: right; width: 4%;" alt="LinkedIn icon"/></a> <a href="https://www.linkedin.com/in/fernando-meneses-unc/" target="_blank">&nbsp;LinkedIn</a>
+<a href="https://www.linkedin.com/in/fernando-meneses-unc/" target="_blank"> <img src="assets/icon_LinkedIn.png" style="left: right; width: 4%;" alt="LinkedIn icon"/></a> <a href="https://www.linkedin.com/in/fernando-meneses-unc/" target="_blank">&nbsp;LinkedIn</a>
 &nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="https://github.com/Fertmeneses" target="_blank"> <img src="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/icon_GitHub.png?raw=true" style="left: right; width: 6%;" alt="GitHub icon"/></a> <a href="https://github.com/Fertmeneses" target="_blank">&nbsp;GitHub</a>
+<a href="https://github.com/Fertmeneses" target="_blank"> <img src="assets/icon_GitHub.png" style="left: right; width: 6%;" alt="GitHub icon"/></a> <a href="https://github.com/Fertmeneses" target="_blank">&nbsp;GitHub</a>
 &nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="https://www.kaggle.com/fertmeneses" target="_blank"> <img src="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/icon_kaggle.png?raw=true" style="left: right; width: 3.5%;" alt="Kaggle icon"/></a> <a href="https://www.kaggle.com/fertmeneses" target="_blank">&nbsp;Kaggle</a>
+<a href="https://www.kaggle.com/fertmeneses" target="_blank"> <img src="assets/icon_kaggle.png" style="left: right; width: 3.5%;" alt="Kaggle icon"/></a> <a href="https://www.kaggle.com/fertmeneses" target="_blank">&nbsp;Kaggle</a>
