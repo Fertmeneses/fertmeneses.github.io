@@ -5,10 +5,10 @@
 
 # CV and links
 
-Download my CV here: <a href="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/CV_MENESES.pdf" target="_blank">[CV pdf]</a> 👈
+ <a href="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/CV_MENESES.pdf" target="_blank">[Check my CV]</a> 👈 &nbsp;&nbsp; Let's connect! &nbsp;&nbsp; <a href="https://www.linkedin.com/in/fernando-meneses-unc/" target="_blank"> <img src="assets/icon_LinkedIn.png" style="left: right; width: 1.5%;" alt="LinkedIn icon"/></a> <a href="https://www.linkedin.com/in/fernando-meneses-unc/" target="_blank">&nbsp;LinkedIn</a>
 
-<a href="https://www.linkedin.com/in/fernando-meneses-unc/" target="_blank"> <img src="assets/icon_LinkedIn.png" style="left: right; width: 4%;" alt="LinkedIn icon"/></a> <a href="https://www.linkedin.com/in/fernando-meneses-unc/" target="_blank">&nbsp;LinkedIn</a>
-&nbsp;&nbsp;|&nbsp;&nbsp;
+View my work and skills in other platforms:
+
 <a href="https://github.com/Fertmeneses" target="_blank"> <img src="assets/icon_GitHub.png" style="left: right; width: 6%;" alt="GitHub icon"/></a> <a href="https://github.com/Fertmeneses" target="_blank">&nbsp;GitHub</a>
 &nbsp;&nbsp;|&nbsp;&nbsp;
 <a href="https://www.kaggle.com/fertmeneses" target="_blank"> <img src="assets/icon_kaggle.png" style="left: right; width: 3.5%;" alt="Kaggle icon"/></a> <a href="https://www.kaggle.com/fertmeneses" target="_blank">&nbsp;Kaggle</a>
