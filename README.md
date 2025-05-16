@@ -297,6 +297,11 @@ Find me in social media:
 <a href="https://github.com/Fertmeneses" target="_blank"> <img src="assets/icon_GitHub.png" style="left: right; width: 6%;" alt="GitHub icon"/></a> <a href="https://github.com/Fertmeneses" target="_blank">&nbsp;GitHub</a>
 &nbsp;&nbsp;|&nbsp;&nbsp;
 <a href="https://www.kaggle.com/fertmeneses" target="_blank"> <img src="assets/icon_kaggle.png" style="left: right; width: 3.5%;" alt="Kaggle icon"/></a> <a href="https://www.kaggle.com/fertmeneses" target="_blank">&nbsp;Kaggle</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="https://www.cloudskillsboost.google/public_profiles/c7b2d285-55f5-4b4c-b0f8-f66418284cc1" target="_blank"> <img src="assets/icon_Google_Cloud_Skills.png" style="left: right; width: 4.5%;" alt="Google Cloud Skills icon"/></a> <a href="https://www.cloudskillsboost.google/public_profiles/c7b2d285-55f5-4b4c-b0f8-f66418284cc1" target="_blank">&nbsp;Google Cloud Skills</a>
+
+
+
 
 -----
 
