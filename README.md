@@ -7,8 +7,6 @@
 
 Download my CV here: <a href="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/CV_MENESES.pdf" target="_blank">[CV pdf]</a> 👈
 
-Find me in social media:
-
 <a href="https://www.linkedin.com/in/fernando-meneses-unc/" target="_blank"> <img src="assets/icon_LinkedIn.png" style="left: right; width: 4%;" alt="LinkedIn icon"/></a> <a href="https://www.linkedin.com/in/fernando-meneses-unc/" target="_blank">&nbsp;LinkedIn</a>
 &nbsp;&nbsp;|&nbsp;&nbsp;
 <a href="https://github.com/Fertmeneses" target="_blank"> <img src="assets/icon_GitHub.png" style="left: right; width: 6%;" alt="GitHub icon"/></a> <a href="https://github.com/Fertmeneses" target="_blank">&nbsp;GitHub</a>
