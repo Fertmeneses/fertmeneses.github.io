@@ -5,7 +5,7 @@
 
 # CV and links
 
- <a href="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/CV_MENESES.pdf" target="_blank">[Check my CV]</a> 👈 &nbsp;&nbsp; Let's connect! &nbsp;&nbsp; <a href="https://www.linkedin.com/in/fernando-meneses-unc/" target="_blank"> <img src="assets/icon_LinkedIn.png" style="left: right; width: 1.5%;" alt="LinkedIn icon"/></a> <a href="https://www.linkedin.com/in/fernando-meneses-unc/" target="_blank">&nbsp;LinkedIn</a>
+ <a href="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/CV_MENESES.pdf" target="_blank">[Check my CV]</a> 👈 &nbsp;&nbsp; Let's connect! &nbsp;&nbsp; <a href="https://www.linkedin.com/in/fernando-meneses-unc/" target="_blank"> <img src="assets/icon_LinkedIn.png" style="left: right; width: 2.5%;" alt="LinkedIn icon"/></a> <a href="https://www.linkedin.com/in/fernando-meneses-unc/" target="_blank">&nbsp;LinkedIn</a>
 
 View my work and skills in other platforms:
 
