@@ -3,6 +3,20 @@
   <p>I'm a physicist with expertise in Artificial Intelligence, Quantum Sensing and Magnetic Nanomaterials. I've worked at the <strong>University of Melbourne</strong> (Australia), the <strong>City College of New York</strong> (USA) and the <strong>National University of Córdoba</strong> (Argentina), where I'm currently employed as an associate professor. In the last years, I've been focusing on combining my Machine Learning skills with my background in experimental Physics and data science.</p>
 </div> 
 
+# CV and links
+
+Download my CV here: <a href="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/CV_MENESES.pdf" target="_blank">[CV pdf]</a> 👈
+
+Find me in social media:
+
+<a href="https://www.linkedin.com/in/fernando-meneses-unc/" target="_blank"> <img src="assets/icon_LinkedIn.png" style="left: right; width: 4%;" alt="LinkedIn icon"/></a> <a href="https://www.linkedin.com/in/fernando-meneses-unc/" target="_blank">&nbsp;LinkedIn</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="https://github.com/Fertmeneses" target="_blank"> <img src="assets/icon_GitHub.png" style="left: right; width: 6%;" alt="GitHub icon"/></a> <a href="https://github.com/Fertmeneses" target="_blank">&nbsp;GitHub</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="https://www.kaggle.com/fertmeneses" target="_blank"> <img src="assets/icon_kaggle.png" style="left: right; width: 3.5%;" alt="Kaggle icon"/></a> <a href="https://www.kaggle.com/fertmeneses" target="_blank">&nbsp;Kaggle</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="https://www.cloudskillsboost.google/public_profiles/c7b2d285-55f5-4b4c-b0f8-f66418284cc1" target="_blank"> <img src="assets/icon_Google_Cloud_Skills.png" style="left: right; width: 4.5%;" alt="Google Cloud Skills icon"/></a> <a href="https://www.cloudskillsboost.google/public_profiles/c7b2d285-55f5-4b4c-b0f8-f66418284cc1" target="_blank">&nbsp;Google Cloud Skills</a>
+
 # Career trajectory
 
 ## Work experience
@@ -285,23 +299,6 @@ Licenciature final work:
   <img src="assets/gallery_CCNY_group.png" alt="CCNY group" width="50%" />
   <img src="assets/gallery_CCNY_Optics.png" alt="CCNY optics" width="50%" />
 </div><br>
-
-# CV and links
-
-Check my CV here: <a href="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/CV_MENESES.pdf" target="_blank">[CV pdf]</a> 👈
-
-Find me in social media:
-
-<a href="https://www.linkedin.com/in/fernando-meneses-unc/" target="_blank"> <img src="assets/icon_LinkedIn.png" style="left: right; width: 4%;" alt="LinkedIn icon"/></a> <a href="https://www.linkedin.com/in/fernando-meneses-unc/" target="_blank">&nbsp;LinkedIn</a>
-&nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="https://github.com/Fertmeneses" target="_blank"> <img src="assets/icon_GitHub.png" style="left: right; width: 6%;" alt="GitHub icon"/></a> <a href="https://github.com/Fertmeneses" target="_blank">&nbsp;GitHub</a>
-&nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="https://www.kaggle.com/fertmeneses" target="_blank"> <img src="assets/icon_kaggle.png" style="left: right; width: 3.5%;" alt="Kaggle icon"/></a> <a href="https://www.kaggle.com/fertmeneses" target="_blank">&nbsp;Kaggle</a>
-&nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="https://www.cloudskillsboost.google/public_profiles/c7b2d285-55f5-4b4c-b0f8-f66418284cc1" target="_blank"> <img src="assets/icon_Google_Cloud_Skills.png" style="left: right; width: 4.5%;" alt="Google Cloud Skills icon"/></a> <a href="https://www.cloudskillsboost.google/public_profiles/c7b2d285-55f5-4b4c-b0f8-f66418284cc1" target="_blank">&nbsp;Google Cloud Skills</a>
-
-
-
 
 -----
 
