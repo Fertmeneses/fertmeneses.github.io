@@ -42,7 +42,7 @@ View my work and skills in other platforms:
   <div style="flex: 0.01;"></div>
   <div style="flex: 3;">
   <p><strong>Jan 2025 - Present</strong>.<br>
-  Freelanc Consultant.<br>
+  Freelance Consultant.<br>
   <em>Topics: Artificial Intelligence, Prompt Engineering, Physics Expertise</em>.</p>
   </div>
 </div>
