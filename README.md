@@ -107,9 +107,9 @@ View my work and skills in other platforms:
   </div>
 </div>
 
-Visit the project summary: [Deep Learning applied to Spectral Imaging of Magnetic Noise](https://fertmeneses.github.io/AI-quantum-noise-spectroscopy/).
+Visit the project summary: [Quantum Sensing and Machine Learning applied to Object Monitoring](https://fertmeneses.github.io/ML_QDM_Meneses_et_al/).
 
-Read the full scientific article: <a href="https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.18.024004" target="_blank">Toward Deep-Learning-Assisted Spectrally Resolved Imaging of Magnetic Noise</a>.
+Read the full scientific article: <a href="https://arxiv.org/abs/2502.14683" target="_blank">Machine learning assisted tracking of magnetic objects using quantum diamond magnetometry</a>.
 
 ## Artificial Intelligence assisting Quantum Noise Spectroscopy
 
