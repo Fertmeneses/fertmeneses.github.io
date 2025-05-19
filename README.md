@@ -35,6 +35,20 @@ View my work and skills in other platforms:
 
 <div style="display: flex; align-items: center; gap: 10px;">
   <div style="flex: 2;">
+  <a href="https://outlier.ai/" target="_blank">
+    <img src="assets/career_trajectory_Outlier.png" alt="Icon: Outlier" width="100%" />
+  </a>
+  </div>
+  <div style="flex: 0.01;"></div>
+  <div style="flex: 3;">
+  <p><strong>Jan 2025 - Present</strong>.<br>
+  Freelanc Consultant.<br>
+  <em>Topics: Artificial Intelligence, Prompt Engineering, Physics Expertise</em>.</p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; gap: 10px;">
+  <div style="flex: 2;">
   <a href="https://www.unimelb.edu.au/" target="_blank">
     <img src="assets/career_trajectory_Unimelb-CQC2T.png" alt="Icon: Unimelb/CQC2T" width="100%" />
   </a>
