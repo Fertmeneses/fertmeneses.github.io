@@ -103,7 +103,7 @@ View my work and skills in other platforms:
     </a>
   </div>
   <div style="flex: 2.5;">
-    <p>By combining <strong>quantum diamond magnetometry</strong> and <strong>machine learning algorithms</strong>, we have developed an <strong>integrated sensing platform capable of monitoring objects in real-time by measuring magnetic signals</strong>. This project exploits the advantages of magnetic sensing, a compelling alternative to traditional tracking systems like Global Positioning Systems (GPS), specially valuable in environments where GPS signals are unavailble, such as indoors, underground or underwater. <strong>Through Machine Learning analysis, we can process experimental measurements directly, bypassing the need of complex data physical models or simulations</strong>.
+    <p>By combining <strong>quantum diamond magnetometry</strong> and <strong>machine learning algorithms</strong>, we have developed an <strong>integrated sensing platform capable of monitoring objects in real-time by measuring magnetic signals</strong>. This project exploits the advantages of magnetic sensing, a compelling alternative to traditional tracking systems like Global Positioning Systems (GPS), specially valuable in environments where GPS signals are unavailble, such as indoors, underground or underwater. <strong>Through Machine Learning analysis, we can process experimental measurements directly, bypassing the need of complex data physical models or simulations</strong>.</p>
   </div>
 </div>
 
