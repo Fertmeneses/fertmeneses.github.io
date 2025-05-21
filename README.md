@@ -272,37 +272,39 @@ Visit the challenge website: [Open coding challenge: Bottle sets](https://fertme
 
 Articles published in peer-reviewed journals:
 
-- <a href="https://arxiv.org/abs/2502.14683" target="_blank"><strong>Machine learning assisted tracking of magnetic objects using quantum diamond magnetometry</strong></a>, main author, <em>Submitted, published on arXiv</em> (2025).
+- <a href="https://arxiv.org/abs/2505.13675" target="_blank"><strong>Temperature dependence of coercivity for isolated Ni nanowires unraveled by high-sensitivity micromagnetometry</strong></a>, <em>Submitted, published on arXiv</em> (2025).
 
-- <a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.109.064416" target="_blank"><strong>Stray magnetic field imaging of thin exfoliated iron halides flakes</strong></a>, main author, <em>Physical Review B</em> (2024).
+- <a href="https://arxiv.org/abs/2502.14683" target="_blank"><strong>Machine learning assisted tracking of magnetic objects using quantum diamond magnetometry</strong></a>, <em>Submitted, published on arXiv</em> (2025).
 
-- <a href="https://pubs.acs.org/doi/abs/10.1021/acsnano.3c01678" target="_blank"><strong>Detection of Paramagnetic Spins with an Ultrathin van der Waals Quantum Sensor</strong></a>, co-author, <em>ACS Nano</em> (2023).
+- <a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.109.064416" target="_blank"><strong>Stray magnetic field imaging of thin exfoliated iron halides flakes</strong></a>, <em>Physical Review B</em> (2024).
 
-- <a href="https://www.sciencedirect.com/science/article/abs/pii/S0304885323005796" target="_blank"><strong>Effective anisotropy in Fe-Ni nanowire arrays with strong dipolar interaction</strong></a>, co-author, <em>Journal of Magnetism and Magnetic Materials</em> (2023).
+- <a href="https://pubs.acs.org/doi/abs/10.1021/acsnano.3c01678" target="_blank"><strong>Detection of Paramagnetic Spins with an Ultrathin van der Waals Quantum Sensor</strong></a>, <em>ACS Nano</em> (2023).
 
-- <a href="https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.18.024004" target="_blank"><strong>Toward Deep-Learning-Assisted Spectrally Resolved Imaging of Magnetic Noise</strong></a>, main author, <em>Physical Review Applied</em> (2022).
+- <a href="https://www.sciencedirect.com/science/article/abs/pii/S0304885323005796" target="_blank"><strong>Effective anisotropy in Fe-Ni nanowire arrays with strong dipolar interaction</strong></a>, <em>Journal of Magnetism and Magnetic Materials</em> (2023).
 
-- <a href="https://www.sciencedirect.com/science/article/pii/S2468217922000533" target="_blank"><strong>Nickel nanobrush platform for a magnetic field-assisted electrochemical response enhancement</strong></a>, main author, <em>Journal of Science: Advanced Materials and Devices</em> (2022).
+- <a href="https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.18.024004" target="_blank"><strong>Toward Deep-Learning-Assisted Spectrally Resolved Imaging of Magnetic Noise</strong></a>, <em>Physical Review Applied</em> (2022).
 
-- <a href="https://www.sciencedirect.com/science/article/abs/pii/S0254058421013079" target="_blank"><strong>Coating of aluminum substrates with nanostructured Pd–Ni alloys by electrodeposition</strong></a>, main author, <em>Materials Chemistry and Physics</em> (2022).
+- <a href="https://www.sciencedirect.com/science/article/pii/S2468217922000533" target="_blank"><strong>Nickel nanobrush platform for a magnetic field-assisted electrochemical response enhancement</strong></a>, <em>Journal of Science: Advanced Materials and Devices</em> (2022).
 
-- <a href="https://www.sciencedirect.com/science/article/abs/pii/S0921510720301768" target="_blank"><strong>Enhanced in-plane magnetic anisotropy in thermally treated arrays of Co-Pt nanowires</strong></a>, main author, <em>Materials Science and Engineering: B</em> (2020).
+- <a href="https://www.sciencedirect.com/science/article/abs/pii/S0254058421013079" target="_blank"><strong>Coating of aluminum substrates with nanostructured Pd–Ni alloys by electrodeposition</strong></a>, <em>Materials Chemistry and Physics</em> (2022).
 
-- <a href="https://www.researchgate.net/publication/369234523_Magnetic_and_electric_characterization_of_different_Ni_systems_comprising_cylindrical_nanowires" target="_blank"><strong>Magnetic and electric characterization of different Ni systems comprising cylindrical nanowires</strong></a>, main author in chapter, book Advances in Nanotechnology, <em>Nova Science Publishers</em> (2020).
+- <a href="https://www.sciencedirect.com/science/article/abs/pii/S0921510720301768" target="_blank"><strong>Enhanced in-plane magnetic anisotropy in thermally treated arrays of Co-Pt nanowires</strong></a>, <em>Materials Science and Engineering: B</em> (2020).
 
-- <a href="https://www.sciencedirect.com/science/article/abs/pii/S1567173918301822" target="_blank"><strong>Temperature dependence of the effective anisotropy in Ni nanowire arrays</strong></a>, main author, <em>Current Applied Physics</em> (2018).
+- <a href="https://www.researchgate.net/publication/369234523_Magnetic_and_electric_characterization_of_different_Ni_systems_comprising_cylindrical_nanowires" target="_blank"><strong>Magnetic and electric characterization of different Ni systems comprising cylindrical nanowires</strong></a>, chapter in book Advances in Nanotechnology, <em>Nova Science Publishers</em> (2020).
 
-- <a href="https://www.sciencedirect.com/science/article/abs/pii/S0925838818324289" target="_blank"><strong>L1<sub>0</sub>-FeNi ordered phase in AC electrodeposited iron-nickel biphasic nanowires</strong></a>, main author, <em>Journal of Alloys and Compounds</em> (2018).
+- <a href="https://www.sciencedirect.com/science/article/abs/pii/S1567173918301822" target="_blank"><strong>Temperature dependence of the effective anisotropy in Ni nanowire arrays</strong></a>, <em>Current Applied Physics</em> (2018).
 
-- <a href="https://www.scielo.br/j/rmat/a/VdqW9qyQnRrTZ5XDTJhsHYD/abstract/?lang=en" target="_blank"><strong>Influence of the porosity on the magnetic properties of Ni nanowires arrays</strong></a>, main author, <em>Matéria (Rio de Janeiro)</em> (2015).
+- <a href="https://www.sciencedirect.com/science/article/abs/pii/S0925838818324289" target="_blank"><strong>L1<sub>0</sub>-FeNi ordered phase in AC electrodeposited iron-nickel biphasic nanowires</strong></a>, <em>Journal of Alloys and Compounds</em> (2018).
+
+- <a href="https://www.scielo.br/j/rmat/a/VdqW9qyQnRrTZ5XDTJhsHYD/abstract/?lang=en" target="_blank"><strong>Influence of the porosity on the magnetic properties of Ni nanowires arrays</strong></a>, <em>Matéria (Rio de Janeiro)</em> (2015).
 
 PhD thesis:
 
-- <a href="https://drive.google.com/drive/folders/14G7YtKs9L1--VpNOOlIMveMVX2rnMpoY?usp=sharing" target="_blank"><strong>Magnetic nanowires: sample preparation and physico-chemical properties</strong></a>, main author, directed by Prof. Paula Bercoff, <em>National University of Córdoba</em> (2020).
+- <a href="https://drive.google.com/drive/folders/14G7YtKs9L1--VpNOOlIMveMVX2rnMpoY?usp=sharing" target="_blank"><strong>Magnetic nanowires: sample preparation and physico-chemical properties</strong></a>, directed by Prof. Paula Bercoff, <em>National University of Córdoba</em> (2020).
 
 Licenciature final work:
 
-- <a href="https://drive.google.com/drive/folders/14G7YtKs9L1--VpNOOlIMveMVX2rnMpoY?usp=sharing" target="_blank"><strong>Magnetic and structural properties of Ni nanowires in porous alumina templates</strong></a>, main author, directed by Prof. Paula Bercoff, <em>National University of Córdoba</em> (2015).
+- <a href="https://drive.google.com/drive/folders/14G7YtKs9L1--VpNOOlIMveMVX2rnMpoY?usp=sharing" target="_blank"><strong>Magnetic and structural properties of Ni nanowires in porous alumina templates</strong></a>, directed by Prof. Paula Bercoff, <em>National University of Córdoba</em> (2015).
 
 # Image Gallery
 
