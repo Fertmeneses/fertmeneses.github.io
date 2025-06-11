@@ -302,7 +302,7 @@ PhD thesis:
 
 - <a href="https://drive.google.com/drive/folders/14G7YtKs9L1--VpNOOlIMveMVX2rnMpoY?usp=sharing" target="_blank"><strong>Magnetic nanowires: sample preparation and physico-chemical properties</strong></a>, directed by Prof. Paula Bercoff, <em>National University of Córdoba</em> (2020).
 
-Licenciature final work:
+Physics Degree final project:
 
 - <a href="https://drive.google.com/drive/folders/14G7YtKs9L1--VpNOOlIMveMVX2rnMpoY?usp=sharing" target="_blank"><strong>Magnetic and structural properties of Ni nanowires in porous alumina templates</strong></a>, directed by Prof. Paula Bercoff, <em>National University of Córdoba</em> (2015).
 
