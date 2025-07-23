@@ -1,6 +1,6 @@
 <div style="display: flex; align-items: center; gap: 10px;">
   <img src="assets/logo_image.png" alt="Logo image" width="20%" />
-  <p>I'm a physicist with expertise in Artificial Intelligence, Quantum Sensing and Magnetic Nanomaterials. I've worked at the <strong>University of Melbourne</strong> (Australia), the <strong>City College of New York</strong> (USA) and the <strong>National University of Córdoba</strong> (Argentina), where I'm currently employed as an associate professor. In the last years, I've been focusing on combining my Machine Learning skills with my background in experimental Physics and data science.</p>
+  <p>With more than 10 years of experience in <strong>Data Analysis</strong> and <strong>Machine Learning</strong>, I am a skilled professional dedicated to solving complex problems by integrating <strong>AI</strong>, <strong>statistical analysis</strong> and the <strong>scientific method</strong>. I have successfully led international teams in developing and deploying advanced solutions, including <strong>deep learning</strong> models for <strong>predictive analysis</strong> and <strong>computer vision</strong> systems for geometric analysis of 2D images.</p>
 </div> 
 
 # CV and links
