@@ -110,10 +110,15 @@ View my work and skills in other platforms:
   </div>
   <div style="flex: 0.01;"></div>
   <div style="flex: 3;">
-  <p><em>Mar 2020 - Dec 2020</em>.<br>
-  <strong>Data Scientist – Quantum Systems and ML Integration.</strong><br>
-  Post-doctoral researcher / Assistant professor.<br>
-  <em>Topics: Magnetism, Nanomaterials, Experimental Physics</em>.</p>
+  <p><em>Mar 2015 - Mar 2020</em>.<br>
+  <strong>Data Scientist – Materials Science and Nanotechnology.</strong><br>
+  • Conducted advanced research on materials science and nanotechnology applications, leveraging data-driven approaches to solve complex scientific problems.<br>
+  • Performed comprehensive statistical analyses on experimental and simulation data to extract meaningful insights and validate hypotheses.<br>
+  • Collaborated with international research teams, coordinating data sharing and aligning project objectives across multidisciplinary groups.<br>
+  • Developed and maintained robust codebases and related tools for data processing, modeling, and visualization.<br>
+  • Managed project timelines, resources, and deliverables to ensure successful completion of research milestones.<br>
+  • Communicated research findings to both technical and non-technical audiences through reports, publications, and public outreach initiatives.
+  </p>
   </div>
 </div>
 
