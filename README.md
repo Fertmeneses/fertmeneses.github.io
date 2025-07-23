@@ -58,9 +58,13 @@ View my work and skills in other platforms:
   </div>
   <div style="flex: 0.01;"></div>
   <div style="flex: 3;">
-  <p><strong>Dec 2024 - Present</strong>.<br>
-  Associate Professor.<br>
-  <em>Topics: Artificial Intelligence, Magnetism, Nanomaterials, Experimental Physics</em>.</p>
+  <p><em>Dec 2024 - Present</em>.<br>
+  <strong>AI Research Lead – Nanotechnology Applications.</strong><br>
+  • Implement Deep learning solutions to analyze complex physical systems and experimental data.<br>
+  • Apply computer vision, statistical analysis and predictive modeling in projects with industrial relevance.<br>
+  • Lead cross-functional teams, fostering a collaborative and goal-oriented research environment.<br>
+  • Supervise junior researchers and students, providing mentorship in data analysis, scientific communication and project execution.
+  </p>
   </div>
 </div>
 
