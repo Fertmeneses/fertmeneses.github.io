@@ -3,6 +3,20 @@
   <p>With more than 10 years of experience in <strong>Data Analysis</strong> and <strong>Machine Learning</strong>, I am a skilled professional dedicated to solving complex problems by integrating <strong>AI</strong>, <strong>statistical analysis</strong> and the <strong>scientific method</strong>. I have successfully led international teams in developing and deploying advanced solutions, including <strong>deep learning</strong> models for <strong>predictive analysis</strong> and <strong>computer vision</strong> systems for geometric analysis of 2D images.</p>
 </div> 
 
+# Core competencies
+
+⚙️ <strong>Machine Learning & AI</strong>: Deep learning | Computer vision | Time series forecasting | NLP | Classical ML (scikit-learn)
+
+💻 <strong>Programming & Tools</strong>: Python | TensorFlow | Pandas | NumPy | Scikit-learn | OpenCV | Matlab | Fortran
+
+📊 <strong>Data Analysis</strong>: Statistical modeling | Simulations | Hypothesis testing | Physical modeling
+
+📈 <strong>Visualization & BI</strong>: Matplotlib | Seaborn | Looker
+
+☁️ <strong>Cloud & Big Data</strong>: Google Cloud Platform (GCP) | BigQuery | Dataproc | SQL
+
+🤝 <strong>Soft Skills</strong>: Clear communication of technical results | Problem-solving | Cross-functional collaboration | Project leadership | Project management | International teamworking
+
 # CV and links
 
  <a href="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/CV_MENESES.pdf" target="_blank">[Check my CV]</a> 👈 &nbsp;&nbsp; Let's connect! &nbsp;&nbsp; <a href="https://www.linkedin.com/in/fernando-meneses-unc/" target="_blank"> <img src="assets/icon_LinkedIn.png" style="left: right; width: 2.5%;" alt="LinkedIn icon"/></a> <a href="https://www.linkedin.com/in/fernando-meneses-unc/" target="_blank">&nbsp;LinkedIn</a>
