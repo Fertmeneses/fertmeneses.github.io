@@ -5,17 +5,17 @@
 
 # Core competencies
 
-⚙️ <strong>Machine Learning & AI</strong>: Deep learning | Computer vision | Time series forecasting | NLP | Classical ML (scikit-learn)
+⚙️ <strong>Machine Learning & AI</strong>: Deep learning \| Computer vision \| Time series forecasting \| NLP \| Classical ML (scikit-learn)
 
-💻 <strong>Programming & Tools</strong>: Python | TensorFlow | Pandas | NumPy | Scikit-learn | OpenCV | Matlab | Fortran
+💻 <strong>Programming & Tools</strong>: Python \| TensorFlow \| Pandas \| NumPy \| Scikit-learn \| OpenCV \| Matlab \| Fortran
 
-📊 <strong>Data Analysis</strong>: Statistical modeling | Simulations | Hypothesis testing | Physical modeling
+📊 <strong>Data Analysis</strong>: Statistical modeling \| Simulations \| Hypothesis testing \| Physical modeling
 
-📈 <strong>Visualization & BI</strong>: Matplotlib | Seaborn | Looker
+📈 <strong>Visualization & BI</strong>: Matplotlib \| Seaborn \| Looker
 
-☁️ <strong>Cloud & Big Data</strong>: Google Cloud Platform (GCP) | BigQuery | Dataproc | SQL
+☁️ <strong>Cloud & Big Data</strong>: Google Cloud Platform (GCP) \| BigQuery \| Dataproc \| SQL
 
-🤝 <strong>Soft Skills</strong>: Clear communication of technical results | Problem-solving | Cross-functional collaboration | Project leadership | Project management | International teamworking
+🤝 <strong>Soft Skills</strong>: Clear communication of technical results \| Problem-solving \| Cross-functional collaboration \| Project leadership \| Project management \| International teamworking
 
 # CV and links
 
