@@ -76,9 +76,12 @@ View my work and skills in other platforms:
   </div>
   <div style="flex: 0.01;"></div>
   <div style="flex: 3;">
-  <p><strong>Mar 2022 - Nov 2024</strong>.<br>
-  Post-doctoral researcher.<br>
-  <em>Topics: Artificial Intelligence, Quantum Sensing, Diamond Magnetomery, Experimental Physics</em>.</p>
+  <p><em>Mar 2022 - Nov 2024</em>.<br>
+  <strong>ML Project Lead – Quantum Sensing Applications.</strong><br>
+  • Managed end-to-end ML pipelines, using ETL workflows to process both structured and unstructured data.<br>
+  • Collaborated with interdisciplinary teams to align model outputs with physical constraints and sensor requirements.<br>
+  • Applied Business Intelligence principles to create clear, impactful dashboards and data visualizations that supported decision-making across the team.
+  </p>
   </div>
 </div>
 
