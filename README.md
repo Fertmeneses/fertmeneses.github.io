@@ -35,6 +35,23 @@ View my work and skills in other platforms:
 
 <div style="display: flex; align-items: center; gap: 10px;">
   <div style="flex: 2;">
+  <a href="https://outlier.ai/" target="_blank">
+    <img src="assets/career_trajectory_Outlier.png" alt="Icon: Outlier" width="100%" />
+  </a>
+  </div>
+  <div style="flex: 0.01;"></div>
+  <div style="flex: 3;">
+  <p><strong>Jan 2025 - Present</strong>.<br>
+  AI Consultant – Prompt engineering and Model evaluation.<br>
+  - Develop high-quality structured prompts and Physics problems to train and evaluate LLM models.
+  - Analyze model outputs to identify reasoning gaps and propose targeted improvements.
+  - Mentor junior consultants providing technical guidance and quality control for prompt engineering and evaluation workflows.
+</p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; gap: 10px;">
+  <div style="flex: 2;">
   <a href="https://www.famaf.unc.edu.ar/" target="_blank">
     <img src="assets/career_trajectory_UNC.png" alt="Icon: UNC" width="100%" />
   </a>
@@ -44,20 +61,6 @@ View my work and skills in other platforms:
   <p><strong>Dec 2024 - Present</strong>.<br>
   Associate Professor.<br>
   <em>Topics: Artificial Intelligence, Magnetism, Nanomaterials, Experimental Physics</em>.</p>
-  </div>
-</div>
-
-<div style="display: flex; align-items: center; gap: 10px;">
-  <div style="flex: 2;">
-  <a href="https://outlier.ai/" target="_blank">
-    <img src="assets/career_trajectory_Outlier.png" alt="Icon: Outlier" width="100%" />
-  </a>
-  </div>
-  <div style="flex: 0.01;"></div>
-  <div style="flex: 3;">
-  <p><strong>Jan 2025 - Present</strong>.<br>
-  Freelance Consultant.<br>
-  <em>Topics: Artificial Intelligence, Prompt Engineering, Physics Expertise</em>.</p>
   </div>
 </div>
 
