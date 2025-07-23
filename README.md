@@ -42,13 +42,11 @@ View my work and skills in other platforms:
   <div style="flex: 0.01;"></div>
   <div style="flex: 3;">
     <p><em>Jan 2025 - Present</em>.<br>
-    <strong>AI Consultant – Prompt engineering and Model evaluation.</strong>
-    </p>
-    <ul>
-      <li>Develop high-quality structured prompts and Physics problems to train and evaluate LLM models.
-      <li>Analyze model outputs to identify reasoning gaps and propose targeted improvements.
-      <li>Mentor junior consultants providing technical guidance and quality control for prompt engineering and evaluation workflows.
-    </ul>    
+    <strong>AI Consultant – Prompt engineering and Model evaluation.</strong>  
+    • Develop high-quality structured prompts and Physics problems to train and evaluate LLM models.<br>
+    • Analyze model outputs to identify reasoning gaps and propose targeted improvements.<br>
+    • Mentor junior consultants providing technical guidance and quality control for prompt engineering and evaluation workflows.
+    </p> 
   </div>
 </div>
 
