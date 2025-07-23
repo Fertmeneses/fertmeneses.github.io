@@ -93,9 +93,12 @@ View my work and skills in other platforms:
   </div>
   <div style="flex: 0.01;"></div>
   <div style="flex: 3;">
-  <p><strong>Feb 2021 - Feb 2022</strong>.<br>
-  Post-doctoral researcher.<br>
-  <em>Topics: Artificial Intelligence, Quantum Sensing, Diamond Magnetomery, Experimental Physics</em>.</p>
+  <p><em>Apr 2020 - Feb 2022</em>.<br>
+  <strong>Data Scientist – Quantum Systems and ML Integration.</strong><br>
+  • Simulated synthetic datasets for training and validating machine learning models.<br>
+  • Applied statistical analysis techniques to analyze complex experimental and simulated data.<br>
+  • Engineered the interface between machine learning algorithms and quantum sensor hardware for seamless data ingestion.
+  </p>
   </div>
 </div>
 
@@ -107,7 +110,8 @@ View my work and skills in other platforms:
   </div>
   <div style="flex: 0.01;"></div>
   <div style="flex: 3;">
-  <p><strong>Mar 2020 - Dec 2020</strong>.<br>
+  <p><em>Mar 2020 - Dec 2020</em>.<br>
+  <strong>Data Scientist – Quantum Systems and ML Integration.</strong><br>
   Post-doctoral researcher / Assistant professor.<br>
   <em>Topics: Magnetism, Nanomaterials, Experimental Physics</em>.</p>
   </div>
