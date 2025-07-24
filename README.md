@@ -70,8 +70,8 @@ View my work and skills in other platforms:
 
 <div style="display: flex; align-items: center; gap: 10px;">
   <div style="flex: 2;">
-  <a href="https://www.unimelb.edu.au/" target="_blank">
-    <img src="assets/career_trajectory_Unimelb-CQC2T.png" alt="Icon: Unimelb/CQC2T" width="100%" />
+  <a href="https://www.cqc2t.org/" target="_blank">
+    <img src="assets/career_trajectory_CQC2T.png" alt="Icon: CQC2T" width="100%" />
   </a>
   </div>
   <div style="flex: 0.01;"></div>
