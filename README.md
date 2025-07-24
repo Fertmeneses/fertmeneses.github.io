@@ -105,7 +105,7 @@ View my work and skills in other platforms:
 <div style="display: flex; align-items: center; gap: 10px;">
   <div style="flex: 2;">
   <a href="https://www.conicet.gov.ar/" target="_blank">
-    <img src="assets/career_trajectory_UNC-CONICET.png" alt="Icon: UNC-CONICET" width="100%" />
+    <img src="assets/career_trajectory_CONICET.png" alt="Icon: CONICET" width="100%" />
   </a>
   </div>
   <div style="flex: 0.01;"></div>
