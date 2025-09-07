@@ -41,7 +41,7 @@ View my work and skills in other platforms:
   </div>
   <div style="flex: 0.01;"></div>
   <div style="flex: 3;">
-    <p><em>Jan 2025 - Present</em>.<br>
+    <p><em>Jan 2025 - Aug 2025</em>.<br>
     <strong>AI Consultant – Prompt engineering and Model evaluation.</strong><br>  
     • Develop high-quality structured prompts and Physics problems to train and evaluate LLM models.<br>
     • Analyze model outputs to identify reasoning gaps and propose targeted improvements.<br>
@@ -58,7 +58,7 @@ View my work and skills in other platforms:
   </div>
   <div style="flex: 0.01;"></div>
   <div style="flex: 3;">
-  <p><em>Dec 2024 - Present</em>.<br>
+  <p><em>Dec 2024 - Aug 2025</em>.<br>
   <strong>AI Research Lead – Nanotechnology Applications.</strong><br>
   • Implement Deep learning solutions to analyze complex physical systems and experimental data.<br>
   • Apply computer vision, statistical analysis and predictive modeling in projects with industrial relevance.<br>
