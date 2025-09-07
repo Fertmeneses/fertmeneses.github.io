@@ -141,6 +141,21 @@ View my work and skills in other platforms:
 
 # Research AI-Projects
 
+## Crypto Pipeline Project
+
+<div style="display: flex; align-items: center; gap: 10px;">
+  <div style="flex: 2.5;">
+    <p>This project is about designing a whole <strong>pipeline for processing cryptocurrency information and make predictions in the future</strong>. Across 4 different stages, I have managed the various steps of the full process, starting by the <strong>Extract, Transform and Load (ETL)</strong> process, then performed <strong>data analysis and engineering</strong>, and finally built <strong>Machine Learning (ML) models</strong> that can predict the price of cryptocurrency 1 day ahead, based on the previous 7 days activity and other features.</p>
+  </div>
+  <div style="flex: 1;">
+    <a href="https://fertmeneses.github.io/Crypto-Pipeline-Project/">
+      <img src="assets/logo_Crypto_Project.png" alt="Project image" style="width: 90%;" />
+    </a>
+  </div>
+</div>
+
+Visit the project summary: [Crypto Pipeline Project](https://fertmeneses.github.io/Crypto-Pipeline-Project/).
+
 ## Quantum Sensing and Machine Learning applied to Object Monitoring
 
 <div style="display: flex; align-items: center; gap: 10px;">
