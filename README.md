@@ -35,6 +35,24 @@ View my work and skills in other platforms:
 
 <div style="display: flex; align-items: center; gap: 10px;">
   <div style="flex: 2;">
+  <a href="https://www.proofpoint.com/us" target="_blank">
+    <img src="assets/career_trajectory_Proofpoint.png" alt="Icon: Proofpoint" width="100%" />
+  </a>
+  </div>
+  <div style="flex: 0.01;"></div>
+  <div style="flex: 3;">
+    <p><em>Sep 2025 - Ongoing</em>.<br>
+    <strong>Data Scientist.</strong><br> 
+    • Analyze and model large-scale cybersecurity data to detect anomalies and improve attack detection strategies.<br>
+    • Develop and refine machine learning models, focusing on fraud detection, anomaly detection, NLP, and predictive modeling.<br>
+    • Collaborate with engineers and MLOps specialists to deploy models and optimize data pipelines.<br>
+    • Monitor and evaluate model performance, ensuring robustness and accuracy in production.
+    </p> 
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; gap: 10px;">
+  <div style="flex: 2;">
   <a href="https://outlier.ai/" target="_blank">
     <img src="assets/career_trajectory_Outlier.png" alt="Icon: Outlier" width="100%" />
   </a>
