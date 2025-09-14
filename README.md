@@ -42,9 +42,9 @@ View my work and skills in other platforms:
   <div style="flex: 0.01;"></div>
   <div style="flex: 3;">
     <p><em>Sep 2025 - Ongoing</em>.<br>
-    <strong>Data Scientist.</strong><br> 
+    <strong>Data Scientist – Cybersecurity.</strong><br> 
     • Analyze and model large-scale cybersecurity data to detect anomalies and improve attack detection strategies.<br>
-    • Develop and refine machine learning models, focusing on fraud detection, anomaly detection, NLP, and predictive modeling.<br>
+    • Develop and refine ML models, focusing on fraud detection, anomaly detection, NLP and predictive modeling.<br>
     • Collaborate with engineers and MLOps specialists to deploy models and optimize data pipelines.<br>
     • Monitor and evaluate model performance, ensuring robustness and accuracy in production.
     </p> 
@@ -61,9 +61,9 @@ View my work and skills in other platforms:
   <div style="flex: 3;">
     <p><em>Jan 2025 - Aug 2025</em>.<br>
     <strong>AI Consultant – Prompt engineering and Model evaluation.</strong><br>  
-    • Develop high-quality structured prompts and Physics problems to train and evaluate LLM models.<br>
-    • Analyze model outputs to identify reasoning gaps and propose targeted improvements.<br>
-    • Mentor junior consultants providing technical guidance and quality control for prompt engineering and evaluation workflows.
+    • Developed high-quality structured prompts and Physics problems to train and evaluate LLM models.<br>
+    • Analyzed model outputs to identify reasoning gaps and propose targeted improvements.<br>
+    • Mentored junior consultants providing technical guidance and quality control for prompt engineering and evaluation workflows.
     </p> 
   </div>
 </div>
@@ -78,10 +78,10 @@ View my work and skills in other platforms:
   <div style="flex: 3;">
   <p><em>Dec 2024 - Aug 2025</em>.<br>
   <strong>AI Research Lead – Nanotechnology Applications.</strong><br>
-  • Implement Deep learning solutions to analyze complex physical systems and experimental data.<br>
-  • Apply computer vision, statistical analysis and predictive modeling in projects with industrial relevance.<br>
-  • Lead cross-functional teams, fostering a collaborative and goal-oriented research environment.<br>
-  • Supervise junior researchers and students, providing mentorship in data analysis, scientific communication and project execution.
+  • Implemented Deep learning solutions to analyze complex physical systems and experimental data.<br>
+  • Applied computer vision, statistical analysis and predictive modeling in projects with industrial relevance.<br>
+  • Led cross-functional teams, fostering a collaborative and goal-oriented research environment.<br>
+  • Supervised junior researchers and students, providing mentorship in data analysis, scientific communication and project execution.
   </p>
   </div>
 </div>
