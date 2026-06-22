@@ -28,3 +28,15 @@ I want suggestions to improve the layout a bit more:
 - Add a banner at the bottom that explicitly says that the website is designed by me, assisted by Clauce Code.
 - If necessary, you change the configuration of [README.md + _config.yml] to something else, but it must work with Github pages.
 - If you add colors bor boxes, decoration, etc., then one of the main colors must be green, similar to #169903ff.
+
+Also, I will modify some of the core features of my website:
+
+- The section Scientific Publications currently shows all my papers as a list with links. I want to convert them in something much more graphical and limited in space, because this section is not very important anymore. Maybe a carrousel, or a tiles gallery that are expanded on hover/touch. 
+
+- The section Research AI-Projects and Coding Challenges should be merged into a single section "AI-Projects and Challenges", keep the order of the subsections and the content.
+
+- In the "Core competencies" section, let's change ⚙️ Machine Learning & AI: Deep learning | Computer vision | Time series forecasting | NLP | Classical ML (scikit-learn) to the following: 🤖 Machine Learning & Agentic AI: Deep learning | Claude Code | Spec-driven development | Computer vision | Time series forecasting.
+Change [☁️ Cloud & Big Data: Google Cloud Platform (GCP) | BigQuery | Dataproc | SQL] to:
+[☁️ Cloud & Big Data: AWS | GCP | SQL]
+Change [🤝 Soft Skills: Clear communication of technical results | Problem-solving | Cross-functional collaboration | Project leadership | Project management | International teamworking] to:
+🤝 Soft Skills: Communication | Problem-solving | Project leadership | Project management | Teamworking
