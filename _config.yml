@@ -1,10 +1,39 @@
 title: Fernando Meneses
 email: fertmeneses@gmail.com
-logo: assets/logo.png
+logo: assets/website_icon_FM.jpg
 description: Data scientist | Physicist
-show_downloads: True
+show_downloads: False
 google_analytics: G-BFPGQJLFVK
-#theme: jekyll-theme-slate
-remote_theme: pages-themes/slate@v0.2.0
+
+# Self-contained custom layout (_layouts/default.html + assets/css/style.css).
+# No remote theme — keeps the build fast and fully under our control while
+# remaining GitHub Pages compatible (core Jekyll + kramdown only).
+
+# Use GitHub-Flavored Markdown via kramdown, with auto heading IDs for nav anchors.
+markdown: kramdown
+kramdown:
+  input: GFM
+  auto_ids: true
+
+# Ensure the homepage (README.md -> index, via jekyll-readme-index) uses our layout.
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+# Plugins we rely on (both are on the GitHub Pages allowlist):
+#  - jekyll-seo-tag      provides the {% seo %} tag in the layout
+#  - jekyll-readme-index serves README.md as the site homepage
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-seo-tag
+  - jekyll-readme-index
+
+# Don't copy planning/scratch files into the built site.
+exclude:
+  - ai_planning
+  - ideas_html
+  - README_OLD.md
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
