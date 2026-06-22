@@ -321,8 +321,8 @@ hr { border: none; border-top: 1px solid var(--border); margin: 2.5rem 0; }
   transition: transform 0.18s ease, box-shadow 0.18s ease, border-color 0.18s ease;
 }
 .job:hover { transform: translateY(-3px); box-shadow: var(--shadow-lg); }
-.job-icon { flex: 0 0 140px; display: flex; align-items: center; justify-content: center; }
-.job-icon img { width: 100%; max-width: 140px; height: auto; object-fit: contain; transition: transform 0.18s ease; }
+.job-icon { flex: 0 0 210px; display: flex; align-items: center; justify-content: center; }
+.job-icon img { width: 100%; max-width: 210px; height: auto; object-fit: contain; transition: transform 0.18s ease; }
 .job:hover .job-icon img { transform: scale(1.06); }
 .job-body { flex: 1; min-width: 0; }
 .job-date {

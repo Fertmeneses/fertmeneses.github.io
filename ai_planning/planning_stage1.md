@@ -96,3 +96,15 @@ Things I don't like:
 - In the Bottle sets section, place all text and links to the right, enlarge the image a bit.
 - In Media releases, let's alternate images in left-right columns, starting on the left. For Graduates, enlarge the image 50% more.
 - Top menu: when you click a section, the screen goes to that section but the title is placed too low, it should place it on top.
+
+## Suggestions for next version V4
+
+Comments after version V3:
+
+- Core competences: great!
+- CV and links: great!
+- Career trajectory: good! Let's make the icons 50% wider (keep image proportions)
+- Bottle sets: make the image 25% less tall (keep image proportions)
+- Virtual-nanodiamond: make the image 50% larger (keep image proportions)
+- News article: make the image 25% larger (keep image proportions)
+- Image gallery: great! Let's create a "Proofpoint" subsection at the top, with the following image (in this order): assets/PFPT_group_2026.jpg , assets/PFPT_meeting_auditorium.jpg
