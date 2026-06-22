@@ -14,7 +14,7 @@ My website must:
 - Have a relatively simple design, nothing too fancy nor heavy to be displayed (computational resources)
 - Be tracked by Google analytics (it is currently being tracked)
 
-## Suggestions for next version
+## Suggestions for next version V2
 
 Right now, my website has a very simple structure, displaying section after section without a top nor side menues, and without animations.
 It is using a very simple style in @_config.yml: remote_theme: pages-themes/slate@v0.2.0.
@@ -40,3 +40,34 @@ Change [☁️ Cloud & Big Data: Google Cloud Platform (GCP) | BigQuery | Datapr
 [☁️ Cloud & Big Data: AWS | GCP | SQL]
 Change [🤝 Soft Skills: Clear communication of technical results | Problem-solving | Cross-functional collaboration | Project leadership | Project management | International teamworking] to:
 🤝 Soft Skills: Communication | Problem-solving | Project leadership | Project management | Teamworking
+
+## Comments after AI implementation - Version 1
+
+After commit 8969cfa84c99ebfcc455e7fce8d6072dc0041eac, I have the following comments:
+
+Things I like:
+
+- Top menu
+- Dark/bright themes
+- Scientific publications tiles
+
+Things should be improved:
+
+- The header section, with my image and text, has a terrible layout, with a lot of blank space next to my image. You should place the text next to the image. Also, change the left margin of the card, that's too Claude-standard-style, I want to stand out, so make something different.
+- Core compentencies should be organized with a more attractive layout, with some animations. The text should always be visible.
+- In CV and links, the GitHub icon cannot be seen in the dark mode, because it is black.
+- In Career trajectory, the layout is terrible: the images on the left take a lot of space in wide screens.
+- In AI-Projects and Challenges, similar comment for layout: images take too much space in some cases, when the text is relatively short. For example, the Crypto project has a too large image. The other projects are ok, so reduce the crypto image size.
+In Spaceship Titanic, there is a too large space between the two text paragraphs! Reduce that space.
+The Open coding challenge image should be to the left, and also reduce the image a bit. Again, there is a too large space between the two paragraphs.
+- In Media releases, same comment for image size: they are too big compared to the text in the cases "Graduates" and "Show us your Science".
+- In Image Gallery, fit the images in one row for each subsection
+- Remove the "Back to top", it is no necessary now that we have the top menu.
+- Change "Designed by Fernando Meneses, assisted by Claude Code." by "Designed by Fernando Meneses, using spec-driven development with AI agents."
+
+Scientific Publication Updates:
+
+- <a class="pub-tile" href="https://arxiv.org/abs/2505.13675" target="_blank" rel="noopener"><span class="pub-venue">arXiv</span><span class="pub-year">2025</span><span class="pub-title">Temperature dependence of coercivity for isolated Ni nanowires unraveled by high-sensitivity micromagnetometry</span><span class="pub-cta">Open →</span></a> should be changed by:
+<a class="pub-tile" href="https://journals.aps.org/prb/abstract/10.1103/dcf2-7rsc" target="_blank" rel="noopener"><span class="pub-venue">Physical Review B</span><span class="pub-year">2025</span><span class="pub-title">Temperature dependence of coercivity for isolated Ni nanowires unraveled by high-sensitivity micromagnetometry</span><span class="pub-cta">Open →</span></a>
+- New publication: 
+<a class="pub-tile" href="https://iopscience.iop.org/article/10.1088/1361-6463/ae410e/meta" target="_blank" rel="noopener"><span class="pub-venue">J. Phys. D: Appl. Phys.</span><span class="pub-year">2026</span><span class="pub-title">Readout optimisation for spin-based quantum sensing using the nitrogen vacancy centre in diamond</span><span class="pub-cta">Open →</span></a>

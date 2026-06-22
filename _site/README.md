@@ -1,21 +1,18 @@
-<div style="display: flex; align-items: center; gap: 10px;">
-  <img src="assets/logo_image.png" alt="Logo image" width="20%" />
+<div class="hero">
+  <img src="assets/logo_image.png" alt="Fernando Meneses" class="hero-img" />
   <p>With more than 10 years of experience in <strong>Data Analysis</strong> and <strong>Machine Learning</strong>, I am a skilled professional dedicated to solving complex problems by integrating <strong>agentic AI</strong>, <strong>ML programming</strong>, <strong>statistical analysis</strong> and the <strong>scientific method</strong>. I have successfully led international teams in developing and deploying advanced solutions, including <strong>deep learning</strong> models for <strong>predictive analysis</strong> and <strong>cybersecurity ML models</strong>.</p>
-</div> 
+</div>
 
 # Core competencies
 
-🤖 <strong>Machine Learning & Agentic AI</strong>: Deep learning \| Claude Code \| Spec-driven development \| LLM \| Time series forecasting
-
-💻 <strong>Programming & Tools</strong>: Python \| TensorFlow \| Pandas \| Scikit-learn \| OpenCV \| Matlab
-
-📊 <strong>Data Analysis</strong>: Statistical modeling \| Simulations \| Hypothesis testing \| Physical modeling
-
-📈 <strong>Visualization & BI</strong>: Matplotlib \| Seaborn \| Looker
-
-☁️ <strong>Cloud & Big Data</strong>: AWS \| GCP \| SQL
-
-🤝 <strong>Soft Skills</strong>: Communication \| Problem-solving \| Project leadership \| Project management \| Teamworking
+<div class="comp-grid">
+  <div class="comp-card reveal"><div class="comp-head"><span class="comp-icon">🤖</span><h3>Machine Learning &amp; Agentic AI</h3></div><p>Deep learning · Claude Code · Spec-driven development · LLM · Time series forecasting</p></div>
+  <div class="comp-card reveal"><div class="comp-head"><span class="comp-icon">💻</span><h3>Programming &amp; Tools</h3></div><p>Python · TensorFlow · Pandas · Scikit-learn · OpenCV · Matlab</p></div>
+  <div class="comp-card reveal"><div class="comp-head"><span class="comp-icon">📊</span><h3>Data Analysis</h3></div><p>Statistical modeling · Simulations · Hypothesis testing · Physical modeling</p></div>
+  <div class="comp-card reveal"><div class="comp-head"><span class="comp-icon">📈</span><h3>Visualization &amp; BI</h3></div><p>Matplotlib · Seaborn · Looker</p></div>
+  <div class="comp-card reveal"><div class="comp-head"><span class="comp-icon">☁️</span><h3>Cloud &amp; Big Data</h3></div><p>AWS · GCP · SQL</p></div>
+  <div class="comp-card reveal"><div class="comp-head"><span class="comp-icon">🤝</span><h3>Soft Skills</h3></div><p>Communication · Problem-solving · Project leadership · Project management · Teamworking</p></div>
+</div>
 
 # CV and links
 
@@ -167,7 +164,7 @@ View my work and skills in other platforms:
   </div>
   <div style="flex: 1;">
     <a href="https://fertmeneses.github.io/Crypto-Pipeline-Project/">
-      <img src="assets/logo_Crypto_Project.png" alt="Project image" style="width: 90%;" />
+      <img src="assets/logo_Crypto_Project.png" alt="Project image" style="max-width: 140px; width: 100%;" />
     </a>
   </div>
 </div>
@@ -234,7 +231,7 @@ Check the original version for Kaggle: <a href="https://www.kaggle.com/code/fert
   </div>
   <div style="flex: 1;">
     <a href="https://www.kaggle.com/code/fertmeneses/spaceship-titanic-data-imputation" target="_blank">
-      <img src="assets/logo_titanic_spacehip.jpg" alt="Project image" style="width: 90%;" />
+      <img src="assets/logo_titanic_spacehip.jpg" alt="Project image" style="max-width: 150px; width: 100%;" />
     </a>
   </div>
 </div>
@@ -248,13 +245,13 @@ I've segmented my work in progressive stages, starting with data analysis and co
 ## Open coding challenge: Bottle sets
 
 <div style="display: flex; align-items: center; gap: 10px;">
-  <div style="flex: 2.5;">
-    <p>Inspired in the challenges offered by the Turing platform, I've designed my own <strong>open coding challenge to develop both programming and data analysis skills</strong>. Anyone can attempt their own solution and try to pass all test cases. As in the original format, the users can attempt to reach the correct answers before 45 minutes, but they can also put the pressure aside and do it at their own pace. As a reference, I've included my own solution, explained my reasoning and broke down my code line by line.</p>
-  </div>
   <div style="flex: 1;">
     <a href="https://fertmeneses.github.io/coding_challenge_bottle_sets/">
-      <img src="assets/Image_AI_bottles.jpg" alt="Project image" style="width: 90%;" />
+      <img src="assets/Image_AI_bottles.jpg" alt="Project image" style="max-width: 150px; width: 100%;" />
     </a>
+  </div>
+  <div style="flex: 2.5;">
+    <p>Inspired in the challenges offered by the Turing platform, I've designed my own <strong>open coding challenge to develop both programming and data analysis skills</strong>. Anyone can attempt their own solution and try to pass all test cases. As in the original format, the users can attempt to reach the correct answers before 45 minutes, but they can also put the pressure aside and do it at their own pace. As a reference, I've included my own solution, explained my reasoning and broke down my code line by line.</p>
   </div>
 </div>
 
@@ -272,7 +269,7 @@ Visit the challenge website: [Open coding challenge: Bottle sets](https://fertme
   </div>
   <div style="flex: 1;">
     <a href="https://www.instagram.com/famaf_unc/reel/DDfQBQdq0Rs/" target="_blank">
-      <img src="assets/media_2024-12_FAMAF_interview.png" alt="Media: FAMAF interview" style="width: 90%;" />
+      <img src="assets/media_2024-12_FAMAF_interview.png" alt="Media: FAMAF interview" style="max-width: 220px; width: 100%;" />
     </a>
   </div>
 </div>
@@ -305,7 +302,7 @@ Visit the challenge website: [Open coding challenge: Bottle sets](https://fertme
   </div>
   <div style="flex: 1;">
     <a href="https://science.unimelb.edu.au/engage/show-us-your-science" target="_blank">
-      <img src="assets/media_2024-07_Unimelb_Competition.png" alt="Media: Show us your Science competition" style="width: 90%;" />
+      <img src="assets/media_2024-07_Unimelb_Competition.png" alt="Media: Show us your Science competition" style="max-width: 220px; width: 100%;" />
     </a>
   </div>
 </div>
@@ -337,7 +334,8 @@ Visit the challenge website: [Open coding challenge: Bottle sets](https://fertme
 Peer-reviewed articles, thesis and projects — *hover or tap a tile to read the full title, click to open*:
 
 <div class="pub-grid">
-  <a class="pub-tile" href="https://arxiv.org/abs/2505.13675" target="_blank" rel="noopener"><span class="pub-venue">arXiv</span><span class="pub-year">2025</span><span class="pub-title">Temperature dependence of coercivity for isolated Ni nanowires unraveled by high-sensitivity micromagnetometry</span><span class="pub-cta">Open →</span></a>
+  <a class="pub-tile" href="https://iopscience.iop.org/article/10.1088/1361-6463/ae410e/meta" target="_blank" rel="noopener"><span class="pub-venue">J. Phys. D: Appl. Phys.</span><span class="pub-year">2026</span><span class="pub-title">Readout optimisation for spin-based quantum sensing using the nitrogen vacancy centre in diamond</span><span class="pub-cta">Open →</span></a>
+  <a class="pub-tile" href="https://journals.aps.org/prb/abstract/10.1103/dcf2-7rsc" target="_blank" rel="noopener"><span class="pub-venue">Physical Review B</span><span class="pub-year">2025</span><span class="pub-title">Temperature dependence of coercivity for isolated Ni nanowires unraveled by high-sensitivity micromagnetometry</span><span class="pub-cta">Open →</span></a>
   <a class="pub-tile" href="https://arxiv.org/abs/2502.14683" target="_blank" rel="noopener"><span class="pub-venue">arXiv</span><span class="pub-year">2025</span><span class="pub-title">Machine learning assisted tracking of magnetic objects using quantum diamond magnetometry</span><span class="pub-cta">Open →</span></a>
   <a class="pub-tile" href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.109.064416" target="_blank" rel="noopener"><span class="pub-venue">Physical Review B</span><span class="pub-year">2024</span><span class="pub-title">Stray magnetic field imaging of thin exfoliated iron halides flakes</span><span class="pub-cta">Open →</span></a>
   <a class="pub-tile" href="https://pubs.acs.org/doi/abs/10.1021/acsnano.3c01678" target="_blank" rel="noopener"><span class="pub-venue">ACS Nano</span><span class="pub-year">2023</span><span class="pub-title">Detection of Paramagnetic Spins with an Ultrathin van der Waals Quantum Sensor</span><span class="pub-cta">Open →</span></a>
@@ -358,27 +356,25 @@ Peer-reviewed articles, thesis and projects — *hover or tap a tile to read the
 
 ## National University of Córdoba
 
-<div style="display: flex; align-items: center; gap: 10px;">
-  <img src="assets/gallery_FAMAF_GCM.jpg" alt="FAMAF group" width="34%" />
-  <img src="assets/gallery_FAMAF_Nanowires.jpg" alt="FAMAF nanowires" width="33%" />
-  <img src="assets/gallery_FAMAF_AAO.png" alt="FAMAF alumina template" width="33%" />
+<div class="gallery-row">
+  <img src="assets/gallery_FAMAF_GCM.jpg" alt="FAMAF group" />
+  <img src="assets/gallery_FAMAF_Nanowires.jpg" alt="FAMAF nanowires" />
+  <img src="assets/gallery_FAMAF_AAO.png" alt="FAMAF alumina template" />
 </div>
 
 ## The University of Melbourne
 
-<div style="display: flex; align-items: center; gap: 10px;">
-  <img src="assets/gallery_Unimelb_Group.png" alt="Unimelb group" width="34%" />
-  <img src="assets/gallery_Unimelb_Optics.jpg" alt="Unimelb optics" width="33%" />
-  <img src="assets/gallery_Unimelb_cleanroom.jpg" alt="Unimelb cleanroom" width="33%" />
+<div class="gallery-row">
+  <img src="assets/gallery_Unimelb_Group.png" alt="Unimelb group" />
+  <img src="assets/gallery_Unimelb_Optics.jpg" alt="Unimelb optics" />
+  <img src="assets/gallery_Unimelb_cleanroom.jpg" alt="Unimelb cleanroom" />
 </div>
 
 ## City College of New York
 
-<div style="display: flex; align-items: center; gap: 10px;">
-  <img src="assets/gallery_CCNY_group.png" alt="CCNY group" width="50%" />
-  <img src="assets/gallery_CCNY_Optics.png" alt="CCNY optics" width="50%" />
-</div><br>
+<div class="gallery-row">
+  <img src="assets/gallery_CCNY_group.png" alt="CCNY group" />
+  <img src="assets/gallery_CCNY_Optics.png" alt="CCNY optics" />
+</div>
 
 -----
-
-[🔼 Back to top](#cv-and-links)
