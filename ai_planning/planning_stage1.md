@@ -71,3 +71,28 @@ Scientific Publication Updates:
 <a class="pub-tile" href="https://journals.aps.org/prb/abstract/10.1103/dcf2-7rsc" target="_blank" rel="noopener"><span class="pub-venue">Physical Review B</span><span class="pub-year">2025</span><span class="pub-title">Temperature dependence of coercivity for isolated Ni nanowires unraveled by high-sensitivity micromagnetometry</span><span class="pub-cta">Open →</span></a>
 - New publication: 
 <a class="pub-tile" href="https://iopscience.iop.org/article/10.1088/1361-6463/ae410e/meta" target="_blank" rel="noopener"><span class="pub-venue">J. Phys. D: Appl. Phys.</span><span class="pub-year">2026</span><span class="pub-title">Readout optimisation for spin-based quantum sensing using the nitrogen vacancy centre in diamond</span><span class="pub-cta">Open →</span></a>
+
+## Suggestions for next version V3
+
+Comments after version V2:
+
+Things I like:
+
+- The header is great now
+- Core competencies is much better
+- GitHub icon is great now
+- Gallery is great now
+
+Things I don't like:
+
+- In Core compentences, if we could introduce slight animations, like enlargement on tiles when hovering, or some color highlighting, that would be better.
+- The section CV and links looks poor compared to the other sections now. Let's implement something different there, such as tiles, but more creative.
+- The Career trajectory section now looks much worse! The icons for companies are too small (at least in wide screens), you should enlarge the column on the right, reduce the one on the left and at the same time enlarge the icons. Implement some creative layout as well, and/or animations. You can play with the icons, the date ranges, the titles and the contents of each work-element.
+- The crypto image is too small now, enlarge it so it occupies the same space as the text content (two paragraphs).
+- In the Quantum Sensing project, include all the text in the right column.
+- In the Noise Spectroscopy project, there is too wide space between the title and the first paragraph, and then between the description and the links
+- In the Titanic-disaster section, place all text and links on the right column.
+- In the Spaceship Titanic section, now the image is extremly small!
+- In the Bottle sets section, place all text and links to the right, enlarge the image a bit.
+- In Media releases, let's alternate images in left-right columns, starting on the left. For Graduates, enlarge the image 50% more.
+- Top menu: when you click a section, the screen goes to that section but the title is placed too low, it should place it on top.
