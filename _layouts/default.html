@@ -32,7 +32,7 @@
     <header id="site-nav" class="site-nav">
       <div class="nav-inner">
         <a class="nav-brand" href="#top">
-          <img src="{{ '/assets/website_icon_FM.jpg' | relative_url }}" alt="" class="nav-logo">
+          <img src="{{ '/assets/website_icon_FM.jpg' | relative_url }}" alt="" class="nav-logo" width="32" height="32">
           <span>{{ site.title | default: site.github.repository_name }}</span>
         </a>
 
@@ -126,6 +126,52 @@
             });
           }, { rootMargin: '0px 0px -10% 0px', threshold: 0.05 });
           revealables.forEach(function (el) { el.classList.add('reveal-init'); io.observe(el); });
+        }
+
+        // --- Career timeline: the line draws itself as the reader scrolls ---
+        var timelines = document.querySelectorAll('.timeline');
+        if (timelines.length && !reduce) {
+          var tlTicking = false;
+          function updateTimelines() {
+            tlTicking = false;
+            var vh = window.innerHeight;
+            timelines.forEach(function (tl) {
+              var r = tl.getBoundingClientRect();
+              var p = (vh * 0.6 - r.top) / r.height;
+              tl.style.setProperty('--tl-progress', Math.min(1, Math.max(0, p)).toFixed(3));
+            });
+          }
+          function onTimelineScroll() {
+            if (!tlTicking) { tlTicking = true; requestAnimationFrame(updateTimelines); }
+          }
+          window.addEventListener('scroll', onTimelineScroll, { passive: true });
+          window.addEventListener('resize', onTimelineScroll);
+          updateTimelines();
+        }
+
+        // --- Gallery: fade each photo in once it has loaded ---
+        document.querySelectorAll('.gallery-item img').forEach(function (img) {
+          if (img.complete) return;
+          img.classList.add('img-loading');
+          function done() { img.classList.remove('img-loading'); }
+          img.addEventListener('load', done);
+          img.addEventListener('error', done);
+        });
+
+        // --- Publication tiles: only titles that overflow two lines get the fade + expand ---
+        var pubTitles = document.querySelectorAll('.pub-title > span');
+        function markClamped() {
+          pubTitles.forEach(function (span) {
+            span.closest('.pub-tile').classList.toggle('clamped', span.scrollHeight > span.clientHeight + 1);
+          });
+        }
+        if (pubTitles.length) {
+          markClamped();
+          var pubResizeTimer;
+          window.addEventListener('resize', function () {
+            clearTimeout(pubResizeTimer);
+            pubResizeTimer = setTimeout(markClamped, 150);
+          });
         }
 
         // --- Publication tiles: tap-to-expand on touch devices ---

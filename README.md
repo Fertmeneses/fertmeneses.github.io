@@ -1,5 +1,5 @@
 <div class="hero">
-  <img src="assets/logo_image.png" alt="Fernando Meneses" class="hero-img" />
+  <img src="assets/logo_image.png" alt="Fernando Meneses" class="hero-img" width="474" height="568" />
   <p>With more than 10 years of experience in <strong>Data Analysis</strong> and <strong>Machine Learning</strong>, I am a skilled professional dedicated to solving complex problems by integrating <strong>agentic AI</strong>, <strong>ML programming</strong>, <strong>statistical analysis</strong> and the <strong>scientific method</strong>. I have successfully led international teams in developing and deploying advanced solutions, including <strong>deep learning</strong> models for <strong>predictive analysis</strong> and <strong>cybersecurity ML models</strong>.</p>
 </div>
 
@@ -20,103 +20,107 @@ Let's connect! Grab my CV or find me across these platforms:
 
 <div class="link-tiles">
   <a class="link-tile" href="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/CV_MENESES.pdf" target="_blank" rel="noopener"><span class="link-emoji">📄</span><span>Check my CV</span></a>
-  <a class="link-tile" href="https://www.linkedin.com/in/fernando-meneses-unc/" target="_blank" rel="noopener"><img src="assets/icon_LinkedIn.png" alt="LinkedIn icon" /><span>LinkedIn</span></a>
-  <a class="link-tile" href="https://github.com/Fertmeneses" target="_blank" rel="noopener"><img src="assets/icon_GitHub.png" alt="GitHub icon" /><span>GitHub</span></a>
-  <a class="link-tile" href="https://www.kaggle.com/fertmeneses" target="_blank" rel="noopener"><img src="assets/icon_kaggle.png" alt="Kaggle icon" /><span>Kaggle</span></a>
-  <a class="link-tile" href="https://www.cloudskillsboost.google/public_profiles/c7b2d285-55f5-4b4c-b0f8-f66418284cc1" target="_blank" rel="noopener"><img src="assets/icon_Google_Cloud_Skills.png" alt="Google Cloud Skills icon" /><span>Google Cloud Skills</span></a>
+  <a class="link-tile" href="https://www.linkedin.com/in/fernando-meneses-unc/" target="_blank" rel="noopener"><img src="assets/icon_LinkedIn.png" alt="LinkedIn icon" width="163" height="163" loading="lazy" decoding="async" /><span>LinkedIn</span></a>
+  <a class="link-tile" href="https://github.com/Fertmeneses" target="_blank" rel="noopener"><img src="assets/icon_GitHub.png" alt="GitHub icon" width="163" height="163" loading="lazy" decoding="async" /><span>GitHub</span></a>
+  <a class="link-tile" href="https://www.kaggle.com/fertmeneses" target="_blank" rel="noopener"><img src="assets/icon_kaggle.png" alt="Kaggle icon" width="116" height="151" loading="lazy" decoding="async" /><span>Kaggle</span></a>
+  <a class="link-tile" href="https://www.cloudskillsboost.google/public_profiles/c7b2d285-55f5-4b4c-b0f8-f66418284cc1" target="_blank" rel="noopener"><img src="assets/icon_Google_Cloud_Skills.png" alt="Google Cloud Skills icon" width="512" height="512" loading="lazy" decoding="async" /><span>Google Cloud Skills</span></a>
 </div>
 
 # Career trajectory
 
 ## Work experience
 
-<div class="job reveal">
-  <div class="job-icon"><a href="https://www.proofpoint.com/us" target="_blank" rel="noopener"><img src="assets/career_trajectory_Proofpoint.png" alt="Icon: Proofpoint" /></a></div>
-  <div class="job-body">
-    <span class="job-date">Sep 2025 – Ongoing</span>
-    <h3 class="job-title">Data Scientist – Cybersecurity</h3>
-    <ul>
-      <li>Analyze and model large-scale cybersecurity data to detect anomalies and improve attack detection strategies.</li>
-      <li>Develop and refine ML models, focusing on fraud detection, anomaly detection, NLP and predictive modeling.</li>
-      <li>Collaborate with engineers and MLOps specialists to deploy models and optimize data pipelines.</li>
-      <li>Monitor and evaluate model performance, ensuring robustness and accuracy in production.</li>
-    </ul>
-  </div>
-</div>
+<div class="timeline">
 
-<div class="job reveal">
-  <div class="job-icon"><a href="https://outlier.ai/" target="_blank" rel="noopener"><img src="assets/career_trajectory_Outlier.png" alt="Icon: Outlier" /></a></div>
-  <div class="job-body">
-    <span class="job-date">Jan 2025 – Aug 2025</span>
-    <h3 class="job-title">AI Consultant – Prompt engineering and Model evaluation</h3>
-    <ul>
-      <li>Developed high-quality structured prompts and Physics problems to train and evaluate LLM models.</li>
-      <li>Analyzed model outputs to identify reasoning gaps and propose targeted improvements.</li>
-      <li>Mentored junior consultants providing technical guidance and quality control for prompt engineering and evaluation workflows.</li>
-    </ul>
+  <div class="job reveal">
+    <div class="job-icon"><a href="https://www.proofpoint.com/us" target="_blank" rel="noopener"><img src="assets/career_trajectory_Proofpoint.png" alt="Icon: Proofpoint" width="1426" height="324" loading="lazy" decoding="async" /></a></div>
+    <div class="job-body">
+      <span class="job-date">Sep 2025 – Ongoing</span>
+      <h3 class="job-title">Data Scientist – Cybersecurity</h3>
+      <ul>
+        <li>Analyze and model large-scale cybersecurity data to detect anomalies and improve attack detection strategies.</li>
+        <li>Develop and refine ML models, focusing on fraud detection, anomaly detection, NLP and predictive modeling.</li>
+        <li>Collaborate with engineers and MLOps specialists to deploy models and optimize data pipelines.</li>
+        <li>Monitor and evaluate model performance, ensuring robustness and accuracy in production.</li>
+      </ul>
+    </div>
   </div>
-</div>
 
-<div class="job reveal">
-  <div class="job-icon"><a href="https://www.famaf.unc.edu.ar/" target="_blank" rel="noopener"><img src="assets/career_trajectory_UNC.png" alt="Icon: UNC" /></a></div>
-  <div class="job-body">
-    <span class="job-date">Dec 2024 – Aug 2025</span>
-    <h3 class="job-title">AI Research Lead – Nanotechnology Applications</h3>
-    <ul>
-      <li>Implemented Deep learning solutions to analyze complex physical systems and experimental data.</li>
-      <li>Applied computer vision, statistical analysis and predictive modeling in projects with industrial relevance.</li>
-      <li>Led cross-functional teams, fostering a collaborative and goal-oriented research environment.</li>
-      <li>Supervised junior researchers and students, providing mentorship in data analysis, scientific communication and project execution.</li>
-    </ul>
+  <div class="job reveal">
+    <div class="job-icon"><a href="https://outlier.ai/" target="_blank" rel="noopener"><img src="assets/career_trajectory_Outlier.png" alt="Icon: Outlier" width="545" height="186" loading="lazy" decoding="async" /></a></div>
+    <div class="job-body">
+      <span class="job-date">Jan 2025 – Aug 2025</span>
+      <h3 class="job-title">AI Consultant – Prompt engineering and Model evaluation</h3>
+      <ul>
+        <li>Developed high-quality structured prompts and Physics problems to train and evaluate LLM models.</li>
+        <li>Analyzed model outputs to identify reasoning gaps and propose targeted improvements.</li>
+        <li>Mentored junior consultants providing technical guidance and quality control for prompt engineering and evaluation workflows.</li>
+      </ul>
+    </div>
   </div>
-</div>
 
-<div class="job reveal">
-  <div class="job-icon"><a href="https://www.cqc2t.org/" target="_blank" rel="noopener"><img src="assets/career_trajectory_CQC2T.png" alt="Icon: CQC2T" /></a></div>
-  <div class="job-body">
-    <span class="job-date">Mar 2022 – Nov 2024</span>
-    <h3 class="job-title">ML Project Lead – Quantum Sensing Applications</h3>
-    <ul>
-      <li>Managed end-to-end ML pipelines, using ETL workflows to process both structured and unstructured data.</li>
-      <li>Collaborated with interdisciplinary teams to align model outputs with physical constraints and sensor requirements.</li>
-      <li>Applied Business Intelligence principles to create clear, impactful dashboards and data visualizations that supported decision-making across the team.</li>
-    </ul>
+  <div class="job reveal">
+    <div class="job-icon"><a href="https://www.famaf.unc.edu.ar/" target="_blank" rel="noopener"><img src="assets/career_trajectory_UNC.png" alt="Icon: UNC" width="545" height="186" loading="lazy" decoding="async" /></a></div>
+    <div class="job-body">
+      <span class="job-date">Dec 2024 – Aug 2025</span>
+      <h3 class="job-title">AI Research Lead – Nanotechnology Applications</h3>
+      <ul>
+        <li>Implemented Deep learning solutions to analyze complex physical systems and experimental data.</li>
+        <li>Applied computer vision, statistical analysis and predictive modeling in projects with industrial relevance.</li>
+        <li>Led cross-functional teams, fostering a collaborative and goal-oriented research environment.</li>
+        <li>Supervised junior researchers and students, providing mentorship in data analysis, scientific communication and project execution.</li>
+      </ul>
+    </div>
   </div>
-</div>
 
-<div class="job reveal">
-  <div class="job-icon"><a href="https://www.ccny.cuny.edu/" target="_blank" rel="noopener"><img src="assets/career_trajectory_CCNY.png" alt="Icon: CCNY" /></a></div>
-  <div class="job-body">
-    <span class="job-date">Apr 2020 – Feb 2022</span>
-    <h3 class="job-title">Data Scientist – Quantum Systems and ML Integration</h3>
-    <ul>
-      <li>Simulated synthetic datasets for training and validating machine learning models.</li>
-      <li>Applied statistical analysis techniques to analyze complex experimental and simulated data.</li>
-      <li>Engineered the interface between machine learning algorithms and quantum sensor hardware for seamless data ingestion.</li>
-    </ul>
+  <div class="job reveal">
+    <div class="job-icon"><a href="https://www.cqc2t.org/" target="_blank" rel="noopener"><img src="assets/career_trajectory_CQC2T.png" alt="Icon: CQC2T" width="516" height="134" loading="lazy" decoding="async" /></a></div>
+    <div class="job-body">
+      <span class="job-date">Mar 2022 – Nov 2024</span>
+      <h3 class="job-title">ML Project Lead – Quantum Sensing Applications</h3>
+      <ul>
+        <li>Managed end-to-end ML pipelines, using ETL workflows to process both structured and unstructured data.</li>
+        <li>Collaborated with interdisciplinary teams to align model outputs with physical constraints and sensor requirements.</li>
+        <li>Applied Business Intelligence principles to create clear, impactful dashboards and data visualizations that supported decision-making across the team.</li>
+      </ul>
+    </div>
   </div>
-</div>
 
-<div class="job reveal">
-  <div class="job-icon"><a href="https://www.conicet.gov.ar/" target="_blank" rel="noopener"><img src="assets/career_trajectory_CONICET.png" alt="Icon: CONICET" /></a></div>
-  <div class="job-body">
-    <span class="job-date">Mar 2015 – Mar 2020</span>
-    <h3 class="job-title">Data Scientist – Materials Science and Nanotechnology</h3>
-    <ul>
-      <li>Conducted advanced research on materials science and nanotechnology applications, leveraging data-driven approaches to solve complex scientific problems.</li>
-      <li>Performed comprehensive statistical analyses on experimental and simulation data to extract meaningful insights and validate hypotheses.</li>
-      <li>Collaborated with international research teams, coordinating data sharing and aligning project objectives across multidisciplinary groups.</li>
-      <li>Developed and maintained robust codebases and related tools for data processing, modeling, and visualization.</li>
-      <li>Managed project timelines, resources, and deliverables to ensure successful completion of research milestones.</li>
-      <li>Communicated research findings to both technical and non-technical audiences through reports, publications, and public outreach initiatives.</li>
-    </ul>
+  <div class="job reveal">
+    <div class="job-icon"><a href="https://www.ccny.cuny.edu/" target="_blank" rel="noopener"><img src="assets/career_trajectory_CCNY.png" alt="Icon: CCNY" width="545" height="167" loading="lazy" decoding="async" /></a></div>
+    <div class="job-body">
+      <span class="job-date">Apr 2020 – Feb 2022</span>
+      <h3 class="job-title">Data Scientist – Quantum Systems and ML Integration</h3>
+      <ul>
+        <li>Simulated synthetic datasets for training and validating machine learning models.</li>
+        <li>Applied statistical analysis techniques to analyze complex experimental and simulated data.</li>
+        <li>Engineered the interface between machine learning algorithms and quantum sensor hardware for seamless data ingestion.</li>
+      </ul>
+    </div>
   </div>
+
+  <div class="job reveal">
+    <div class="job-icon"><a href="https://www.conicet.gov.ar/" target="_blank" rel="noopener"><img src="assets/career_trajectory_CONICET.png" alt="Icon: CONICET" width="408" height="194" loading="lazy" decoding="async" /></a></div>
+    <div class="job-body">
+      <span class="job-date">Mar 2015 – Mar 2020</span>
+      <h3 class="job-title">Data Scientist – Materials Science and Nanotechnology</h3>
+      <ul>
+        <li>Conducted advanced research on materials science and nanotechnology applications, leveraging data-driven approaches to solve complex scientific problems.</li>
+        <li>Performed comprehensive statistical analyses on experimental and simulation data to extract meaningful insights and validate hypotheses.</li>
+        <li>Collaborated with international research teams, coordinating data sharing and aligning project objectives across multidisciplinary groups.</li>
+        <li>Developed and maintained robust codebases and related tools for data processing, modeling, and visualization.</li>
+        <li>Managed project timelines, resources, and deliverables to ensure successful completion of research milestones.</li>
+        <li>Communicated research findings to both technical and non-technical audiences through reports, publications, and public outreach initiatives.</li>
+      </ul>
+    </div>
+  </div>
+
 </div>
 
 ## Education
 
 <div class="job reveal">
-  <div class="job-icon"><a href="https://www.famaf.unc.edu.ar/" target="_blank" rel="noopener"><img src="assets/career_trajectory_UNC_simple.png" alt="Icon: UNC" /></a></div>
+  <div class="job-icon"><a href="https://www.famaf.unc.edu.ar/" target="_blank" rel="noopener"><img src="assets/career_trajectory_UNC_simple.png" alt="Icon: UNC" width="506" height="179" loading="lazy" decoding="async" /></a></div>
   <div class="job-body">
     <span class="job-date">Mar 2020</span>
     <h3 class="job-title">Physics PhD</h3>
@@ -132,7 +136,7 @@ Let's connect! Grab my CV or find me across these platforms:
 ## Crypto Pipeline Project
 
 <div class="project rev reveal">
-  <div class="project-media"><a href="https://fertmeneses.github.io/Crypto-Pipeline-Project/"><img src="assets/logo_Crypto_Project.png" alt="Project image" /></a></div>
+  <div class="project-media"><a href="https://fertmeneses.github.io/Crypto-Pipeline-Project/"><img src="assets/logo_Crypto_Project.png" alt="Project image" width="414" height="401" loading="lazy" decoding="async" /></a></div>
   <div class="project-text">
     <p>This project is about designing a whole <strong>pipeline for processing cryptocurrency information and make predictions in the future</strong>. Across 4 different stages, I have managed the various steps of the full process, starting by the <strong>Extract, Transform and Load (ETL)</strong> process, then performed <strong>data analysis and engineering</strong>, and finally built <strong>Machine Learning (ML) models</strong> that can predict the price of cryptocurrency 1 day ahead, based on the previous 7 days activity and other features.</p>
     <p>Visit the project summary: <a href="https://fertmeneses.github.io/Crypto-Pipeline-Project/">Crypto Pipeline Project</a>.</p>
@@ -142,7 +146,7 @@ Let's connect! Grab my CV or find me across these platforms:
 ## Quantum Sensing and Machine Learning applied to Object Monitoring
 
 <div class="project reveal">
-  <div class="project-media"><a href="https://fertmeneses.github.io/ML_QDM_Meneses_et_al/"><img src="assets/MLQDM_front.png" alt="Project image" /></a></div>
+  <div class="project-media"><a href="https://fertmeneses.github.io/ML_QDM_Meneses_et_al/"><img src="assets/MLQDM_front.png" alt="Project image" width="1080" height="1080" loading="lazy" decoding="async" /></a></div>
   <div class="project-text">
     <p>By combining <strong>quantum diamond magnetometry</strong> and <strong>machine learning algorithms</strong>, we have developed an <strong>integrated sensing platform capable of monitoring objects in real-time by measuring magnetic signals</strong>. This project exploits the advantages of magnetic sensing, a compelling alternative to traditional tracking systems like Global Positioning Systems (GPS), specially valuable in environments where GPS signals are unavailable, such as indoors, underground or underwater. <strong>Through Machine Learning analysis, we can process experimental measurements directly, bypassing the need of complex data physical models or simulations</strong>.</p>
     <p>Visit the project summary: <a href="https://fertmeneses.github.io/ML_QDM_Meneses_et_al/">Quantum Sensing and Machine Learning applied to Object Monitoring</a>.</p>
@@ -153,7 +157,7 @@ Let's connect! Grab my CV or find me across these platforms:
 ## Artificial Intelligence assisting Quantum Noise Spectroscopy
 
 <div class="project rev reveal">
-  <div class="project-media"><a href="https://fertmeneses.github.io/AI-quantum-noise-spectroscopy/"><img src="assets/Qubit_front.jpg" alt="Project image" /></a></div>
+  <div class="project-media"><a href="https://fertmeneses.github.io/AI-quantum-noise-spectroscopy/"><img src="assets/Qubit_front.jpg" alt="Project image" width="512" height="512" loading="lazy" decoding="async" /></a></div>
   <div class="project-text">
     <p><strong>Quantum diamond magnetometry</strong>, a sensing technique based on atomic defects in a diamond lattice, is a powerful tool to the <strong>magnetic environment</strong> of a sample and extract information about the <strong>noise spectral density</strong>.<br>In this project, we have incorporated <strong>Artificial Intelligence</strong> methods to train a deep learning neural network, using a large dataset comprised of simulations, and predict the noise spectrum for experimental magnetic signals. Our novel work has demonstrated an <strong>improved efficiency compared to traditional approaches</strong>, achieving more accurate results.</p>
     <p>Visit the project summary: <a href="https://fertmeneses.github.io/AI-quantum-noise-spectroscopy/">Deep Learning applied to Spectral Imaging of Magnetic Noise</a>.</p>
@@ -164,7 +168,7 @@ Let's connect! Grab my CV or find me across these platforms:
 ## Titanic: Machine Learning from disaster
 
 <div class="project reveal">
-  <div class="project-media"><a href="https://fertmeneses.github.io/titanic-ML-from-disaster/"><img src="assets/AI_image_summary.png" alt="Project image" /></a></div>
+  <div class="project-media"><a href="https://fertmeneses.github.io/titanic-ML-from-disaster/"><img src="assets/AI_image_summary.png" alt="Project image" width="735" height="735" loading="lazy" decoding="async" /></a></div>
   <div class="project-text">
     <p>This project is based on the famous <strong>Kaggle competition</strong>, in which a Machine Learning algorithm must be designed to predict which passengers survived the Titanic tragedy, based on a small and incomplete dataset. I've made a deep study for this challenge, exploring many <strong>feature engineering</strong> possibilities and <strong>AI architectures</strong>. My results are above the mean performance, although there is much room for improvement, and that's why I've documented my code and reasoning in a clear way and invite the readers to contribute with comments and suggestions.</p>
     <p>Visit the project summary: <a href="https://fertmeneses.github.io/titanic-ML-from-disaster/">Titanic - Machine Learning project</a>.</p>
@@ -175,7 +179,7 @@ Let's connect! Grab my CV or find me across these platforms:
 ## Spaceship Titanic: AI to the rescue
 
 <div class="project rev reveal">
-  <div class="project-media"><a href="https://www.kaggle.com/code/fertmeneses/spaceship-titanic-data-imputation" target="_blank" rel="noopener"><img src="assets/logo_titanic_spacehip.jpg" alt="Project image" /></a></div>
+  <div class="project-media"><a href="https://www.kaggle.com/code/fertmeneses/spaceship-titanic-data-imputation" target="_blank" rel="noopener"><img src="assets/logo_titanic_spacehip.jpg" alt="Project image" width="512" height="512" loading="lazy" decoding="async" /></a></div>
   <div class="project-text">
     <p>In this <strong>Kaggle competition</strong>, in the year 2912 the Titanic Spaceship was launched, and it met a similar fate as its old predecesor in a galaxy tragedy that sent half of the passengers to an alternative dimension. There's still time to rescue them, but we must first identify these passengers from a scarce information. In this project, the goal is to use <strong>Data Analysis and Machine Learning skills</strong> to predict which passengers where transported to the alternative dimensions.</p>
     <p>I've segmented my work in progressive stages, starting with data analysis and continuing with the Machine Learning implementation. You can check the three chapters, already published in Kaggle:</p>
@@ -190,7 +194,7 @@ Let's connect! Grab my CV or find me across these platforms:
 ## Open coding challenge: Bottle sets
 
 <div class="project reveal">
-  <div class="project-media" style="flex-basis: 225px;"><a href="https://fertmeneses.github.io/coding_challenge_bottle_sets/"><img src="assets/Image_AI_bottles.jpg" alt="Project image" /></a></div>
+  <div class="project-media" style="flex-basis: 225px;"><a href="https://fertmeneses.github.io/coding_challenge_bottle_sets/"><img src="assets/Image_AI_bottles.jpg" alt="Project image" width="512" height="512" loading="lazy" decoding="async" /></a></div>
   <div class="project-text">
     <p>Inspired in the challenges offered by the Turing platform, I've designed my own <strong>open coding challenge to develop both programming and data analysis skills</strong>. Anyone can attempt their own solution and try to pass all test cases. As in the original format, the users can attempt to reach the correct answers before 45 minutes, but they can also put the pressure aside and do it at their own pace. As a reference, I've included my own solution, explained my reasoning and broke down my code line by line.</p>
     <p>Visit the challenge website: <a href="https://fertmeneses.github.io/coding_challenge_bottle_sets/">Open coding challenge: Bottle sets</a>.</p>
@@ -200,7 +204,7 @@ Let's connect! Grab my CV or find me across these platforms:
 # Media releases
 
 <div class="project reveal">
-  <div class="project-media lg"><a href="https://www.instagram.com/famaf_unc/reel/DDfQBQdq0Rs/" target="_blank" rel="noopener"><img src="assets/media_2024-12_FAMAF_interview.png" alt="Media: FAMAF interview" /></a></div>
+  <div class="project-media lg"><a href="https://www.instagram.com/famaf_unc/reel/DDfQBQdq0Rs/" target="_blank" rel="noopener"><img src="assets/media_2024-12_FAMAF_interview.png" alt="Media: FAMAF interview" width="533" height="477" loading="lazy" decoding="async" /></a></div>
   <div class="project-text">
     <p><strong>Graduates in First Person | Fernando Meneses: A Closing Circle</strong>. <br>
     <em>Interview by FAMAF-UNC, December 2024</em>. <br>
@@ -211,7 +215,7 @@ Let's connect! Grab my CV or find me across these platforms:
 </div>
 
 <div class="project rev reveal">
-  <div class="project-media" style="flex-basis: 315px;"><a href="https://www.youtube.com/watch?v=5ZBcUqQFWfI" target="_blank" rel="noopener"><img src="assets/media_2024-10_Adamas_presentation.png" alt="Media: Adamas virtual lecture" /></a></div>
+  <div class="project-media" style="flex-basis: 315px;"><a href="https://www.youtube.com/watch?v=5ZBcUqQFWfI" target="_blank" rel="noopener"><img src="assets/media_2024-10_Adamas_presentation.png" alt="Media: Adamas virtual lecture" width="727" height="451" loading="lazy" decoding="async" /></a></div>
   <div class="project-text">
     <p><strong>Virtual Lectures Series on Nanodiamond</strong>. <br>
     <em>Program of cutting-edge nanodiamond and quantum diamond research, by Adamas Nanotechnologies, October 2024</em>.<br>
@@ -222,7 +226,7 @@ Let's connect! Grab my CV or find me across these platforms:
 </div>
 
 <div class="project reveal">
-  <div class="project-media"><a href="https://science.unimelb.edu.au/engage/show-us-your-science" target="_blank" rel="noopener"><img src="assets/media_2024-07_Unimelb_Competition.png" alt="Media: Show us your Science competition" /></a></div>
+  <div class="project-media"><a href="https://science.unimelb.edu.au/engage/show-us-your-science" target="_blank" rel="noopener"><img src="assets/media_2024-07_Unimelb_Competition.png" alt="Media: Show us your Science competition" width="609" height="521" loading="lazy" decoding="async" /></a></div>
   <div class="project-text">
     <p><strong>Show us your Science</strong>. <br>
     <em>Image competition organized by The University of Melbourne, July 2024</em>. <br>
@@ -232,7 +236,7 @@ Let's connect! Grab my CV or find me across these platforms:
 </div>
 
 <div class="project rev reveal">
-  <div class="project-media" style="flex-basis: 263px;"><a href="https://www.cadena3.com/noticia/viva-la-radio/defendio-su-tesis-de-manera-virtual-y-es-doctor-en-fisica_256904" target="_blank" rel="noopener"><img src="assets/media_2020-04_Cadena3_interview.png" alt="Media: Cadena 3 news article" /></a></div>
+  <div class="project-media" style="flex-basis: 263px;"><a href="https://www.cadena3.com/noticia/viva-la-radio/defendio-su-tesis-de-manera-virtual-y-es-doctor-en-fisica_256904" target="_blank" rel="noopener"><img src="assets/media_2020-04_Cadena3_interview.png" alt="Media: Cadena 3 news article" width="669" height="392" loading="lazy" decoding="async" /></a></div>
   <div class="project-text">
     <p><strong>News article: "He defended his thesis virtually and obtained his Physics PhD"</strong>.<br>
     <em>Interview published by news media Cadena 3, April 2020</em>.<br>
@@ -243,32 +247,32 @@ Let's connect! Grab my CV or find me across these platforms:
 
 # Scientific Publications
 
-<a href="https://scholar.google.com/citations?user=rYzKLRsAAAAJ&hl=en" target="_blank"> <img src="assets/icon_google_scholar.png" style="left: right; width: 4%;" alt="Google Scholar icon"/></a> <a href="https://scholar.google.com/citations?user=rYzKLRsAAAAJ&hl=en" target="_blank"> Google Scholar</a>
+<a href="https://scholar.google.com/citations?user=rYzKLRsAAAAJ&hl=en" target="_blank"> <img src="assets/icon_google_scholar.png" style="left: right; width: 4%;" alt="Google Scholar icon" width="175" height="175" loading="lazy" decoding="async" /></a> <a href="https://scholar.google.com/citations?user=rYzKLRsAAAAJ&hl=en" target="_blank"> Google Scholar</a>
 |
-<a href="https://orcid.org/0000-0003-3616-2928" target="_blank"> <img src="assets/icon_ORCID.png" style="left: right; width: 9%;" alt="ORCID icon"/></a> <a href="https://orcid.org/0000-0003-3616-2928" target="_blank"> ORCID</a>
+<a href="https://orcid.org/0000-0003-3616-2928" target="_blank"> <img src="assets/icon_ORCID.png" style="left: right; width: 9%;" alt="ORCID icon" width="384" height="130" loading="lazy" decoding="async" /></a> <a href="https://orcid.org/0000-0003-3616-2928" target="_blank"> ORCID</a>
 |
-<a href="https://www.researchgate.net/profile/Fernando-Meneses" target="_blank"> <img src="assets/icon_researchgate.png" style="left: right; width: 3.5%;" alt="ResearchGate icon"/></a> <a href="https://www.researchgate.net/profile/Fernando-Meneses" target="_blank"> ResearchGate</a>
+<a href="https://www.researchgate.net/profile/Fernando-Meneses" target="_blank"> <img src="assets/icon_researchgate.png" style="left: right; width: 3.5%;" alt="ResearchGate icon" width="167" height="167" loading="lazy" decoding="async" /></a> <a href="https://www.researchgate.net/profile/Fernando-Meneses" target="_blank"> ResearchGate</a>
 
 Peer-reviewed articles, thesis and projects — *hover or tap a tile to read the full title, click to open*:
 
 <div class="pub-grid">
-  <a class="pub-tile" href="https://www.sciencedirect.com/science/article/abs/pii/S0921510726005684" target="_blank" rel="noopener"><span class="pub-venue">MSEB</span><span class="pub-year">2026</span><span class="pub-title">Exchange-mediated reduction of magnetocrystalline anisotropy in textured Co-Pt nanowire arrays</span><span class="pub-cta">Open →</span></a>
-  <a class="pub-tile" href="https://iopscience.iop.org/article/10.1088/1361-6463/ae410e/meta" target="_blank" rel="noopener"><span class="pub-venue">J. Phys. D: Appl. Phys.</span><span class="pub-year">2026</span><span class="pub-title">Readout optimisation for spin-based quantum sensing using the nitrogen vacancy centre in diamond</span><span class="pub-cta">Open →</span></a>
-  <a class="pub-tile" href="https://journals.aps.org/prb/abstract/10.1103/dcf2-7rsc" target="_blank" rel="noopener"><span class="pub-venue">Physical Review B</span><span class="pub-year">2025</span><span class="pub-title">Temperature dependence of coercivity for isolated Ni nanowires unraveled by high-sensitivity micromagnetometry</span><span class="pub-cta">Open →</span></a>
-  <a class="pub-tile" href="https://arxiv.org/abs/2502.14683" target="_blank" rel="noopener"><span class="pub-venue">arXiv</span><span class="pub-year">2025</span><span class="pub-title">Machine learning assisted tracking of magnetic objects using quantum diamond magnetometry</span><span class="pub-cta">Open →</span></a>
-  <a class="pub-tile" href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.109.064416" target="_blank" rel="noopener"><span class="pub-venue">Physical Review B</span><span class="pub-year">2024</span><span class="pub-title">Stray magnetic field imaging of thin exfoliated iron halides flakes</span><span class="pub-cta">Open →</span></a>
-  <a class="pub-tile" href="https://pubs.acs.org/doi/abs/10.1021/acsnano.3c01678" target="_blank" rel="noopener"><span class="pub-venue">ACS Nano</span><span class="pub-year">2023</span><span class="pub-title">Detection of Paramagnetic Spins with an Ultrathin van der Waals Quantum Sensor</span><span class="pub-cta">Open →</span></a>
-  <a class="pub-tile" href="https://www.sciencedirect.com/science/article/abs/pii/S0304885323005796" target="_blank" rel="noopener"><span class="pub-venue">J. Magn. Magn. Mater.</span><span class="pub-year">2023</span><span class="pub-title">Effective anisotropy in Fe-Ni nanowire arrays with strong dipolar interaction</span><span class="pub-cta">Open →</span></a>
-  <a class="pub-tile" href="https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.18.024004" target="_blank" rel="noopener"><span class="pub-venue">Phys. Rev. Applied</span><span class="pub-year">2022</span><span class="pub-title">Toward Deep-Learning-Assisted Spectrally Resolved Imaging of Magnetic Noise</span><span class="pub-cta">Open →</span></a>
-  <a class="pub-tile" href="https://www.sciencedirect.com/science/article/pii/S2468217922000533" target="_blank" rel="noopener"><span class="pub-venue">J. Sci.: Adv. Mater. Dev.</span><span class="pub-year">2022</span><span class="pub-title">Nickel nanobrush platform for a magnetic field-assisted electrochemical response enhancement</span><span class="pub-cta">Open →</span></a>
-  <a class="pub-tile" href="https://www.sciencedirect.com/science/article/abs/pii/S0254058421013079" target="_blank" rel="noopener"><span class="pub-venue">Mater. Chem. Phys.</span><span class="pub-year">2022</span><span class="pub-title">Coating of aluminum substrates with nanostructured Pd–Ni alloys by electrodeposition</span><span class="pub-cta">Open →</span></a>
-  <a class="pub-tile" href="https://www.sciencedirect.com/science/article/abs/pii/S0921510720301768" target="_blank" rel="noopener"><span class="pub-venue">MSEB</span><span class="pub-year">2020</span><span class="pub-title">Enhanced in-plane magnetic anisotropy in thermally treated arrays of Co-Pt nanowires</span><span class="pub-cta">Open →</span></a>
-  <a class="pub-tile" href="https://www.researchgate.net/publication/369234523_Magnetic_and_electric_characterization_of_different_Ni_systems_comprising_cylindrical_nanowires" target="_blank" rel="noopener"><span class="pub-venue">Nova Sci. (book ch.)</span><span class="pub-year">2020</span><span class="pub-title">Magnetic and electric characterization of different Ni systems comprising cylindrical nanowires</span><span class="pub-cta">Open →</span></a>
-  <a class="pub-tile" href="https://www.sciencedirect.com/science/article/abs/pii/S1567173918301822" target="_blank" rel="noopener"><span class="pub-venue">Current Applied Physics</span><span class="pub-year">2018</span><span class="pub-title">Temperature dependence of the effective anisotropy in Ni nanowire arrays</span><span class="pub-cta">Open →</span></a>
-  <a class="pub-tile" href="https://www.sciencedirect.com/science/article/abs/pii/S0925838818324289" target="_blank" rel="noopener"><span class="pub-venue">J. Alloys Compd.</span><span class="pub-year">2018</span><span class="pub-title">L1₀-FeNi ordered phase in AC electrodeposited iron-nickel biphasic nanowires</span><span class="pub-cta">Open →</span></a>
-  <a class="pub-tile" href="https://www.scielo.br/j/rmat/a/VdqW9qyQnRrTZ5XDTJhsHYD/abstract/?lang=en" target="_blank" rel="noopener"><span class="pub-venue">Matéria (Rio de Janeiro)</span><span class="pub-year">2015</span><span class="pub-title">Influence of the porosity on the magnetic properties of Ni nanowires arrays</span><span class="pub-cta">Open →</span></a>
-  <a class="pub-tile" href="https://drive.google.com/drive/folders/14G7YtKs9L1--VpNOOlIMveMVX2rnMpoY?usp=sharing" target="_blank" rel="noopener"><span class="pub-venue">PhD thesis · UNC</span><span class="pub-year">2020</span><span class="pub-title">Magnetic nanowires: sample preparation and physico-chemical properties (dir. Prof. Paula Bercoff)</span><span class="pub-cta">Open →</span></a>
-  <a class="pub-tile" href="https://drive.google.com/drive/folders/14G7YtKs9L1--VpNOOlIMveMVX2rnMpoY?usp=sharing" target="_blank" rel="noopener"><span class="pub-venue">Physics degree · UNC</span><span class="pub-year">2015</span><span class="pub-title">Magnetic and structural properties of Ni nanowires in porous alumina templates (dir. Prof. Paula Bercoff)</span><span class="pub-cta">Open →</span></a>
+  <a class="pub-tile" href="https://www.sciencedirect.com/science/article/abs/pii/S0921510726005684" target="_blank" rel="noopener"><span class="pub-venue">MSEB</span><span class="pub-year">2026</span><span class="pub-title"><span>Exchange-mediated reduction of magnetocrystalline anisotropy in textured Co-Pt nanowire arrays</span></span><span class="pub-cta">Open →</span></a>
+  <a class="pub-tile" href="https://iopscience.iop.org/article/10.1088/1361-6463/ae410e/meta" target="_blank" rel="noopener"><span class="pub-venue">J. Phys. D: Appl. Phys.</span><span class="pub-year">2026</span><span class="pub-title"><span>Readout optimisation for spin-based quantum sensing using the nitrogen vacancy centre in diamond</span></span><span class="pub-cta">Open →</span></a>
+  <a class="pub-tile" href="https://journals.aps.org/prb/abstract/10.1103/dcf2-7rsc" target="_blank" rel="noopener"><span class="pub-venue">Physical Review B</span><span class="pub-year">2025</span><span class="pub-title"><span>Temperature dependence of coercivity for isolated Ni nanowires unraveled by high-sensitivity micromagnetometry</span></span><span class="pub-cta">Open →</span></a>
+  <a class="pub-tile" href="https://arxiv.org/abs/2502.14683" target="_blank" rel="noopener"><span class="pub-venue">arXiv</span><span class="pub-year">2025</span><span class="pub-title"><span>Machine learning assisted tracking of magnetic objects using quantum diamond magnetometry</span></span><span class="pub-cta">Open →</span></a>
+  <a class="pub-tile" href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.109.064416" target="_blank" rel="noopener"><span class="pub-venue">Physical Review B</span><span class="pub-year">2024</span><span class="pub-title"><span>Stray magnetic field imaging of thin exfoliated iron halides flakes</span></span><span class="pub-cta">Open →</span></a>
+  <a class="pub-tile" href="https://pubs.acs.org/doi/abs/10.1021/acsnano.3c01678" target="_blank" rel="noopener"><span class="pub-venue">ACS Nano</span><span class="pub-year">2023</span><span class="pub-title"><span>Detection of Paramagnetic Spins with an Ultrathin van der Waals Quantum Sensor</span></span><span class="pub-cta">Open →</span></a>
+  <a class="pub-tile" href="https://www.sciencedirect.com/science/article/abs/pii/S0304885323005796" target="_blank" rel="noopener"><span class="pub-venue">J. Magn. Magn. Mater.</span><span class="pub-year">2023</span><span class="pub-title"><span>Effective anisotropy in Fe-Ni nanowire arrays with strong dipolar interaction</span></span><span class="pub-cta">Open →</span></a>
+  <a class="pub-tile" href="https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.18.024004" target="_blank" rel="noopener"><span class="pub-venue">Phys. Rev. Applied</span><span class="pub-year">2022</span><span class="pub-title"><span>Toward Deep-Learning-Assisted Spectrally Resolved Imaging of Magnetic Noise</span></span><span class="pub-cta">Open →</span></a>
+  <a class="pub-tile" href="https://www.sciencedirect.com/science/article/pii/S2468217922000533" target="_blank" rel="noopener"><span class="pub-venue">J. Sci.: Adv. Mater. Dev.</span><span class="pub-year">2022</span><span class="pub-title"><span>Nickel nanobrush platform for a magnetic field-assisted electrochemical response enhancement</span></span><span class="pub-cta">Open →</span></a>
+  <a class="pub-tile" href="https://www.sciencedirect.com/science/article/abs/pii/S0254058421013079" target="_blank" rel="noopener"><span class="pub-venue">Mater. Chem. Phys.</span><span class="pub-year">2022</span><span class="pub-title"><span>Coating of aluminum substrates with nanostructured Pd–Ni alloys by electrodeposition</span></span><span class="pub-cta">Open →</span></a>
+  <a class="pub-tile" href="https://www.sciencedirect.com/science/article/abs/pii/S0921510720301768" target="_blank" rel="noopener"><span class="pub-venue">MSEB</span><span class="pub-year">2020</span><span class="pub-title"><span>Enhanced in-plane magnetic anisotropy in thermally treated arrays of Co-Pt nanowires</span></span><span class="pub-cta">Open →</span></a>
+  <a class="pub-tile" href="https://www.researchgate.net/publication/369234523_Magnetic_and_electric_characterization_of_different_Ni_systems_comprising_cylindrical_nanowires" target="_blank" rel="noopener"><span class="pub-venue">Nova Sci. (book ch.)</span><span class="pub-year">2020</span><span class="pub-title"><span>Magnetic and electric characterization of different Ni systems comprising cylindrical nanowires</span></span><span class="pub-cta">Open →</span></a>
+  <a class="pub-tile" href="https://www.sciencedirect.com/science/article/abs/pii/S1567173918301822" target="_blank" rel="noopener"><span class="pub-venue">Current Applied Physics</span><span class="pub-year">2018</span><span class="pub-title"><span>Temperature dependence of the effective anisotropy in Ni nanowire arrays</span></span><span class="pub-cta">Open →</span></a>
+  <a class="pub-tile" href="https://www.sciencedirect.com/science/article/abs/pii/S0925838818324289" target="_blank" rel="noopener"><span class="pub-venue">J. Alloys Compd.</span><span class="pub-year">2018</span><span class="pub-title"><span>L1₀-FeNi ordered phase in AC electrodeposited iron-nickel biphasic nanowires</span></span><span class="pub-cta">Open →</span></a>
+  <a class="pub-tile" href="https://www.scielo.br/j/rmat/a/VdqW9qyQnRrTZ5XDTJhsHYD/abstract/?lang=en" target="_blank" rel="noopener"><span class="pub-venue">Matéria (Rio de Janeiro)</span><span class="pub-year">2015</span><span class="pub-title"><span>Influence of the porosity on the magnetic properties of Ni nanowires arrays</span></span><span class="pub-cta">Open →</span></a>
+  <a class="pub-tile" href="https://drive.google.com/drive/folders/14G7YtKs9L1--VpNOOlIMveMVX2rnMpoY?usp=sharing" target="_blank" rel="noopener"><span class="pub-venue">PhD thesis · UNC</span><span class="pub-year">2020</span><span class="pub-title"><span>Magnetic nanowires: sample preparation and physico-chemical properties (dir. Prof. Paula Bercoff)</span></span><span class="pub-cta">Open →</span></a>
+  <a class="pub-tile" href="https://drive.google.com/drive/folders/14G7YtKs9L1--VpNOOlIMveMVX2rnMpoY?usp=sharing" target="_blank" rel="noopener"><span class="pub-venue">Physics degree · UNC</span><span class="pub-year">2015</span><span class="pub-title"><span>Magnetic and structural properties of Ni nanowires in porous alumina templates (dir. Prof. Paula Bercoff)</span></span><span class="pub-cta">Open →</span></a>
 </div>
 
 # Image Gallery
@@ -276,31 +280,31 @@ Peer-reviewed articles, thesis and projects — *hover or tap a tile to read the
 ## Proofpoint
 
 <div class="gallery-row">
-  <img src="assets/PFPT_group_2026.jpg" alt="Proofpoint group" />
-  <img src="assets/PFPT_meeting_auditorium.jpg" alt="Proofpoint meeting auditorium" />
+  <div class="gallery-item"><img src="assets/PFPT_group_2026.jpg" alt="Proofpoint group" width="2048" height="1365" loading="lazy" decoding="async" /></div>
+  <div class="gallery-item"><img src="assets/PFPT_meeting_auditorium.jpg" alt="Proofpoint meeting auditorium" width="2000" height="924" loading="lazy" decoding="async" /></div>
 </div>
 
 ## National University of Córdoba
 
 <div class="gallery-row">
-  <img src="assets/gallery_FAMAF_GCM.jpg" alt="FAMAF group" />
-  <img src="assets/gallery_FAMAF_Nanowires.jpg" alt="FAMAF nanowires" />
-  <img src="assets/gallery_FAMAF_AAO.png" alt="FAMAF alumina template" />
+  <div class="gallery-item"><img src="assets/gallery_FAMAF_GCM.jpg" alt="FAMAF group" width="800" height="542" loading="lazy" decoding="async" /></div>
+  <div class="gallery-item"><img src="assets/gallery_FAMAF_Nanowires.jpg" alt="FAMAF nanowires" width="1024" height="768" loading="lazy" decoding="async" /></div>
+  <div class="gallery-item"><img src="assets/gallery_FAMAF_AAO.png" alt="FAMAF alumina template" width="753" height="564" loading="lazy" decoding="async" /></div>
 </div>
 
 ## The University of Melbourne
 
 <div class="gallery-row">
-  <img src="assets/gallery_Unimelb_Group.png" alt="Unimelb group" />
-  <img src="assets/gallery_Unimelb_Optics.jpg" alt="Unimelb optics" />
-  <img src="assets/gallery_Unimelb_cleanroom.jpg" alt="Unimelb cleanroom" />
+  <div class="gallery-item"><img src="assets/gallery_Unimelb_Group.png" alt="Unimelb group" width="1020" height="680" loading="lazy" decoding="async" /></div>
+  <div class="gallery-item"><img src="assets/gallery_Unimelb_Optics.jpg" alt="Unimelb optics" width="3600" height="2402" loading="lazy" decoding="async" /></div>
+  <div class="gallery-item"><img src="assets/gallery_Unimelb_cleanroom.jpg" alt="Unimelb cleanroom" width="3600" height="2402" loading="lazy" decoding="async" /></div>
 </div>
 
 ## City College of New York
 
 <div class="gallery-row">
-  <img src="assets/gallery_CCNY_group.png" alt="CCNY group" />
-  <img src="assets/gallery_CCNY_Optics.png" alt="CCNY optics" />
+  <div class="gallery-item"><img src="assets/gallery_CCNY_group.png" alt="CCNY group" width="1948" height="804" loading="lazy" decoding="async" /></div>
+  <div class="gallery-item"><img src="assets/gallery_CCNY_Optics.png" alt="CCNY optics" width="1299" height="536" loading="lazy" decoding="async" /></div>
 </div>
 
 -----
