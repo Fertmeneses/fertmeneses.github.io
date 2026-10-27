@@ -30,91 +30,87 @@ Let's connect! Grab my CV or find me across these platforms:
 
 ## Work experience
 
-<div class="timeline">
-
-  <div class="job reveal">
-    <div class="job-icon"><a href="https://www.proofpoint.com/us" target="_blank" rel="noopener"><img src="assets/career_trajectory_Proofpoint.webp" alt="Icon: Proofpoint" width="420" height="96" loading="lazy" decoding="async" /></a></div>
-    <div class="job-body">
-      <span class="job-date">Sep 2025 – Ongoing</span>
-      <h3 class="job-title">Data Scientist – Cybersecurity</h3>
-      <ul>
-        <li>Analyze and model large-scale cybersecurity data to detect anomalies and improve attack detection strategies.</li>
-        <li>Develop and refine ML models, focusing on fraud detection, anomaly detection, NLP and predictive modeling.</li>
-        <li>Collaborate with engineers and MLOps specialists to deploy models and optimize data pipelines.</li>
-        <li>Monitor and evaluate model performance, ensuring robustness and accuracy in production.</li>
-      </ul>
-    </div>
+<div class="job reveal">
+  <div class="job-icon"><a href="https://www.proofpoint.com/us" target="_blank" rel="noopener"><img src="assets/career_trajectory_Proofpoint.webp" alt="Icon: Proofpoint" width="420" height="96" loading="lazy" decoding="async" /></a></div>
+  <div class="job-body">
+    <span class="job-date">Sep 2025 – Ongoing</span>
+    <h3 class="job-title">Data Scientist – Cybersecurity</h3>
+    <ul>
+      <li>Analyze and model large-scale cybersecurity data to detect anomalies and improve attack detection strategies.</li>
+      <li>Develop and refine ML models, focusing on fraud detection, anomaly detection, NLP and predictive modeling.</li>
+      <li>Collaborate with engineers and MLOps specialists to deploy models and optimize data pipelines.</li>
+      <li>Monitor and evaluate model performance, ensuring robustness and accuracy in production.</li>
+    </ul>
   </div>
+</div>
 
-  <div class="job reveal">
-    <div class="job-icon"><a href="https://outlier.ai/" target="_blank" rel="noopener"><img src="assets/career_trajectory_Outlier.webp" alt="Icon: Outlier" width="420" height="144" loading="lazy" decoding="async" /></a></div>
-    <div class="job-body">
-      <span class="job-date">Jan 2025 – Aug 2025</span>
-      <h3 class="job-title">AI Consultant – Prompt engineering and Model evaluation</h3>
-      <ul>
-        <li>Developed high-quality structured prompts and Physics problems to train and evaluate LLM models.</li>
-        <li>Analyzed model outputs to identify reasoning gaps and propose targeted improvements.</li>
-        <li>Mentored junior consultants providing technical guidance and quality control for prompt engineering and evaluation workflows.</li>
-      </ul>
-    </div>
+<div class="job reveal">
+  <div class="job-icon"><a href="https://outlier.ai/" target="_blank" rel="noopener"><img src="assets/career_trajectory_Outlier.webp" alt="Icon: Outlier" width="420" height="144" loading="lazy" decoding="async" /></a></div>
+  <div class="job-body">
+    <span class="job-date">Jan 2025 – Aug 2025</span>
+    <h3 class="job-title">AI Consultant – Prompt engineering and Model evaluation</h3>
+    <ul>
+      <li>Developed high-quality structured prompts and Physics problems to train and evaluate LLM models.</li>
+      <li>Analyzed model outputs to identify reasoning gaps and propose targeted improvements.</li>
+      <li>Mentored junior consultants providing technical guidance and quality control for prompt engineering and evaluation workflows.</li>
+    </ul>
   </div>
+</div>
 
-  <div class="job reveal">
-    <div class="job-icon"><a href="https://www.famaf.unc.edu.ar/" target="_blank" rel="noopener"><img src="assets/career_trajectory_UNC.webp" alt="Icon: UNC" width="420" height="144" loading="lazy" decoding="async" /></a></div>
-    <div class="job-body">
-      <span class="job-date">Dec 2024 – Aug 2025</span>
-      <h3 class="job-title">AI Research Lead – Nanotechnology Applications</h3>
-      <ul>
-        <li>Implemented Deep learning solutions to analyze complex physical systems and experimental data.</li>
-        <li>Applied computer vision, statistical analysis and predictive modeling in projects with industrial relevance.</li>
-        <li>Led cross-functional teams, fostering a collaborative and goal-oriented research environment.</li>
-        <li>Supervised junior researchers and students, providing mentorship in data analysis, scientific communication and project execution.</li>
-      </ul>
-    </div>
+<div class="job reveal">
+  <div class="job-icon"><a href="https://www.famaf.unc.edu.ar/" target="_blank" rel="noopener"><img src="assets/career_trajectory_UNC.webp" alt="Icon: UNC" width="420" height="144" loading="lazy" decoding="async" /></a></div>
+  <div class="job-body">
+    <span class="job-date">Dec 2024 – Aug 2025</span>
+    <h3 class="job-title">AI Research Lead – Nanotechnology Applications</h3>
+    <ul>
+      <li>Implemented Deep learning solutions to analyze complex physical systems and experimental data.</li>
+      <li>Applied computer vision, statistical analysis and predictive modeling in projects with industrial relevance.</li>
+      <li>Led cross-functional teams, fostering a collaborative and goal-oriented research environment.</li>
+      <li>Supervised junior researchers and students, providing mentorship in data analysis, scientific communication and project execution.</li>
+    </ul>
   </div>
+</div>
 
-  <div class="job reveal">
-    <div class="job-icon"><a href="https://www.cqc2t.org/" target="_blank" rel="noopener"><img src="assets/career_trajectory_CQC2T.webp" alt="Icon: CQC2T" width="420" height="110" loading="lazy" decoding="async" /></a></div>
-    <div class="job-body">
-      <span class="job-date">Mar 2022 – Nov 2024</span>
-      <h3 class="job-title">ML Project Lead – Quantum Sensing Applications</h3>
-      <ul>
-        <li>Managed end-to-end ML pipelines, using ETL workflows to process both structured and unstructured data.</li>
-        <li>Collaborated with interdisciplinary teams to align model outputs with physical constraints and sensor requirements.</li>
-        <li>Applied Business Intelligence principles to create clear, impactful dashboards and data visualizations that supported decision-making across the team.</li>
-      </ul>
-    </div>
+<div class="job reveal">
+  <div class="job-icon"><a href="https://www.cqc2t.org/" target="_blank" rel="noopener"><img src="assets/career_trajectory_CQC2T.webp" alt="Icon: CQC2T" width="420" height="110" loading="lazy" decoding="async" /></a></div>
+  <div class="job-body">
+    <span class="job-date">Mar 2022 – Nov 2024</span>
+    <h3 class="job-title">ML Project Lead – Quantum Sensing Applications</h3>
+    <ul>
+      <li>Managed end-to-end ML pipelines, using ETL workflows to process both structured and unstructured data.</li>
+      <li>Collaborated with interdisciplinary teams to align model outputs with physical constraints and sensor requirements.</li>
+      <li>Applied Business Intelligence principles to create clear, impactful dashboards and data visualizations that supported decision-making across the team.</li>
+    </ul>
   </div>
+</div>
 
-  <div class="job reveal">
-    <div class="job-icon"><a href="https://www.ccny.cuny.edu/" target="_blank" rel="noopener"><img src="assets/career_trajectory_CCNY.webp" alt="Icon: CCNY" width="420" height="129" loading="lazy" decoding="async" /></a></div>
-    <div class="job-body">
-      <span class="job-date">Apr 2020 – Feb 2022</span>
-      <h3 class="job-title">Data Scientist – Quantum Systems and ML Integration</h3>
-      <ul>
-        <li>Simulated synthetic datasets for training and validating machine learning models.</li>
-        <li>Applied statistical analysis techniques to analyze complex experimental and simulated data.</li>
-        <li>Engineered the interface between machine learning algorithms and quantum sensor hardware for seamless data ingestion.</li>
-      </ul>
-    </div>
+<div class="job reveal">
+  <div class="job-icon"><a href="https://www.ccny.cuny.edu/" target="_blank" rel="noopener"><img src="assets/career_trajectory_CCNY.webp" alt="Icon: CCNY" width="420" height="129" loading="lazy" decoding="async" /></a></div>
+  <div class="job-body">
+    <span class="job-date">Apr 2020 – Feb 2022</span>
+    <h3 class="job-title">Data Scientist – Quantum Systems and ML Integration</h3>
+    <ul>
+      <li>Simulated synthetic datasets for training and validating machine learning models.</li>
+      <li>Applied statistical analysis techniques to analyze complex experimental and simulated data.</li>
+      <li>Engineered the interface between machine learning algorithms and quantum sensor hardware for seamless data ingestion.</li>
+    </ul>
   </div>
+</div>
 
-  <div class="job reveal">
-    <div class="job-icon"><a href="https://www.conicet.gov.ar/" target="_blank" rel="noopener"><img src="assets/career_trajectory_CONICET.webp" alt="Icon: CONICET" width="408" height="194" loading="lazy" decoding="async" /></a></div>
-    <div class="job-body">
-      <span class="job-date">Mar 2015 – Mar 2020</span>
-      <h3 class="job-title">Data Scientist – Materials Science and Nanotechnology</h3>
-      <ul>
-        <li>Conducted advanced research on materials science and nanotechnology applications, leveraging data-driven approaches to solve complex scientific problems.</li>
-        <li>Performed comprehensive statistical analyses on experimental and simulation data to extract meaningful insights and validate hypotheses.</li>
-        <li>Collaborated with international research teams, coordinating data sharing and aligning project objectives across multidisciplinary groups.</li>
-        <li>Developed and maintained robust codebases and related tools for data processing, modeling, and visualization.</li>
-        <li>Managed project timelines, resources, and deliverables to ensure successful completion of research milestones.</li>
-        <li>Communicated research findings to both technical and non-technical audiences through reports, publications, and public outreach initiatives.</li>
-      </ul>
-    </div>
+<div class="job reveal">
+  <div class="job-icon"><a href="https://www.conicet.gov.ar/" target="_blank" rel="noopener"><img src="assets/career_trajectory_CONICET.webp" alt="Icon: CONICET" width="408" height="194" loading="lazy" decoding="async" /></a></div>
+  <div class="job-body">
+    <span class="job-date">Mar 2015 – Mar 2020</span>
+    <h3 class="job-title">Data Scientist – Materials Science and Nanotechnology</h3>
+    <ul>
+      <li>Conducted advanced research on materials science and nanotechnology applications, leveraging data-driven approaches to solve complex scientific problems.</li>
+      <li>Performed comprehensive statistical analyses on experimental and simulation data to extract meaningful insights and validate hypotheses.</li>
+      <li>Collaborated with international research teams, coordinating data sharing and aligning project objectives across multidisciplinary groups.</li>
+      <li>Developed and maintained robust codebases and related tools for data processing, modeling, and visualization.</li>
+      <li>Managed project timelines, resources, and deliverables to ensure successful completion of research milestones.</li>
+      <li>Communicated research findings to both technical and non-technical audiences through reports, publications, and public outreach initiatives.</li>
+    </ul>
   </div>
-
 </div>
 
 ## Education
