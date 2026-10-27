@@ -1,5 +1,5 @@
 <div class="hero">
-  <img src="assets/logo_image.png" alt="Fernando Meneses" class="hero-img" width="474" height="568" />
+  <img src="assets/logo_image.webp" alt="Fernando Meneses" class="hero-img" width="300" height="360" />
   <p>With more than 10 years of experience in <strong>Data Analysis</strong> and <strong>Machine Learning</strong>, I am a skilled professional dedicated to solving complex problems by integrating <strong>agentic AI</strong>, <strong>ML programming</strong>, <strong>statistical analysis</strong> and the <strong>scientific method</strong>. I have successfully led international teams in developing and deploying advanced solutions, including <strong>deep learning</strong> models for <strong>predictive analysis</strong> and <strong>cybersecurity ML models</strong>.</p>
 </div>
 
@@ -20,10 +20,10 @@ Let's connect! Grab my CV or find me across these platforms:
 
 <div class="link-tiles">
   <a class="link-tile" href="https://github.com/Fertmeneses/fertmeneses.github.io/blob/main/assets/CV_MENESES.pdf" target="_blank" rel="noopener"><span class="link-emoji">📄</span><span>Check my CV</span></a>
-  <a class="link-tile" href="https://www.linkedin.com/in/fernando-meneses-unc/" target="_blank" rel="noopener"><img src="assets/icon_LinkedIn.png" alt="LinkedIn icon" width="163" height="163" loading="lazy" decoding="async" /><span>LinkedIn</span></a>
-  <a class="link-tile" href="https://github.com/Fertmeneses" target="_blank" rel="noopener"><img src="assets/icon_GitHub.png" alt="GitHub icon" width="163" height="163" loading="lazy" decoding="async" /><span>GitHub</span></a>
-  <a class="link-tile" href="https://www.kaggle.com/fertmeneses" target="_blank" rel="noopener"><img src="assets/icon_kaggle.png" alt="Kaggle icon" width="116" height="151" loading="lazy" decoding="async" /><span>Kaggle</span></a>
-  <a class="link-tile" href="https://www.cloudskillsboost.google/public_profiles/c7b2d285-55f5-4b4c-b0f8-f66418284cc1" target="_blank" rel="noopener"><img src="assets/icon_Google_Cloud_Skills.png" alt="Google Cloud Skills icon" width="512" height="512" loading="lazy" decoding="async" /><span>Google Cloud Skills</span></a>
+  <a class="link-tile" href="https://www.linkedin.com/in/fernando-meneses-unc/" target="_blank" rel="noopener"><img src="assets/icon_LinkedIn.webp" alt="LinkedIn icon" width="80" height="80" loading="lazy" decoding="async" /><span>LinkedIn</span></a>
+  <a class="link-tile" href="https://github.com/Fertmeneses" target="_blank" rel="noopener"><img src="assets/icon_GitHub.webp" alt="GitHub icon" width="80" height="80" loading="lazy" decoding="async" /><span>GitHub</span></a>
+  <a class="link-tile" href="https://www.kaggle.com/fertmeneses" target="_blank" rel="noopener"><img src="assets/icon_kaggle.webp" alt="Kaggle icon" width="80" height="105" loading="lazy" decoding="async" /><span>Kaggle</span></a>
+  <a class="link-tile" href="https://www.cloudskillsboost.google/public_profiles/c7b2d285-55f5-4b4c-b0f8-f66418284cc1" target="_blank" rel="noopener"><img src="assets/icon_Google_Cloud_Skills.webp" alt="Google Cloud Skills icon" width="80" height="80" loading="lazy" decoding="async" /><span>Google Cloud Skills</span></a>
 </div>
 
 # Career trajectory
@@ -33,7 +33,7 @@ Let's connect! Grab my CV or find me across these platforms:
 <div class="timeline">
 
   <div class="job reveal">
-    <div class="job-icon"><a href="https://www.proofpoint.com/us" target="_blank" rel="noopener"><img src="assets/career_trajectory_Proofpoint.png" alt="Icon: Proofpoint" width="1426" height="324" loading="lazy" decoding="async" /></a></div>
+    <div class="job-icon"><a href="https://www.proofpoint.com/us" target="_blank" rel="noopener"><img src="assets/career_trajectory_Proofpoint.webp" alt="Icon: Proofpoint" width="420" height="96" loading="lazy" decoding="async" /></a></div>
     <div class="job-body">
       <span class="job-date">Sep 2025 – Ongoing</span>
       <h3 class="job-title">Data Scientist – Cybersecurity</h3>
@@ -47,7 +47,7 @@ Let's connect! Grab my CV or find me across these platforms:
   </div>
 
   <div class="job reveal">
-    <div class="job-icon"><a href="https://outlier.ai/" target="_blank" rel="noopener"><img src="assets/career_trajectory_Outlier.png" alt="Icon: Outlier" width="545" height="186" loading="lazy" decoding="async" /></a></div>
+    <div class="job-icon"><a href="https://outlier.ai/" target="_blank" rel="noopener"><img src="assets/career_trajectory_Outlier.webp" alt="Icon: Outlier" width="420" height="144" loading="lazy" decoding="async" /></a></div>
     <div class="job-body">
       <span class="job-date">Jan 2025 – Aug 2025</span>
       <h3 class="job-title">AI Consultant – Prompt engineering and Model evaluation</h3>
@@ -60,7 +60,7 @@ Let's connect! Grab my CV or find me across these platforms:
   </div>
 
   <div class="job reveal">
-    <div class="job-icon"><a href="https://www.famaf.unc.edu.ar/" target="_blank" rel="noopener"><img src="assets/career_trajectory_UNC.png" alt="Icon: UNC" width="545" height="186" loading="lazy" decoding="async" /></a></div>
+    <div class="job-icon"><a href="https://www.famaf.unc.edu.ar/" target="_blank" rel="noopener"><img src="assets/career_trajectory_UNC.webp" alt="Icon: UNC" width="420" height="144" loading="lazy" decoding="async" /></a></div>
     <div class="job-body">
       <span class="job-date">Dec 2024 – Aug 2025</span>
       <h3 class="job-title">AI Research Lead – Nanotechnology Applications</h3>
@@ -74,7 +74,7 @@ Let's connect! Grab my CV or find me across these platforms:
   </div>
 
   <div class="job reveal">
-    <div class="job-icon"><a href="https://www.cqc2t.org/" target="_blank" rel="noopener"><img src="assets/career_trajectory_CQC2T.png" alt="Icon: CQC2T" width="516" height="134" loading="lazy" decoding="async" /></a></div>
+    <div class="job-icon"><a href="https://www.cqc2t.org/" target="_blank" rel="noopener"><img src="assets/career_trajectory_CQC2T.webp" alt="Icon: CQC2T" width="420" height="110" loading="lazy" decoding="async" /></a></div>
     <div class="job-body">
       <span class="job-date">Mar 2022 – Nov 2024</span>
       <h3 class="job-title">ML Project Lead – Quantum Sensing Applications</h3>
@@ -87,7 +87,7 @@ Let's connect! Grab my CV or find me across these platforms:
   </div>
 
   <div class="job reveal">
-    <div class="job-icon"><a href="https://www.ccny.cuny.edu/" target="_blank" rel="noopener"><img src="assets/career_trajectory_CCNY.png" alt="Icon: CCNY" width="545" height="167" loading="lazy" decoding="async" /></a></div>
+    <div class="job-icon"><a href="https://www.ccny.cuny.edu/" target="_blank" rel="noopener"><img src="assets/career_trajectory_CCNY.webp" alt="Icon: CCNY" width="420" height="129" loading="lazy" decoding="async" /></a></div>
     <div class="job-body">
       <span class="job-date">Apr 2020 – Feb 2022</span>
       <h3 class="job-title">Data Scientist – Quantum Systems and ML Integration</h3>
@@ -100,7 +100,7 @@ Let's connect! Grab my CV or find me across these platforms:
   </div>
 
   <div class="job reveal">
-    <div class="job-icon"><a href="https://www.conicet.gov.ar/" target="_blank" rel="noopener"><img src="assets/career_trajectory_CONICET.png" alt="Icon: CONICET" width="408" height="194" loading="lazy" decoding="async" /></a></div>
+    <div class="job-icon"><a href="https://www.conicet.gov.ar/" target="_blank" rel="noopener"><img src="assets/career_trajectory_CONICET.webp" alt="Icon: CONICET" width="408" height="194" loading="lazy" decoding="async" /></a></div>
     <div class="job-body">
       <span class="job-date">Mar 2015 – Mar 2020</span>
       <h3 class="job-title">Data Scientist – Materials Science and Nanotechnology</h3>
@@ -120,7 +120,7 @@ Let's connect! Grab my CV or find me across these platforms:
 ## Education
 
 <div class="job reveal">
-  <div class="job-icon"><a href="https://www.famaf.unc.edu.ar/" target="_blank" rel="noopener"><img src="assets/career_trajectory_UNC_simple.png" alt="Icon: UNC" width="506" height="179" loading="lazy" decoding="async" /></a></div>
+  <div class="job-icon"><a href="https://www.famaf.unc.edu.ar/" target="_blank" rel="noopener"><img src="assets/career_trajectory_UNC_simple.webp" alt="Icon: UNC" width="420" height="149" loading="lazy" decoding="async" /></a></div>
   <div class="job-body">
     <span class="job-date">Mar 2020</span>
     <h3 class="job-title">Physics PhD</h3>
@@ -136,7 +136,7 @@ Let's connect! Grab my CV or find me across these platforms:
 ## Crypto Pipeline Project
 
 <div class="project rev reveal">
-  <div class="project-media"><a href="https://fertmeneses.github.io/Crypto-Pipeline-Project/"><img src="assets/logo_Crypto_Project.png" alt="Project image" width="414" height="401" loading="lazy" decoding="async" /></a></div>
+  <div class="project-media"><a href="https://fertmeneses.github.io/Crypto-Pipeline-Project/"><img src="assets/logo_Crypto_Project.webp" alt="Project image" width="414" height="401" loading="lazy" decoding="async" /></a></div>
   <div class="project-text">
     <p>This project is about designing a whole <strong>pipeline for processing cryptocurrency information and make predictions in the future</strong>. Across 4 different stages, I have managed the various steps of the full process, starting by the <strong>Extract, Transform and Load (ETL)</strong> process, then performed <strong>data analysis and engineering</strong>, and finally built <strong>Machine Learning (ML) models</strong> that can predict the price of cryptocurrency 1 day ahead, based on the previous 7 days activity and other features.</p>
     <p>Visit the project summary: <a href="https://fertmeneses.github.io/Crypto-Pipeline-Project/">Crypto Pipeline Project</a>.</p>
@@ -146,7 +146,7 @@ Let's connect! Grab my CV or find me across these platforms:
 ## Quantum Sensing and Machine Learning applied to Object Monitoring
 
 <div class="project reveal">
-  <div class="project-media"><a href="https://fertmeneses.github.io/ML_QDM_Meneses_et_al/"><img src="assets/MLQDM_front.png" alt="Project image" width="1080" height="1080" loading="lazy" decoding="async" /></a></div>
+  <div class="project-media"><a href="https://fertmeneses.github.io/ML_QDM_Meneses_et_al/"><img src="assets/MLQDM_front.webp" alt="Project image" width="600" height="600" loading="lazy" decoding="async" /></a></div>
   <div class="project-text">
     <p>By combining <strong>quantum diamond magnetometry</strong> and <strong>machine learning algorithms</strong>, we have developed an <strong>integrated sensing platform capable of monitoring objects in real-time by measuring magnetic signals</strong>. This project exploits the advantages of magnetic sensing, a compelling alternative to traditional tracking systems like Global Positioning Systems (GPS), specially valuable in environments where GPS signals are unavailable, such as indoors, underground or underwater. <strong>Through Machine Learning analysis, we can process experimental measurements directly, bypassing the need of complex data physical models or simulations</strong>.</p>
     <p>Visit the project summary: <a href="https://fertmeneses.github.io/ML_QDM_Meneses_et_al/">Quantum Sensing and Machine Learning applied to Object Monitoring</a>.</p>
@@ -157,7 +157,7 @@ Let's connect! Grab my CV or find me across these platforms:
 ## Artificial Intelligence assisting Quantum Noise Spectroscopy
 
 <div class="project rev reveal">
-  <div class="project-media"><a href="https://fertmeneses.github.io/AI-quantum-noise-spectroscopy/"><img src="assets/Qubit_front.jpg" alt="Project image" width="512" height="512" loading="lazy" decoding="async" /></a></div>
+  <div class="project-media"><a href="https://fertmeneses.github.io/AI-quantum-noise-spectroscopy/"><img src="assets/Qubit_front.webp" alt="Project image" width="512" height="512" loading="lazy" decoding="async" /></a></div>
   <div class="project-text">
     <p><strong>Quantum diamond magnetometry</strong>, a sensing technique based on atomic defects in a diamond lattice, is a powerful tool to the <strong>magnetic environment</strong> of a sample and extract information about the <strong>noise spectral density</strong>.<br>In this project, we have incorporated <strong>Artificial Intelligence</strong> methods to train a deep learning neural network, using a large dataset comprised of simulations, and predict the noise spectrum for experimental magnetic signals. Our novel work has demonstrated an <strong>improved efficiency compared to traditional approaches</strong>, achieving more accurate results.</p>
     <p>Visit the project summary: <a href="https://fertmeneses.github.io/AI-quantum-noise-spectroscopy/">Deep Learning applied to Spectral Imaging of Magnetic Noise</a>.</p>
@@ -168,7 +168,7 @@ Let's connect! Grab my CV or find me across these platforms:
 ## Titanic: Machine Learning from disaster
 
 <div class="project reveal">
-  <div class="project-media"><a href="https://fertmeneses.github.io/titanic-ML-from-disaster/"><img src="assets/AI_image_summary.png" alt="Project image" width="735" height="735" loading="lazy" decoding="async" /></a></div>
+  <div class="project-media"><a href="https://fertmeneses.github.io/titanic-ML-from-disaster/"><img src="assets/AI_image_summary.webp" alt="Project image" width="600" height="600" loading="lazy" decoding="async" /></a></div>
   <div class="project-text">
     <p>This project is based on the famous <strong>Kaggle competition</strong>, in which a Machine Learning algorithm must be designed to predict which passengers survived the Titanic tragedy, based on a small and incomplete dataset. I've made a deep study for this challenge, exploring many <strong>feature engineering</strong> possibilities and <strong>AI architectures</strong>. My results are above the mean performance, although there is much room for improvement, and that's why I've documented my code and reasoning in a clear way and invite the readers to contribute with comments and suggestions.</p>
     <p>Visit the project summary: <a href="https://fertmeneses.github.io/titanic-ML-from-disaster/">Titanic - Machine Learning project</a>.</p>
@@ -179,7 +179,7 @@ Let's connect! Grab my CV or find me across these platforms:
 ## Spaceship Titanic: AI to the rescue
 
 <div class="project rev reveal">
-  <div class="project-media"><a href="https://www.kaggle.com/code/fertmeneses/spaceship-titanic-data-imputation" target="_blank" rel="noopener"><img src="assets/logo_titanic_spacehip.jpg" alt="Project image" width="512" height="512" loading="lazy" decoding="async" /></a></div>
+  <div class="project-media"><a href="https://www.kaggle.com/code/fertmeneses/spaceship-titanic-data-imputation" target="_blank" rel="noopener"><img src="assets/logo_titanic_spacehip.webp" alt="Project image" width="512" height="512" loading="lazy" decoding="async" /></a></div>
   <div class="project-text">
     <p>In this <strong>Kaggle competition</strong>, in the year 2912 the Titanic Spaceship was launched, and it met a similar fate as its old predecesor in a galaxy tragedy that sent half of the passengers to an alternative dimension. There's still time to rescue them, but we must first identify these passengers from a scarce information. In this project, the goal is to use <strong>Data Analysis and Machine Learning skills</strong> to predict which passengers where transported to the alternative dimensions.</p>
     <p>I've segmented my work in progressive stages, starting with data analysis and continuing with the Machine Learning implementation. You can check the three chapters, already published in Kaggle:</p>
@@ -194,7 +194,7 @@ Let's connect! Grab my CV or find me across these platforms:
 ## Open coding challenge: Bottle sets
 
 <div class="project reveal">
-  <div class="project-media" style="flex-basis: 225px;"><a href="https://fertmeneses.github.io/coding_challenge_bottle_sets/"><img src="assets/Image_AI_bottles.jpg" alt="Project image" width="512" height="512" loading="lazy" decoding="async" /></a></div>
+  <div class="project-media" style="flex-basis: 225px;"><a href="https://fertmeneses.github.io/coding_challenge_bottle_sets/"><img src="assets/Image_AI_bottles.webp" alt="Project image" width="512" height="512" loading="lazy" decoding="async" /></a></div>
   <div class="project-text">
     <p>Inspired in the challenges offered by the Turing platform, I've designed my own <strong>open coding challenge to develop both programming and data analysis skills</strong>. Anyone can attempt their own solution and try to pass all test cases. As in the original format, the users can attempt to reach the correct answers before 45 minutes, but they can also put the pressure aside and do it at their own pace. As a reference, I've included my own solution, explained my reasoning and broke down my code line by line.</p>
     <p>Visit the challenge website: <a href="https://fertmeneses.github.io/coding_challenge_bottle_sets/">Open coding challenge: Bottle sets</a>.</p>
@@ -204,7 +204,7 @@ Let's connect! Grab my CV or find me across these platforms:
 # Media releases
 
 <div class="project reveal">
-  <div class="project-media lg"><a href="https://www.instagram.com/famaf_unc/reel/DDfQBQdq0Rs/" target="_blank" rel="noopener"><img src="assets/media_2024-12_FAMAF_interview.png" alt="Media: FAMAF interview" width="533" height="477" loading="lazy" decoding="async" /></a></div>
+  <div class="project-media lg"><a href="https://www.instagram.com/famaf_unc/reel/DDfQBQdq0Rs/" target="_blank" rel="noopener"><img src="assets/media_2024-12_FAMAF_interview.webp" alt="Media: FAMAF interview" width="533" height="477" loading="lazy" decoding="async" /></a></div>
   <div class="project-text">
     <p><strong>Graduates in First Person | Fernando Meneses: A Closing Circle</strong>. <br>
     <em>Interview by FAMAF-UNC, December 2024</em>. <br>
@@ -215,7 +215,7 @@ Let's connect! Grab my CV or find me across these platforms:
 </div>
 
 <div class="project rev reveal">
-  <div class="project-media" style="flex-basis: 315px;"><a href="https://www.youtube.com/watch?v=5ZBcUqQFWfI" target="_blank" rel="noopener"><img src="assets/media_2024-10_Adamas_presentation.png" alt="Media: Adamas virtual lecture" width="727" height="451" loading="lazy" decoding="async" /></a></div>
+  <div class="project-media" style="flex-basis: 315px;"><a href="https://www.youtube.com/watch?v=5ZBcUqQFWfI" target="_blank" rel="noopener"><img src="assets/media_2024-10_Adamas_presentation.webp" alt="Media: Adamas virtual lecture" width="630" height="391" loading="lazy" decoding="async" /></a></div>
   <div class="project-text">
     <p><strong>Virtual Lectures Series on Nanodiamond</strong>. <br>
     <em>Program of cutting-edge nanodiamond and quantum diamond research, by Adamas Nanotechnologies, October 2024</em>.<br>
@@ -226,7 +226,7 @@ Let's connect! Grab my CV or find me across these platforms:
 </div>
 
 <div class="project reveal">
-  <div class="project-media"><a href="https://science.unimelb.edu.au/engage/show-us-your-science" target="_blank" rel="noopener"><img src="assets/media_2024-07_Unimelb_Competition.png" alt="Media: Show us your Science competition" width="609" height="521" loading="lazy" decoding="async" /></a></div>
+  <div class="project-media"><a href="https://science.unimelb.edu.au/engage/show-us-your-science" target="_blank" rel="noopener"><img src="assets/media_2024-07_Unimelb_Competition.webp" alt="Media: Show us your Science competition" width="600" height="514" loading="lazy" decoding="async" /></a></div>
   <div class="project-text">
     <p><strong>Show us your Science</strong>. <br>
     <em>Image competition organized by The University of Melbourne, July 2024</em>. <br>
@@ -236,7 +236,7 @@ Let's connect! Grab my CV or find me across these platforms:
 </div>
 
 <div class="project rev reveal">
-  <div class="project-media" style="flex-basis: 263px;"><a href="https://www.cadena3.com/noticia/viva-la-radio/defendio-su-tesis-de-manera-virtual-y-es-doctor-en-fisica_256904" target="_blank" rel="noopener"><img src="assets/media_2020-04_Cadena3_interview.png" alt="Media: Cadena 3 news article" width="669" height="392" loading="lazy" decoding="async" /></a></div>
+  <div class="project-media" style="flex-basis: 263px;"><a href="https://www.cadena3.com/noticia/viva-la-radio/defendio-su-tesis-de-manera-virtual-y-es-doctor-en-fisica_256904" target="_blank" rel="noopener"><img src="assets/media_2020-04_Cadena3_interview.webp" alt="Media: Cadena 3 news article" width="600" height="352" loading="lazy" decoding="async" /></a></div>
   <div class="project-text">
     <p><strong>News article: "He defended his thesis virtually and obtained his Physics PhD"</strong>.<br>
     <em>Interview published by news media Cadena 3, April 2020</em>.<br>
@@ -247,11 +247,11 @@ Let's connect! Grab my CV or find me across these platforms:
 
 # Scientific Publications
 
-<a href="https://scholar.google.com/citations?user=rYzKLRsAAAAJ&hl=en" target="_blank"> <img src="assets/icon_google_scholar.png" style="left: right; width: 4%;" alt="Google Scholar icon" width="175" height="175" loading="lazy" decoding="async" /></a> <a href="https://scholar.google.com/citations?user=rYzKLRsAAAAJ&hl=en" target="_blank"> Google Scholar</a>
+<a href="https://scholar.google.com/citations?user=rYzKLRsAAAAJ&hl=en" target="_blank"> <img src="assets/icon_google_scholar.webp" style="left: right; width: 4%;" alt="Google Scholar icon" width="100" height="100" loading="lazy" decoding="async" /></a> <a href="https://scholar.google.com/citations?user=rYzKLRsAAAAJ&hl=en" target="_blank"> Google Scholar</a>
 |
-<a href="https://orcid.org/0000-0003-3616-2928" target="_blank"> <img src="assets/icon_ORCID.png" style="left: right; width: 9%;" alt="ORCID icon" width="384" height="130" loading="lazy" decoding="async" /></a> <a href="https://orcid.org/0000-0003-3616-2928" target="_blank"> ORCID</a>
+<a href="https://orcid.org/0000-0003-3616-2928" target="_blank"> <img src="assets/icon_ORCID.webp" style="left: right; width: 9%;" alt="ORCID icon" width="200" height="68" loading="lazy" decoding="async" /></a> <a href="https://orcid.org/0000-0003-3616-2928" target="_blank"> ORCID</a>
 |
-<a href="https://www.researchgate.net/profile/Fernando-Meneses" target="_blank"> <img src="assets/icon_researchgate.png" style="left: right; width: 3.5%;" alt="ResearchGate icon" width="167" height="167" loading="lazy" decoding="async" /></a> <a href="https://www.researchgate.net/profile/Fernando-Meneses" target="_blank"> ResearchGate</a>
+<a href="https://www.researchgate.net/profile/Fernando-Meneses" target="_blank"> <img src="assets/icon_researchgate.webp" style="left: right; width: 3.5%;" alt="ResearchGate icon" width="100" height="100" loading="lazy" decoding="async" /></a> <a href="https://www.researchgate.net/profile/Fernando-Meneses" target="_blank"> ResearchGate</a>
 
 Peer-reviewed articles, thesis and projects — *hover or tap a tile to read the full title, click to open*:
 
@@ -280,31 +280,31 @@ Peer-reviewed articles, thesis and projects — *hover or tap a tile to read the
 ## Proofpoint
 
 <div class="gallery-row">
-  <div class="gallery-item"><img src="assets/PFPT_group_2026.jpg" alt="Proofpoint group" width="2048" height="1365" loading="lazy" decoding="async" /></div>
-  <div class="gallery-item"><img src="assets/PFPT_meeting_auditorium.jpg" alt="Proofpoint meeting auditorium" width="2000" height="924" loading="lazy" decoding="async" /></div>
+  <div class="gallery-item"><img src="assets/PFPT_group_2026_1400.webp" srcset="assets/PFPT_group_2026_700.webp 700w, assets/PFPT_group_2026_1400.webp 1400w" sizes="(max-width: 820px) 60vw, 640px" alt="Proofpoint group" width="1400" height="934" loading="lazy" decoding="async" /></div>
+  <div class="gallery-item"><img src="assets/PFPT_meeting_auditorium_1400.webp" srcset="assets/PFPT_meeting_auditorium_700.webp 700w, assets/PFPT_meeting_auditorium_1400.webp 1400w" sizes="(max-width: 820px) 60vw, 640px" alt="Proofpoint meeting auditorium" width="1400" height="647" loading="lazy" decoding="async" /></div>
 </div>
 
 ## National University of Córdoba
 
 <div class="gallery-row">
-  <div class="gallery-item"><img src="assets/gallery_FAMAF_GCM.jpg" alt="FAMAF group" width="800" height="542" loading="lazy" decoding="async" /></div>
-  <div class="gallery-item"><img src="assets/gallery_FAMAF_Nanowires.jpg" alt="FAMAF nanowires" width="1024" height="768" loading="lazy" decoding="async" /></div>
-  <div class="gallery-item"><img src="assets/gallery_FAMAF_AAO.png" alt="FAMAF alumina template" width="753" height="564" loading="lazy" decoding="async" /></div>
+  <div class="gallery-item"><img src="assets/gallery_FAMAF_GCM_1400.webp" srcset="assets/gallery_FAMAF_GCM_700.webp 700w, assets/gallery_FAMAF_GCM_1400.webp 800w" sizes="(max-width: 820px) 45vw, 420px" alt="FAMAF group" width="800" height="542" loading="lazy" decoding="async" /></div>
+  <div class="gallery-item"><img src="assets/gallery_FAMAF_Nanowires_1400.webp" srcset="assets/gallery_FAMAF_Nanowires_700.webp 700w, assets/gallery_FAMAF_Nanowires_1400.webp 1024w" sizes="(max-width: 820px) 45vw, 420px" alt="FAMAF nanowires" width="1024" height="768" loading="lazy" decoding="async" /></div>
+  <div class="gallery-item"><img src="assets/gallery_FAMAF_AAO_1400.webp" srcset="assets/gallery_FAMAF_AAO_700.webp 700w, assets/gallery_FAMAF_AAO_1400.webp 753w" sizes="(max-width: 820px) 45vw, 420px" alt="FAMAF alumina template" width="753" height="564" loading="lazy" decoding="async" /></div>
 </div>
 
 ## The University of Melbourne
 
 <div class="gallery-row">
-  <div class="gallery-item"><img src="assets/gallery_Unimelb_Group.png" alt="Unimelb group" width="1020" height="680" loading="lazy" decoding="async" /></div>
-  <div class="gallery-item"><img src="assets/gallery_Unimelb_Optics.jpg" alt="Unimelb optics" width="3600" height="2402" loading="lazy" decoding="async" /></div>
-  <div class="gallery-item"><img src="assets/gallery_Unimelb_cleanroom.jpg" alt="Unimelb cleanroom" width="3600" height="2402" loading="lazy" decoding="async" /></div>
+  <div class="gallery-item"><img src="assets/gallery_Unimelb_Group_1400.webp" srcset="assets/gallery_Unimelb_Group_700.webp 700w, assets/gallery_Unimelb_Group_1400.webp 1020w" sizes="(max-width: 820px) 45vw, 420px" alt="Unimelb group" width="1020" height="680" loading="lazy" decoding="async" /></div>
+  <div class="gallery-item"><img src="assets/gallery_Unimelb_Optics_1400.webp" srcset="assets/gallery_Unimelb_Optics_700.webp 700w, assets/gallery_Unimelb_Optics_1400.webp 1400w" sizes="(max-width: 820px) 45vw, 420px" alt="Unimelb optics" width="1400" height="935" loading="lazy" decoding="async" /></div>
+  <div class="gallery-item"><img src="assets/gallery_Unimelb_cleanroom_1400.webp" srcset="assets/gallery_Unimelb_cleanroom_700.webp 700w, assets/gallery_Unimelb_cleanroom_1400.webp 1400w" sizes="(max-width: 820px) 45vw, 420px" alt="Unimelb cleanroom" width="1400" height="935" loading="lazy" decoding="async" /></div>
 </div>
 
 ## City College of New York
 
 <div class="gallery-row">
-  <div class="gallery-item"><img src="assets/gallery_CCNY_group.png" alt="CCNY group" width="1948" height="804" loading="lazy" decoding="async" /></div>
-  <div class="gallery-item"><img src="assets/gallery_CCNY_Optics.png" alt="CCNY optics" width="1299" height="536" loading="lazy" decoding="async" /></div>
+  <div class="gallery-item"><img src="assets/gallery_CCNY_group_1400.webp" srcset="assets/gallery_CCNY_group_700.webp 700w, assets/gallery_CCNY_group_1400.webp 1400w" sizes="(max-width: 820px) 60vw, 640px" alt="CCNY group" width="1400" height="578" loading="lazy" decoding="async" /></div>
+  <div class="gallery-item"><img src="assets/gallery_CCNY_Optics_1400.webp" srcset="assets/gallery_CCNY_Optics_700.webp 700w, assets/gallery_CCNY_Optics_1400.webp 1299w" sizes="(max-width: 820px) 60vw, 640px" alt="CCNY optics" width="1299" height="536" loading="lazy" decoding="async" /></div>
 </div>
 
 -----
